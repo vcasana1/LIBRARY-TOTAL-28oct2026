@@ -1,7 +1,7 @@
 # Erratas de Ivić, *The Riemann Zeta-Function* (Wiley 1985 / Dover 2003)
 
 **Procedencia.** Transcritas por OCR (tesseract, 300 dpi) de las páginas xvii–xix
-de `176_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` (páginas 15–17 del PDF), donde
+de `180_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` (páginas 15–17 del PDF), donde
 Dover incluyó la lista de erratas. Fecha: 2026-08-19.
 
 **Aviso.** El OCR sobre fórmulas es poco fiable: los símbolos matemáticos de abajo
@@ -13,7 +13,7 @@ la corrección.
 **Alcance.** La edición Dover 2003 es una *unabridged republication* de la Wiley
 1985 (así lo declara su página de copyright): el cuerpo del libro y su paginación
 son idénticos. Por tanto **estas erratas se aplican igual a
-`174_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf`**, que no las incluye.
+`178_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf`**, que no las incluye.
 
 ## Páginas con errata (índice rápido)
 
