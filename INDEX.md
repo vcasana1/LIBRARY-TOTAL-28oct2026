@@ -39,6 +39,7 @@ Comprobado el 2026-08-19. Al citarlos hay que decir que no están aquí.
 - **Platt & Trudgian**, *An improved explicit bound on |ζ(1/2+it)|*, arXiv:1402.3953; J. Number Theory **147** (2015) 842–851. Consultado en línea (Cor. 1: 0.110 log T + 0.290 log log T + 2.290).
 - **Selberg**, *Contributions to the theory of the Riemann zeta-function*, Arch. Math. Naturvid. **48** (1946), no. 5, 89–155. Los momentos de S(t) están en Titchmarsh §9.25, (9.25.1).
 - **F. Riesz**, *Sur un théorème de maximum de MM. Hardy et Littlewood*, J. London Math. Soc. **7** (1932) 10–13. **Mertens**, J. Reine Angew. Math. **78** (1874) 46–62 (Mertens está en Tenenbaum).
+- **Tsang**, *The distribution of the values of the Riemann zeta function*, tesis, Princeton, 1984. Citado de segunda mano a través de `103_Fazzari-Gerspach-Minelli_2025_Selberg_CLT_Weighted_Linear_Statistics_Zeta_Zeros.pdf` (§3, antes de (3.6); su Thm. 5.1).
 - **Kargin**, *Statistical properties of zeta functions' zeros*, Probability Surveys **11** (2014), 121–160, arXiv:1302.1452. El survey.
 
 ---
