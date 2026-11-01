@@ -1,15 +1,15 @@
 # LIBRARY TOTAL — índice vigente
 
-**Repositorio:** `vcasana1/LIBRARY-TOTAL-28oct2026` · **Rama:** `main` · **Comprobación:** 2026-11-01 · **PDF:** 337 (`001`–`337`, sin duplicados ni huecos).
+**Repositorio:** `vcasana1/LIBRARY-TOTAL-28oct2026` · **Rama:** `main` · **Comprobación:** 2026-11-01 · **PDF principales:** 353 (`001`–`353`, sin huecos numéricos ni duplicados binarios), más 1 PDF parcial identificado en `DOCUMENTOS_PARCIALES/`. Las versiones distintas de una misma obra se conservan expresamente.
 
-**Ruta de referencia del Mac (no comprobada en esta sesión):** `~/Documents/LIBRARY TOTAL/`. La lista canónica es el árbol GitHub de esta rama; en caso de diferencia, cotejar ambos árboles antes de sincronizar. No se infiere que el Mac esté actualizado.
+**Ruta del Mac comprobada:** `/Users/vcasana/Documents/LIBRARY TOTAL/`. Los 337 PDF previos coincidían con `main` en el commit `e6473ce42726d1e6103059a977ea0c3d2022ef79`. Incorporación del 2026-11-01: 16 PDF nuevos numerados 338–353 y 1 parcial separado, copiados desde Descargas; los originales de Descargas y los PDF 001–337 se conservan sin cambios. Trazabilidad y SHA-256 en `INCORPORACIONES_2026-11-01.json`.
 
 ## Uso
 
-1. Localizar por autor, título o palabra clave en las secciones temáticas o en el catálogo alfabético final.
+1. Localizar por autor, título o palabra clave en las secciones temáticas o en el catálogo numerado final.
 2. Cada nombre en el catálogo final coincide exactamente con un PDF existente en este repositorio. El identificador más fiable es **nombre completo + SHA de Git**; el número es solo un identificador operativo.
 3. Verificar en la **imagen de la página original** cada ecuación, fórmula, exponente, cuantificador y dominio antes de atribuirlo al paper. La extracción de texto y el OCR no son prueba suficiente.
-4. Usar el catálogo final para identificar **los 337 PDF**; las secciones temáticas son ayudas de búsqueda y pueden repetir referencias.
+4. Usar el catálogo final para identificar **los 353 PDF principales**; las secciones temáticas son ayudas de búsqueda y pueden repetir referencias.
 
 ## Incidencias vigentes
 
@@ -22,15 +22,13 @@
 - `068_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf` no es la versión arXiv firmada por L. Alpöge y R. Furman (arXiv:2608.13637v2).
 - Verificar antes de citar: `086_Dannon_2008_Riemann_Zeta_Function.pdf`, `323_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf`, `330_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` y `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` (sin revisión por pares acreditada).
 
-## Fuentes citadas, ausentes de los 337 PDF
+## Fuentes citadas todavía pendientes
 
 Esta lista recoge ausencias detectadas por coincidencia de título/autor en el inventario y **no** equivale a una auditoría bibliográfica de los originales ni a afirmar que no puedan conseguirse en línea.
 
 - **Rudnick & Sarnak**, *Zeros of principal L-functions and random matrix theory*, Duke Math. J. **81** (1996), 269–322. Base del salto de estadística 2-level a n-level.
 - **Forrester & Odlyzko**, *Gaussian unitary ensemble eigenvalues and Riemann zeta function zeros: a nonlinear equation for a new statistic*, Phys. Rev. E **54** (1996), R4493. Tratamiento Fredholm/Painlevé de nearest-neighbour; evita usar el Wigner surmise como exacto.
 - **Grossmann**, *Über die Nullstellen der Riemannschen Zeta-Funktion und der Dirichletschen L-Funktionen*, tesis, Göttingen, 1913. Sus constantes (0.29062, 1.7862, 6.13695; T > 50) están citadas en Backlund 1916, p. 355. (La tesis de Xylouris 2011 de la carpeta es otra.)
-- **Rosser**, *Explicit bounds for some functions of prime numbers*, Amer. J. Math. **63** (1941), 211–232, doi:10.2307/2371291. (Rosser–Schoenfeld 1962 de la carpeta es otro artículo y no contiene la cota de N(T).)
-- **Platt & Trudgian**, *An improved explicit bound on |ζ(1/2+it)|*, arXiv:1402.3953; J. Number Theory **147** (2015) 842–851. Consultado en línea (Cor. 1: 0.110 log T + 0.290 log log T + 2.290).
 - **Selberg**, *Contributions to the theory of the Riemann zeta-function*, Arch. Math. Naturvid. **48** (1946), no. 5, 89–155. Los momentos de S(t) están en Titchmarsh §9.25, (9.25.1).
 - **F. Riesz**, *Sur un théorème de maximum de MM. Hardy et Littlewood*, J. London Math. Soc. **7** (1932) 10–13. **Mertens**, J. Reine Angew. Math. **78** (1874) 46–62 (Mertens está en Tenenbaum).
 - **Tsang**, *The distribution of the values of the Riemann zeta function*, tesis, Princeton, 1984. Citado de segunda mano a través de `103_Fazzari-Gerspach-Minelli_2025_Selberg_CLT_Weighted_Linear_Statistics_Zeta_Zeros.pdf` (§3, antes de (3.6); su Thm. 5.1).
@@ -444,7 +442,43 @@ Esta lista recoge ausencias detectadas por coincidencia de título/autor en el i
 - `271_OganesyanHuse2007_2007_Localization_of_interacting_fermions_at_high_temperature.pdf` — Oganesyan–Huse, localización de fermiones interactuantes a alta temperatura. arXiv:cond-mat/0610854
 - `292_RigalZadunaisky2015_2015_Twisted_semigroup_algebras.pdf` — álgebras de semigrupo torcidas. arXiv:1406.2985
 
-## Catálogo canónico de archivos (337 PDF)
+## Incorporación del 1 de noviembre de 2026
+
+Los números 001–337 y sus archivos permanecen intactos. Se añaden 338–353 sin renumerar el fondo anterior. Comprobación de apertura y páginas con pypdf, interpretación de todas las páginas con MuPDF y SHA-256 de cada incorporación; esto no constituye validación de las afirmaciones matemáticas de los documentos.
+
+- Davenport es la segunda edición de 1980, no la tercera de 2000.
+- Se conservan Amberger v1 y v5 como versiones distintas.
+- Hiary–Leong–Yang v3 se añade sin sustituir la v2 ya existente (159).
+- El PDF parcial de Olver contiene solo portada e índice (8 páginas); el libro completo está en 345. MuPDF advierte de longitudes de flujos incorrectas, pero termina con código 0; se preservan los bytes originales.
+- El archivo descargado con título Einstein–Grossmann está vacío y no es la tesis de Grossmann. No se incorpora y permanece en Descargas.
+- El PDF de Davenport produce avisos de glifos de la capa OCR (`HiddenHorzOCR`) en MuPDF; termina con código 0. Se conserva sin alterar.
+
+| Número | Documento | Páginas PDF | Observación |
+|---|---|---:|---|
+| 338 | `338_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf` | 18 | Versión histórica v1; se conserva también v5. |
+| 339 | `339_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf` | 26 | Versión v5; no sustituye v1. |
+| 340 | `340_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf` | 24 | La otra copia descargada tiene idéntico SHA-256. |
+| 341 | `341_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf` | 188 | Segunda edición de 1980, revisada por H. L. Montgomery; no es la tercera edición de 2000. |
+| 342 | `342_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf` | 17 | Preprint v3 de 2016, correspondiente al trabajo publicado en 2017. |
+| 343 | `343_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf` | 31 | Versión v3; se mantiene intacta la v2 existente en 159. |
+| 344 | `344_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf` | 324 | Libro independiente de 1974, formado por los siete primeros capítulos de Asymptotics and Special Functions; ISBN 0-12-525856-9. |
+| 345 | `345_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf` | 591 | Reimpresión A K Peters de 1997 de la obra de 1974; portada y datos editoriales verificados en el PDF local. |
+| 346 | `346_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf` | 9 | Preprint v2 de 2014, publicado en J. Number Theory 147 (2015) 842–851. |
+| 347 | `347_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf` | 5 | Trabajo diferente de An improved explicit bound; no es una copia de ese artículo. |
+| 348 | `348_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf` | 23 | Incluye portada JSTOR y artículo de pp. 211–232. |
+| 349 | `349_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf` | 430 | Tercera edición internacional de 1987, McGraw-Hill; ISBN 0-07-054234-1. |
+| 350 | `350_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf` | 44 | Preprint v1. |
+| 351 | `351_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf` | 452 | Segunda edición de 1939; el escaneo corresponde a una reimpresión posterior. |
+| 352 | `352_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf` | 38 | Preprint v3. |
+| 353 | `353_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf` | 19 | Artículo de pp. 99–117. |
+
+### Documento parcial conservado
+
+- `DOCUMENTOS_PARCIALES/Olver_1997_Asymptotics_Special_Functions_SOLO_Portada_Indice_8pp.pdf` — 8 páginas; solo portada e índice.
+
+Los nombres originales, hashes, duplicados y decisiones están en `INCORPORACIONES_2026-11-01.json`.
+
+## Catálogo canónico de archivos (353 PDF principales)
 
 - `001_AbercrombieBanksShparlinski2009_2009_Arithmetic_functions_on_Beatty_sequences.pdf`
 - `002_AkianGaubertNiv2018_2018_Tropical_compound_matrix_identities.pdf`
@@ -783,3 +817,19 @@ Esta lista recoge ausencias detectadas por coincidencia de título/autor en el i
 - `335_deLaValleePoussin_1896_Recherches_Analytiques_Nombres_Premiers_I.pdf`
 - `336_vonMangoldt_1895_Zu_Riemanns_Abhandlung_Anzahl_Primzahlen.pdf`
 - `337_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf`
+- `338_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf`
+- `339_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf`
+- `340_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf`
+- `341_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf`
+- `342_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf`
+- `343_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf`
+- `344_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf`
+- `345_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf`
+- `346_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf`
+- `347_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf`
+- `348_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf`
+- `349_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf`
+- `350_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf`
+- `351_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf`
+- `352_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf`
+- `353_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf`

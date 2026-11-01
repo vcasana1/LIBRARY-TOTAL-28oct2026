@@ -1,0 +1,370 @@
+{
+  "date": "2026-11-01T14:28:57.227675+01:00",
+  "repository": "vcasana1/LIBRARY-TOTAL-28oct2026",
+  "branch": "main",
+  "base_commit": "e6473ce42726d1e6103059a977ea0c3d2022ef79",
+  "policy": "Copias nuevas; no se borran, renombran ni sustituyen PDF de origen o anteriores. Se actualiza INDEX.md conservando copia previa.",
+  "additions": [
+    {
+      "source_name": "2510.27444v1.pdf",
+      "destination": "338_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf",
+      "size": 367896,
+      "sha256": "0257031f54208cc2e24abb354317dbe5c3baf87fb955cf46433de97bb8f27ac9",
+      "pages": 18,
+      "source_reference": "https://arxiv.org/abs/2510.27444v1",
+      "note": "Versión histórica v1; se conserva también v5.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 18,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "2510.27444v5.pdf",
+      "destination": "339_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf",
+      "size": 523800,
+      "sha256": "9f8033555f0d461f51ddfcded3c3b7fd8603e1ed234c93c7be53ee3a232f2695",
+      "pages": 26,
+      "source_reference": "https://arxiv.org/abs/2510.27444v5",
+      "note": "Versión v5; no sustituye v1.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 26,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "2606.31441v1.pdf",
+      "destination": "340_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf",
+      "size": 435847,
+      "sha256": "a34bb66cea9b1e0c08d789721c53ae1313e0d4efedc5a9f66408ffe8989b4a4a",
+      "pages": 24,
+      "source_reference": "https://arxiv.org/abs/2606.31441v1",
+      "note": "La otra copia descargada tiene idéntico SHA-256.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 24,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "multiplicative-number-theory_compress.pdf",
+      "destination": "341_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf",
+      "size": 4105808,
+      "sha256": "1e8aee74c1fc609763e09fc8a829a6edee612c5bac037c78280139dddaeba71a",
+      "pages": 188,
+      "source_reference": "https://doi.org/10.1007/978-1-4757-5927-3",
+      "note": "Segunda edición de 1980, revisada por H. L. Montgomery; no es la tercera edición de 2000.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 188,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 3066,
+        "mutool_diagnostics_summary": [
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,126): invalid glyph index",
+            849
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,32): invalid glyph index",
+            822
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,40): invalid glyph index",
+            173
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,41): invalid glyph index",
+            150
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,115): invalid glyph index",
+            60
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,44): invalid glyph index",
+            58
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,50): invalid glyph index",
+            54
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,108): invalid glyph index",
+            45
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,120): invalid glyph index",
+            45
+          ],
+          [
+            "warning: FT_Get_Advance(HiddenHorzOCR,73): invalid glyph index",
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "source_name": "1601.04493v3.pdf",
+      "destination": "342_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf",
+      "size": 184131,
+      "sha256": "f1a805c140e8766a74dbef03b78b950203803aa91a7cc253a3a6b640038b909f",
+      "pages": 17,
+      "source_reference": "https://arxiv.org/abs/1601.04493v3",
+      "note": "Preprint v3 de 2016, correspondiente al trabajo publicado en 2017.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 17,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "2306.13289v3.pdf",
+      "destination": "343_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf",
+      "size": 371976,
+      "sha256": "5f43ae78559a723fc3fcb2fa0b16c110d56e504807a3c14f846a152e3514a1fa",
+      "pages": 31,
+      "source_reference": "https://arxiv.org/abs/2306.13289v3",
+      "note": "Versión v3; se mantiene intacta la v2 existente en 159.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 31,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "Introduction to asymptotics and special functions (Frank W.J. Olver) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "destination": "344_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf",
+      "size": 13480123,
+      "sha256": "d43a90cfd10dfde21da525196298d622710ba7c799db2bd7c7c9fe8b52d4645d",
+      "pages": 324,
+      "source_reference": null,
+      "note": "Libro independiente de 1974, formado por los siete primeros capítulos de Asymptotics and Special Functions; ISBN 0-12-525856-9.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 324,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "Asymptotics and Special Functions (Frank W. J. Olver) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "destination": "345_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf",
+      "size": 19721013,
+      "sha256": "7fd55a3f02914bf469c200d29b8e2bbfd093bd500d8a406d774b25c506f10081",
+      "pages": 591,
+      "source_reference": "https://doi.org/10.1201/9781439864548",
+      "note": "Reimpresión A K Peters de 1997 de la obra de 1974; portada y datos editoriales verificados en el PDF local.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 591,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "1402.3953v2.pdf",
+      "destination": "346_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf",
+      "size": 152101,
+      "sha256": "97d9e70994b46f6a3080ea4476b58e494690a80119d1a94aec2d1e7d367ae068",
+      "pages": 9,
+      "source_reference": "https://arxiv.org/abs/1402.3953v2",
+      "note": "Preprint v2 de 2014, publicado en J. Number Theory 147 (2015) 842–851.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 9,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "1507.01340v2.pdf",
+      "destination": "347_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf",
+      "size": 117106,
+      "sha256": "2247e4515daa535d600ce9e8f654758e9f8b51ef237235efb0a808f9af5e6d9c",
+      "pages": 5,
+      "source_reference": "https://arxiv.org/abs/1507.01340v2",
+      "note": "Trabajo diferente de An improved explicit bound; no es una copia de ese artículo.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 5,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "Rosser-ExplicitBoundsFunctions-1941.pdf",
+      "destination": "348_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf",
+      "size": 1621759,
+      "sha256": "4da2074f9e9bebb392b9fc947c4774b0d6819b414c3f9382cd9abd5e9ae63657",
+      "pages": 23,
+      "source_reference": "https://doi.org/10.2307/2371291",
+      "note": "Incluye portada JSTOR y artículo de pp. 211–232.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 23,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "Rudin, W. Real and complex analysis (McGraw-Hill - International Edition 3nd Ed.1987 (1°Ed.1966) - pp.428).pdf",
+      "destination": "349_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf",
+      "size": 6905635,
+      "sha256": "838bfa77912d3d94ec4956ebd2a602f09f9eed0fae9888b1fd7ed26eca96ba68",
+      "pages": 430,
+      "source_reference": null,
+      "note": "Tercera edición internacional de 1987, McGraw-Hill; ISBN 0-07-054234-1.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 430,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "2501.16779v1.pdf",
+      "destination": "350_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf",
+      "size": 850856,
+      "sha256": "2038f74e7753487760c095f518a6bfa856a929a8a9c01912af49f7e043636c8b",
+      "pages": 44,
+      "source_reference": "https://arxiv.org/abs/2501.16779v1",
+      "note": "Preprint v1.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 44,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "2015.149951.The-Theory-Of-Functions-Ed-2nd_text.pdf",
+      "destination": "351_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf",
+      "size": 29367812,
+      "sha256": "9047c7607c87a71c7c5a06c84d0dc31281576cf34cc1089900e0ddd8458cb84d",
+      "pages": 452,
+      "source_reference": null,
+      "note": "Segunda edición de 1939; el escaneo corresponde a una reimpresión posterior.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 452,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "2306.05599v3.pdf",
+      "destination": "352_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf",
+      "size": 453296,
+      "sha256": "c44e0333f747b349587557955fd2060142d0eb4505ec32e02ee88f3d324b4f4c",
+      "pages": 38,
+      "source_reference": "https://arxiv.org/abs/2306.05599v3",
+      "note": "Preprint v3.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 38,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "turing1953.pdf",
+      "destination": "353_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf",
+      "size": 448712,
+      "sha256": "33db9c0966daf215a97213761088630a9c82a031b2ab906322511096440b57dd",
+      "pages": 19,
+      "source_reference": "https://doi.org/10.1112/plms/s3-3.1.99",
+      "note": "Artículo de pp. 99–117.",
+      "decision": "incorporar",
+      "integrity": {
+        "pypdf_pages": 19,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 0,
+        "mutool_diagnostics_summary": []
+      }
+    },
+    {
+      "source_name": "DE0010189B2E128ED9E88C12579AB003258F7.pdf",
+      "destination": "DOCUMENTOS_PARCIALES/Olver_1997_Asymptotics_Special_Functions_SOLO_Portada_Indice_8pp.pdf",
+      "size": 29518,
+      "sha256": "a63883a24de919b65a6d50e3380fcb8cdc790a31f40df64c4e26a7652630b6ea",
+      "pages": 8,
+      "source_reference": null,
+      "note": "Solo portada e índice, 8 páginas. No sustituye el libro completo 345.",
+      "decision": "incorporar_como_parcial",
+      "integrity": {
+        "pypdf_pages": 8,
+        "mutool_all_pages_exit": 0,
+        "mutool_diagnostic_lines": 2,
+        "mutool_diagnostics_summary": [
+          [
+            "warning: PDF stream Length incorrect",
+            1
+          ],
+          [
+            "warning: ... repeated 2 times...",
+            1
+          ]
+        ]
+      }
+    }
+  ],
+  "other_candidates": [
+    {
+      "source_name": "2606.31441v1 1.pdf",
+      "size": 435847,
+      "sha256": "a34bb66cea9b1e0c08d789721c53ae1313e0d4efedc5a9f66408ffe8989b4a4a",
+      "pages": 24,
+      "decision": "copia_repetida",
+      "existing_document": "340_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf"
+    },
+    {
+      "source_name": "1611.02831v1.pdf",
+      "size": 300134,
+      "sha256": "44802d5cce02bf91a3d155870b8f315f2955866e283bfb48f6776a07f35f6ebf",
+      "pages": 12,
+      "decision": "ya_existente",
+      "existing_document": "184_Johansson_2017_Arb_Arbitrary_Precision_Interval_Arithmetic.pdf"
+    },
+    {
+      "source_name": "2212.06867v1.pdf",
+      "size": 616040,
+      "sha256": "127c32eb86d0aea264cc5b1ba96cc83243ef6b763451591e1560edaca1767300",
+      "pages": 27,
+      "decision": "ya_existente",
+      "existing_document": "256_Mossinghoff-Trudgian-Yang_2022_Explicit_Zero_Free_Regions_Riemann_Zeta.pdf"
+    },
+    {
+      "source_name": "2412.15470v2 1.pdf",
+      "size": 564709,
+      "sha256": "9299073e0fbb836ca744790e5ac2c03a496df3194409aaa87832ba6161ead3b5",
+      "pages": 32,
+      "decision": "ya_existente",
+      "existing_document": "022_Bellotti-Wong_2025_Improved_Argument_Zero_Counting_Zeta.pdf"
+    }
+  ],
+  "invalid_preserved": {
+    "source_name": "J 1913 Einstein Großmann Entwurf einer verallgemeinerten Relativitaetstheorie und einer Theorie der Gravitation.pdf",
+    "size": 0,
+    "decision": "No incorporar: vacío y título ajeno a la tesis buscada; conservar original en Descargas."
+  }
+}
