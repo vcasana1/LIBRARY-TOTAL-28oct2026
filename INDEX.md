@@ -1,36 +1,30 @@
-# LIBRARY TOTAL — índice maestro
+# LIBRARY TOTAL — índice vigente
 
-Ruta en disco: `~/Documents/LIBRARY TOTAL/` (337 PDF). Copia de trabajo: repositorio GitHub `vcasana1/LIBRARY-TOTAL-28oct2026`.
-Actualizado: 2026-10-30. Renumeración alfabética completa por autor, 001–337, sin excepciones, tras añadir Mossinghoff–Trudgian–Yang 2022 (tabla de equivalencias en `RENUMERACION_2026-10-30.md`; las anteriores, `RENUMERACION_2026-10-27b.md` y previas).
+**Repositorio:** `vcasana1/LIBRARY-TOTAL-28oct2026` · **Rama:** `main` · **Comprobación:** 2026-11-01 · **PDF:** 337 (`001`–`337`, sin duplicados ni huecos).
 
-## Cómo usar este índice
+**Ruta de referencia del Mac (no comprobada en esta sesión):** `~/Documents/LIBRARY TOTAL/`. La lista canónica es el árbol GitHub de esta rama; en caso de diferencia, cotejar ambos árboles antes de sincronizar. No se infiere que el Mac esté actualizado.
 
-1. Buscar aquí **antes** que en la web. `grep -i` sobre este fichero por tema, autor o palabra clave.
-2. Citar **siempre por nombre de fichero completo**, no solo por número: el número cambia si se añaden PDF.
-3. Antes de atribuir un enunciado a un paper, abrirlo y verificarlo. Este índice dice *dónde mirar*, no *qué afirmar*.
-4. La colección histórica tiene capa OCR con errores, sobre todo en fórmulas: para citar una expresión hay que mirar la página. Los PDF sin capa de texto deben consultarse visualmente.
+## Uso
 
-## Avisos de integridad
+1. Localizar por autor, título o palabra clave en las secciones temáticas o en el catálogo alfabético final.
+2. Cada nombre en el catálogo final coincide exactamente con un PDF existente en este repositorio. El identificador más fiable es **nombre completo + SHA de Git**; el número es solo un identificador operativo.
+3. Verificar en la **imagen de la página original** cada ecuación, fórmula, exponente, cuantificador y dominio antes de atribuirlo al paper. La extracción de texto y el OCR no son prueba suficiente.
+4. Usar el catálogo final para identificar **los 337 PDF**; las secciones temáticas son ayudas de búsqueda y pueden repetir referencias.
 
-- **Renumeración completa del 2026-10-30** (tras añadir Mossinghoff–Trudgian–Yang 2022): los números del 2026-10-27b ya no valen a partir del `256`; tabla en `RENUMERACION_2026-10-30.md`.
-- Sin capa de texto (no grepeables; consultar visualmente): `049_Brent_1979_Zeros_Riemann_Zeta_Critical_Strip.pdf`, `130_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf`, `324_Volchkov_1995_Equality_Equivalent_Riemann_Hypothesis_Russian.pdf`.
-- Año del nombre de fichero erróneo (es el identificador arXiv o una fecha ajena): `116_Frantzikinakis2020_1908_Correlations_of_multiplicative_functions_along_deterministic_and_independent_sequences.pdf` (2020), `138_GrepstadEtAl2019_1909_On_the_asymptotic_behaviour_of_the_sine_product.pdf` (2019), `240_Matiyasevich2007a_1983_Hidden_Life_of_Riemann_s_Zeta_Function_1_Arrow_Bow_and_Targets.pdf` (2007).
-- **`003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` no es de Riemann.** Es un preprint anónimo de 2026 (pdfTeX, 23-05-2026), *"Unexpected phase summation patterns in the imaginary parts of the Riemann zeros: a critical re-analysis"*, sobre las sumas parciales S(N) = Σ_{n≤N} e^{iγ_n}, con las citas rotas (`[?]`). Se llamaba `270_Riemann_1859_Number_Of_Primes_Below_A_Given_Magnitude.pdf`; renombrado el 2026-10-23 a `270_Anonymous_…` y, en la renumeración completa del mismo día, a `003_Anonymous_…`, su lugar alfabético. El texto real de Riemann está en `291_Riemann-Wilkins_1859_Prime_Counting_English_Translation.pdf` (texto alemán original, transcrito por D. R. Wilkins; el nombre del fichero dice `English_Translation` pero no lo es).
-- **Segunda renumeración completa del 2026-10-27** (tras añadir Leong 2024): los números de la primera renumeración del mismo día ya no valen a partir del `228`; tabla en `RENUMERACION_2026-10-27b.md`.
-- **Renumeración completa del 2026-10-27** (tras añadir once PDF): los números del 2026-10-26b ya no valen a partir del `013`; tabla en `RENUMERACION_2026-10-27.md`.
-- **`068_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf`** es la versión del 10-8-2026 firmada por «Claude» (modelo de Anthropic). La versión de arXiv (arXiv:2608.13637v2, 21-8-2026) la firman L. Alpöge y R. Furman, que atribuyen el argumento a Claude: citar esa.
-- Escaneos antiguos con OCR deficiente (mirar la página para citar una fórmula): `013_Backlund_1916_Nullstellen_Riemannschen_Zetafunktion.pdf`, `337_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf`. `145_Hardy-Littlewood-Polya_1934_Inequalities.pdf` es la **1.ª edición (1934)**, no la 2.ª (1952).
-- **Segunda renumeración completa del 2026-10-26** (tras añadir nueve PDF): los números de la primera renumeración del mismo día ya no valen a partir del `022`; tabla en `RENUMERACION_2026-10-26b.md`.
-- **Renumeración completa del 2026-10-26** (tras añadir tres PDF): los números del 2026-10-23 ya no valen a partir del `120`; tabla en `RENUMERACION_2026-10-26.md`.
-- **Renumeración completa del 2026-10-23**: los números anteriores (001–310 con el 270 fuera de orden) ya no valen. Las notas antiguas que citan por número deben leerse con la tabla de equivalencias `RENUMERACION_2026-10-23.md`.
-- **`100_Edwards_1974_Riemanns_Zeta_Function.pdf` está incompleto**: el escaneo cubre las páginas impresas 1–122 de 311. Faltan los capítulos 7–12 y el apéndice. Detalle en §13.
-- Tres artículos están escaneados a doble página (A4 apaisado, dos páginas impresas por hoja): `188_Jutila_1977_Zero_Density_Estimates_L_Functions.pdf`, `192_Kaczorowski_1991_k_Functions_Multiplicative_Number_Theory_V.pdf` y `288_Ramachandra_1976_Problems_Analytic_Number_Theory.pdf`. Al citar, hoja de PDF y página impresa no coinciden.
-- **`178_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf` y `180_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` son el mismo libro.** El Dover 2003 es reimpresión sin abreviar de la Wiley 1985 — misma paginación — y solo aporta la lista de erratas (xvii–xix), extraída a `ERRATA_Ivic.md`. Esas erratas se aplican a ambos ficheros.
-- Calidad no verificada / fuera de circuito arbitrado: `086_Dannon_2008_Riemann_Zeta_Function.pdf` (Gauge Institute), `323_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf`, `330_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` y el preprint anónimo `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf`. Usar solo como material a contrastar, no como fuente.
+## Incidencias vigentes
 
-## Huecos conocidos (citados en el trabajo, ausentes de la carpeta)
+- PDF sin capa de texto: `049_Brent_1979_Zeros_Riemann_Zeta_Critical_Strip.pdf`, `130_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf`, `324_Volchkov_1995_Equality_Equivalent_Riemann_Hypothesis_Russian.pdf`.
+- OCR delicado en fórmulas: `013_Backlund_1916_Nullstellen_Riemannschen_Zetafunktion.pdf` y `337_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf`.
+- PDF incompleto: `100_Edwards_1974_Riemanns_Zeta_Function.pdf` (escaneo solo de pp. impresas 1–122/311); `130_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf` (solo pp. 92–96).
+- PDF a doble página: `188_Jutila_1977_Zero_Density_Estimates_L_Functions.pdf`, `192_Kaczorowski_1991_k_Functions_Multiplicative_Number_Theory_V.pdf`, `288_Ramachandra_1976_Problems_Analytic_Number_Theory.pdf`. Comprobar página impresa y página del PDF.
+- `178_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf` y `180_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` son ediciones del mismo libro; erratas en `ERRATA_Ivic.md`.
+- El preprint `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` es anónimo y no es un artículo de Riemann. La fuente de Riemann se encuentra en `291_Riemann-Wilkins_1859_Prime_Counting_English_Translation.pdf` (transcripción en alemán).
+- `068_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf` no es la versión arXiv firmada por L. Alpöge y R. Furman (arXiv:2608.13637v2).
+- Verificar antes de citar: `086_Dannon_2008_Riemann_Zeta_Function.pdf`, `323_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf`, `330_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` y `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` (sin revisión por pares acreditada).
 
-Comprobado el 2026-08-19. Al citarlos hay que decir que no están aquí.
+## Fuentes citadas, ausentes de los 337 PDF
+
+Esta lista recoge ausencias detectadas por coincidencia de título/autor en el inventario y **no** equivale a una auditoría bibliográfica de los originales ni a afirmar que no puedan conseguirse en línea.
 
 - **Rudnick & Sarnak**, *Zeros of principal L-functions and random matrix theory*, Duke Math. J. **81** (1996), 269–322. Base del salto de estadística 2-level a n-level.
 - **Forrester & Odlyzko**, *Gaussian unitary ensemble eigenvalues and Riemann zeta function zeros: a nonlinear equation for a new statistic*, Phys. Rev. E **54** (1996), R4493. Tratamiento Fredholm/Painlevé de nearest-neighbour; evita usar el Wigner surmise como exacto.
@@ -52,7 +46,7 @@ Comprobado el 2026-08-19. Al citarlos hay que decir que no están aquí.
 - `097_Durkan-Hughes-PearceCrump_2026_Generalisations_Landau_Gonek_Theorem.pdf` — sumas Σ_ρ χ(ρ)X^ρ; sensibilidad a la naturaleza aritmética de X. arXiv:2601.18025
 - `179_Ivic_2001_Sums_Over_Ordinates_Zeta_Zeros.pdf` — G(s) = Σ_{γ>0} γ^{-s}; evaluación de sumas sobre γ e integrales de S(T). **Referencia base.**
 - `261_Murahara-Onozuka_2025_Equidistribution_A_Points_Zeta_Derivatives.pdf` — sumas exponenciales sobre a-puntos de derivadas de ζ, siguiendo a Fujii. arXiv:2510.07710
-- `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` **(preprint anónimo, ver avisos)** — sumas parciales S(N)=Σ e^{iγ_n}, banda estrecha de |S(N)|, picos y espaciados multimodales. Directamente sobre tu problema.
+- `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` **(preprint anónimo; revisar procedencia)** — sumas parciales S(N)=Σ e^{iγ_n}, banda estrecha de |S(N)|, picos y espaciados multimodales. Directamente sobre tu problema.
 - `330_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` — dinámica de bobinado de fase de ζ, heatmaps y estadística. Sin arbitraje.
 - `106_Ford-Meng-Zaharescu_2017_Simultaneous_Fractional_Parts.pdf` — distribución simultánea de {α_1γ,…,α_nγ}. arXiv:1511.06814
 - `107_Ford-Soundararajan-Zaharescu_2009_Imaginary_Parts_II.pdf` — partes fraccionarias de αγ, continuación. arXiv:0805.2745
@@ -450,7 +444,7 @@ Comprobado el 2026-08-19. Al citarlos hay que decir que no están aquí.
 - `271_OganesyanHuse2007_2007_Localization_of_interacting_fermions_at_high_temperature.pdf` — Oganesyan–Huse, localización de fermiones interactuantes a alta temperatura. arXiv:cond-mat/0610854
 - `292_RigalZadunaisky2015_2015_Twisted_semigroup_algebras.pdf` — álgebras de semigrupo torcidas. arXiv:1406.2985
 
-## Catálogo completo actual — 2026-10-30 (337 PDF)
+## Catálogo canónico de archivos (337 PDF)
 
 - `001_AbercrombieBanksShparlinski2009_2009_Arithmetic_functions_on_Beatty_sequences.pdf`
 - `002_AkianGaubertNiv2018_2018_Tropical_compound_matrix_identities.pdf`
