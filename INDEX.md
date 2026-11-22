@@ -2,7 +2,7 @@
 
 **Repositorio:** `vcasana1/LIBRARY-TOTAL-28oct2026` · **Rama:** `main` · **Comprobación:** 2026-11-22 · **PDF principales:** 379 (`001`–`379`, en orden alfabético ASCII, sin huecos numéricos ni duplicados binarios), más 1 PDF parcial identificado en `DOCUMENTOS_PARCIALES/`. Las versiones distintas de una misma obra se conservan expresamente.
 
-**Ruta del Mac comprobada:** `/Users/vcasana/Documents/LIBRARY TOTAL/`. Los 337 PDF previos coincidían con `main` en el commit `e6473ce42726d1e6103059a977ea0c3d2022ef79`. Incorporación del 2026-11-01: 16 PDF nuevos numerados 338–353 y 1 parcial separado, copiados desde Descargas; los originales de Descargas y los PDF 001–337 se conservan sin cambios. Trazabilidad y SHA-256 en `INCORPORACIONES_2026-11-01.json`. **Incorporación y renumeración del 2026-11-22:** 26 PDF nuevos (bibliografía de Alpöge, §21) y renumeración completa de la carpeta en orden alfabético; los números 001–353 y 338–353 citados en notas anteriores y en el JSON del 2026-11-01 corresponden a la numeración antigua; equivalencias en `RENUMERACION_2026-11-22.md`.
+**Ruta del Mac comprobada:** `/Users/vcasana/Documents/LIBRARY TOTAL/`. Los 337 PDF previos coincidían con `main` en el commit `e6473ce42726d1e6103059a977ea0c3d2022ef79`. Incorporación del 2026-11-01: 16 PDF nuevos numerados 338–353 y 1 parcial separado, copiados desde Descargas; los originales de Descargas y los PDF 001–337 se conservan sin cambios. El registro `INCORPORACIONES_2026-11-01.json` se retiró el 2026-11-22 (queda en el historial de git, commit `4a661ae`). **Incorporación y renumeración del 2026-11-22:** 26 PDF nuevos (bibliografía de Alpöge, §21) y renumeración completa de la carpeta en orden alfabético; los números 001–353 y 338–353 citados en notas anteriores y en el registro del 2026-11-01 corresponden a la numeración antigua; equivalencias en `RENUMERACION_2026-11-22.md`.
 
 ## Uso
 
@@ -552,7 +552,7 @@ Se renombraron según `Autor_Año_Título` y se **renumeró la carpeta entera** 
 
 - `DOCUMENTOS_PARCIALES/Olver_1997_Asymptotics_Special_Functions_SOLO_Portada_Indice_8pp.pdf` — 8 páginas; solo portada e índice.
 
-Los nombres originales, hashes, duplicados y decisiones están en `INCORPORACIONES_2026-11-01.json`.
+Los nombres originales, hashes, duplicados y decisiones del 2026-11-01 estaban en `INCORPORACIONES_2026-11-01.json`, retirado el 2026-11-22; se recuperan del commit `4a661ae` del repositorio.
 
 ## Catálogo canónico de archivos (379 PDF principales)
 
