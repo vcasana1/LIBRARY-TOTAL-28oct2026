@@ -1,0 +1,200 @@
+{
+  "date": "2026-11-22",
+  "source_zip": "~/Downloads/Bibliografia_Alpoge_20261122_sin_Howe_Davenport.zip",
+  "repository": "vcasana1/LIBRARY-TOTAL-28oct2026",
+  "branch": "main",
+  "base_commit": "4a661aeb55c13e202b58133001faa247a0b0c2cc",
+  "policy": "Copias nuevas desde el zip; sha256 coincide con SHA256SUMS.txt del zip. Renumeración alfabética completa (ver RENUMERACION_2026-11-22.md).",
+  "not_incorporated": {
+    "00_Bibliografia_original_29_referencias.*": "lista propia, no es fuente",
+    "01_Alpoge_Lean_source_commit_7cbf7a0.zip": "no PDF; 397 MB > límite 100 MB de GitHub",
+    "28_Sutherland_verification_page.html": "no PDF",
+    "MANIFIESTO.csv/LEEME.txt/SHA256SUMS.txt": "metadatos del zip",
+    "[3] Behrend": "no obtenido (descarga bloqueada)",
+    "[9] Davenport-Montgomery y [15] Howe": "excluidos por el usuario (ya los posee)"
+  },
+  "additions": [
+    {
+      "source_name": "28_SUPPLEMENT_Alpoge_announcement_remark.pdf",
+      "destination": "003_Alpoge_2026_Announcement_Remark_Riemann_Hypothesis_Proof.pdf",
+      "size": 245114,
+      "sha256": "3fc97784b71ddd44ff8aa0a177e99622a1c61b13cfa843a0989ee4a7a0cfeb8d",
+      "pages": 4
+    },
+    {
+      "source_name": "02_Anschutz_LeBras_Prismatic_Dieudonne_theory.pdf",
+      "destination": "007_Anschutz-LeBras_2023_Prismatic_Dieudonne_Theory_arXiv_v4.pdf",
+      "size": 1051812,
+      "sha256": "6eb02c16c525360141b1c5d118ae04db070f3c0e9cb9fff0f1598fc889b50aec",
+      "pages": 97
+    },
+    {
+      "source_name": "04_Bellaiche_Chenevier_Families_Galois_representations_Selmer_groups.pdf",
+      "destination": "026_Bellaiche-Chenevier_2009_Families_Galois_Representations_Selmer_Groups.pdf",
+      "size": 36189347,
+      "sha256": "024287cb513202242292c3e29fc0bb9f1ceed45ec889e314bd8b88c9d5a37f31",
+      "pages": 327
+    },
+    {
+      "source_name": "05_Bhatt_Scholze_Prisms_prismatic_cohomology.pdf",
+      "destination": "038_Bhatt-Scholze_2022_Prisms_Prismatic_Cohomology.pdf",
+      "size": 1175959,
+      "sha256": "4cb49a42c80fc734fb7585da273538e09632431ba06709ae05a11ded6673c27a",
+      "pages": 125
+    },
+    {
+      "source_name": "06_Bost_Periodes_isogenies_varietes_abeliennes.pdf",
+      "destination": "052_Bost_1996_Periodes_Isogenies_Varietes_Abeliennes.pdf",
+      "size": 3794367,
+      "sha256": "13d2911a3b4460552d2ba649609f626a0342beae85966929940ab7df205b0edb",
+      "pages": 48
+    },
+    {
+      "source_name": "07_Chenevier_Harris_Automorphic_Galois_representations_II.pdf",
+      "destination": "075_Chenevier-Harris_2013_Construction_Automorphic_Galois_Representations_II.pdf",
+      "size": 206435,
+      "sha256": "9b5e76798f75273f53d1d4160f35815b1a3b656f04c965ad47fd4fa454840529",
+      "pages": 15
+    },
+    {
+      "source_name": "08_Coates_Sinnott_Stickelberger_higher_K_groups.pdf",
+      "destination": "078_Coates-Sinnott_1974_Analogue_Stickelberger_Theorem_Higher_K_Groups.pdf",
+      "size": 563965,
+      "sha256": "9673f3888143a55c4c01dfa479d0f0caf86c84d5b68573dede46073c314163d5",
+      "pages": 13
+    },
+    {
+      "source_name": "10_Deligne_Lusztig_Reductive_groups_finite_fields.pdf",
+      "destination": "102_Deligne-Lusztig_1976_Representations_Reductive_Groups_Finite_Fields.pdf",
+      "size": 3640869,
+      "sha256": "8037b883d391a17534f2b5c7a55b9593ad6a3f5c15045ec8751bd1ffced83bdf",
+      "pages": 60
+    },
+    {
+      "source_name": "11_Ferrero_Washington_Iwasawa_invariant.pdf",
+      "destination": "117_Ferrero-Washington_1979_Iwasawa_Invariant_Mu_p_Vanishes_Abelian_Number_Fields.pdf",
+      "size": 1105530,
+      "sha256": "5cf25d0cebe2ef1b7e28c13d89b4ed2d174db656094a88f37604cb5b79782ff4",
+      "pages": 20
+    },
+    {
+      "source_name": "12_Gan_Qiu_Takeda_Regularized_Siegel_Weil_Rallis.pdf",
+      "destination": "137_Gan-Qiu-Takeda_2014_Regularized_Siegel_Weil_Formula_Rallis_Inner_Product_arXiv_v3.pdf",
+      "size": 667816,
+      "sha256": "cde6b7ad22b974d4159f8cedd1e14a00bf4b05ec977ab750b54fdceb067adac5",
+      "pages": 59
+    },
+    {
+      "source_name": "15_ALT_Gan_Takeda_2016_Proof_Howe_Duality.pdf",
+      "destination": "138_Gan-Takeda_2016_Proof_Howe_Duality_Conjecture_arXiv_v4.pdf",
+      "size": 270197,
+      "sha256": "89972dcc033e93feb2a483d44a5c03569fecb026079c0f2152f05c90f6f6a561",
+      "pages": 21
+    },
+    {
+      "source_name": "13_Grayson_Reduction_theory_semistability.pdf",
+      "destination": "153_Grayson_1984_Reduction_Theory_Using_Semistability.pdf",
+      "size": 3544803,
+      "sha256": "c485d1fdea08c2e6e9b686273247c977296c4d2bac151bdcbdfaa59f8bdf0e1e",
+      "pages": 36
+    },
+    {
+      "source_name": "14_Hida_pAdic_Automorphic_Forms_Shimura_Varieties.pdf",
+      "destination": "179_Hida_2004_pAdic_Automorphic_Forms_Shimura_Varieties.pdf",
+      "size": 45962573,
+      "sha256": "f962e97da6b8248a256740f43581b079dc3e452e65427ead253723156a90427b",
+      "pages": 397
+    },
+    {
+      "source_name": "16_Huxley_Imperfect_hybrid_zero_density.pdf",
+      "destination": "191_Huxley_1976_Imperfect_Hybrid_Zero_Density_Theorem.pdf",
+      "size": 94016,
+      "sha256": "555584adaaec3f1beba6ac114ab67567693cb00ae55a94fbd02f74a52f72bc78",
+      "pages": 4
+    },
+    {
+      "source_name": "17_Kato_padic_Hodge_theory_zeta_modular_forms.pdf",
+      "destination": "219_Kato_2004_pAdic_Hodge_Theory_Values_Zeta_Functions_Modular_Forms.pdf",
+      "size": 18010813,
+      "sha256": "3c6e14b11fa60262db8aff782ce3cf4d83e9100c0be83621a7e4ce502cec605d",
+      "pages": 175
+    },
+    {
+      "source_name": "18_Kolyvagin_Euler_systems.pdf",
+      "destination": "226_Kolyvagin_1990_Euler_Systems.pdf",
+      "size": 2168160,
+      "sha256": "64c501eb088320b5cc9a67de21e07e8c492c4b2b5631e16fbb60625ff81f262e",
+      "pages": 49
+    },
+    {
+      "source_name": "19_Landau_Uber_einen_Satz_von_Tschebyschef.pdf",
+      "destination": "245_Landau_1905_Uber_Einen_Satz_Von_Tschebyschef.pdf",
+      "size": 1244948,
+      "sha256": "c21cd4d8a0938f4e8f3487946f87e7912edb8cd27bfa3060f446378d9d23a0d7",
+      "pages": 25
+    },
+    {
+      "source_name": "20_Lubin_Tate_Formal_complex_multiplication_local_fields.pdf",
+      "destination": "261_Lubin-Tate_1965_Formal_Complex_Multiplication_Local_Fields.pdf",
+      "size": 637656,
+      "sha256": "89615bfd7f6d6c174c5d199857d7c79ac9340e64a428d8e0983e30ee04dd600f",
+      "pages": 9
+    },
+    {
+      "source_name": "21_Moriwaki_Continuity_volumes_arithmetic_varieties.pdf",
+      "destination": "280_Moriwaki_2009_Continuity_Volumes_Arithmetic_Varieties_arXiv_v2.pdf",
+      "size": 360777,
+      "sha256": "cbc3cf83dacad86d65a7d69a95affb866e0ada9cf585b695e7753b7480551d98",
+      "pages": 43
+    },
+    {
+      "source_name": "22_Ohsawa_Takegoshi_Extension_L2_holomorphic_functions.pdf",
+      "destination": "297_Ohsawa-Takegoshi_1987_Extension_L2_Holomorphic_Functions.pdf",
+      "size": 333639,
+      "sha256": "3f6bcc9284294942992f4d85fbf0f2dcca414305db3bfa1899fe5560e77c24c4",
+      "pages": 8
+    },
+    {
+      "source_name": "23_Rallis_Injectivity_liftings_Weil_representations.pdf",
+      "destination": "318_Rallis_1984_Injectivity_Properties_Liftings_Weil_Representations.pdf",
+      "size": 2106183,
+      "sha256": "af1412a50a22428237260a32d233c246d8a2ad5e395963953f4da6f3384af28b",
+      "pages": 32
+    },
+    {
+      "source_name": "24_Ribet_Unramified_p_extensions.pdf",
+      "destination": "321_Ribet_1976_Modular_Construction_Unramified_p_Extensions.pdf",
+      "size": 1209202,
+      "sha256": "6985813b4026bb0fd7098aed3f816262e0922f62a5d2dab22e29bcc2eb323471",
+      "pages": 13
+    },
+    {
+      "source_name": "25_Selberg_Chowla_On_Epstein_zeta_function.pdf",
+      "destination": "338_Selberg-Chowla_1967_On_Epstein_Zeta_Function.pdf",
+      "size": 1960803,
+      "sha256": "f72e8d4902dd3c35e13e769e1a1fd7078d39c7ae42bc4d7c862167ffc6337c07",
+      "pages": 25
+    },
+    {
+      "source_name": "26_Sorensen_A_Patching_Lemma.pdf",
+      "destination": "343_Sorensen_2020_A_Patching_Lemma.pdf",
+      "size": 170579,
+      "sha256": "c4f6061e3c372bf174f4e928f1211a24b028ceebe01c72488afd6d98524cb4fd",
+      "pages": 9
+    },
+    {
+      "source_name": "27_Soule_Torsion_K_theory_algebraic_integers.pdf",
+      "destination": "344_Soule_2003_Bound_Torsion_K_Theory_Algebraic_Integers.pdf",
+      "size": 200685,
+      "sha256": "9c319682a1bcb43e4440b299a7eb4285f67a276e06aab015bcb3bcabfe2900eb",
+      "pages": 28
+    },
+    {
+      "source_name": "29_Taylor_Wiles_Hecke_algebras.pdf",
+      "destination": "354_Taylor-Wiles_1995_Ring_Theoretic_Properties_Certain_Hecke_Algebras.pdf",
+      "size": 400944,
+      "sha256": "3a58acd02155b8849871bbc716e30a05072a5fc80bc0e26122a453400b3731b9",
+      "pages": 22
+    }
+  ]
+}
