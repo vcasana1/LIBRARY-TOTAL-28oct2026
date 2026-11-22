@@ -1,394 +1,402 @@
-# Renumeración 2026-11-22
+# Renumeración vigente (2026-11-22, segunda)
 
-Antes: 353 PDF (`001`–`353`; los 338–353 añadidos el 2026-11-01 al final, fuera de orden alfabético). Después: 379 PDF (`001`–`379`) en orden alfabético ASCII del nombre sin número (mayúsculas antes que minúsculas, `-` antes que `_`). Renombrado en dos fases (nombres temporales y luego definitivos). Cambian de número 351 de los 353 PDF anteriores; el contenido de cada archivo no se ha modificado.
+Estado vigente: 382 PDF (`001`–`382`) en orden alfabético ASCII del nombre sin número (mayúsculas antes que minúsculas, `-` antes que `_`). Este fichero sustituye a la tabla anterior del mismo día y da, para cada PDF, su número en la numeración del 2026-11-01 (353 PDF), en la primera numeración del 2026-11-22 (379 PDF) y el número vigente. El contenido de los archivos no se ha modificado.
 
 Citar siempre por nombre completo, no por número.
 
-## PDF nuevos (26)
+## PDF añadidos en la segunda incorporación del 2026-11-22 (3)
 
-| Archivo en el zip | Nuevo nombre |
+| Archivo en Descargas | Nombre vigente |
 |---|---|
-| `28_SUPPLEMENT_Alpoge_announcement_remark.pdf` | `003_Alpoge_2026_Announcement_Remark_Riemann_Hypothesis_Proof.pdf` |
-| `02_Anschutz_LeBras_Prismatic_Dieudonne_theory.pdf` | `007_Anschutz-LeBras_2023_Prismatic_Dieudonne_Theory_arXiv_v4.pdf` |
-| `04_Bellaiche_Chenevier_Families_Galois_representations_Selmer_groups.pdf` | `026_Bellaiche-Chenevier_2009_Families_Galois_Representations_Selmer_Groups.pdf` |
-| `05_Bhatt_Scholze_Prisms_prismatic_cohomology.pdf` | `038_Bhatt-Scholze_2022_Prisms_Prismatic_Cohomology.pdf` |
-| `06_Bost_Periodes_isogenies_varietes_abeliennes.pdf` | `052_Bost_1996_Periodes_Isogenies_Varietes_Abeliennes.pdf` |
-| `07_Chenevier_Harris_Automorphic_Galois_representations_II.pdf` | `075_Chenevier-Harris_2013_Construction_Automorphic_Galois_Representations_II.pdf` |
-| `08_Coates_Sinnott_Stickelberger_higher_K_groups.pdf` | `078_Coates-Sinnott_1974_Analogue_Stickelberger_Theorem_Higher_K_Groups.pdf` |
-| `10_Deligne_Lusztig_Reductive_groups_finite_fields.pdf` | `102_Deligne-Lusztig_1976_Representations_Reductive_Groups_Finite_Fields.pdf` |
-| `11_Ferrero_Washington_Iwasawa_invariant.pdf` | `117_Ferrero-Washington_1979_Iwasawa_Invariant_Mu_p_Vanishes_Abelian_Number_Fields.pdf` |
-| `12_Gan_Qiu_Takeda_Regularized_Siegel_Weil_Rallis.pdf` | `137_Gan-Qiu-Takeda_2014_Regularized_Siegel_Weil_Formula_Rallis_Inner_Product_arXiv_v3.pdf` |
-| `15_ALT_Gan_Takeda_2016_Proof_Howe_Duality.pdf` | `138_Gan-Takeda_2016_Proof_Howe_Duality_Conjecture_arXiv_v4.pdf` |
-| `13_Grayson_Reduction_theory_semistability.pdf` | `153_Grayson_1984_Reduction_Theory_Using_Semistability.pdf` |
-| `14_Hida_pAdic_Automorphic_Forms_Shimura_Varieties.pdf` | `179_Hida_2004_pAdic_Automorphic_Forms_Shimura_Varieties.pdf` |
-| `16_Huxley_Imperfect_hybrid_zero_density.pdf` | `191_Huxley_1976_Imperfect_Hybrid_Zero_Density_Theorem.pdf` |
-| `17_Kato_padic_Hodge_theory_zeta_modular_forms.pdf` | `219_Kato_2004_pAdic_Hodge_Theory_Values_Zeta_Functions_Modular_Forms.pdf` |
-| `18_Kolyvagin_Euler_systems.pdf` | `226_Kolyvagin_1990_Euler_Systems.pdf` |
-| `19_Landau_Uber_einen_Satz_von_Tschebyschef.pdf` | `245_Landau_1905_Uber_Einen_Satz_Von_Tschebyschef.pdf` |
-| `20_Lubin_Tate_Formal_complex_multiplication_local_fields.pdf` | `261_Lubin-Tate_1965_Formal_Complex_Multiplication_Local_Fields.pdf` |
-| `21_Moriwaki_Continuity_volumes_arithmetic_varieties.pdf` | `280_Moriwaki_2009_Continuity_Volumes_Arithmetic_Varieties_arXiv_v2.pdf` |
-| `22_Ohsawa_Takegoshi_Extension_L2_holomorphic_functions.pdf` | `297_Ohsawa-Takegoshi_1987_Extension_L2_Holomorphic_Functions.pdf` |
-| `23_Rallis_Injectivity_liftings_Weil_representations.pdf` | `318_Rallis_1984_Injectivity_Properties_Liftings_Weil_Representations.pdf` |
-| `24_Ribet_Unramified_p_extensions.pdf` | `321_Ribet_1976_Modular_Construction_Unramified_p_Extensions.pdf` |
-| `25_Selberg_Chowla_On_Epstein_zeta_function.pdf` | `338_Selberg-Chowla_1967_On_Epstein_Zeta_Function.pdf` |
-| `26_Sorensen_A_Patching_Lemma.pdf` | `343_Sorensen_2020_A_Patching_Lemma.pdf` |
-| `27_Soule_Torsion_K_theory_algebraic_integers.pdf` | `344_Soule_2003_Bound_Torsion_K_Theory_Algebraic_Integers.pdf` |
-| `29_Taylor_Wiles_Hecke_algebras.pdf` | `354_Taylor-Wiles_1995_Ring_Theoretic_Properties_Certain_Hecke_Algebras.pdf` |
+| `gallagher1970.pdf` | `136_Gallagher_1970_Large_Sieve_Density_Estimate_Near_Sigma_1.pdf` |
+| `pjaa.53.50.pdf` | `284_Motohashi_1977_On_Gallaghers_Prime_Number_Theorem.pdf` |
+| `motohashi1978.pdf` | `285_Motohashi_1978_Primes_in_Arithmetic_Progressions.pdf` |
 
-## Equivalencias de los 353 PDF anteriores
+## PDF añadidos en la primera incorporación del 2026-11-22 (26)
 
-| Antiguo (2026-11-01) | Nuevo (2026-11-22) |
-|---|---|
-| `001_AbercrombieBanksShparlinski2009_2009_Arithmetic_functions_on_Beatty_sequences.pdf` | `001_AbercrombieBanksShparlinski2009_2009_Arithmetic_functions_on_Beatty_sequences.pdf` |
-| `002_AkianGaubertNiv2018_2018_Tropical_compound_matrix_identities.pdf` | `002_AkianGaubertNiv2018_2018_Tropical_compound_matrix_identities.pdf` |
-| `338_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf` | `004_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf` |
-| `339_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf` | `005_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf` |
-| `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` | `006_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` |
-| `004_Arguin-Bourgade-Radziwill_2020_Fyodorov_Hiary_Keating_Conjecture_I.pdf` | `008_Arguin-Bourgade-Radziwill_2020_Fyodorov_Hiary_Keating_Conjecture_I.pdf` |
-| `005_Arguin-Bourgade-Radziwill_2023_Fyodorov_Hiary_Keating_Conjecture_II.pdf` | `009_Arguin-Bourgade-Radziwill_2023_Fyodorov_Hiary_Keating_Conjecture_II.pdf` |
-| `006_AriasdeReyna_2024_Explicit_Formula_Quasicrystal_Definition.pdf` | `010_AriasdeReyna_2024_Explicit_Formula_Quasicrystal_Definition.pdf` |
-| `007_Aryan_2019_Extension_Landau_Gonek_Formula.pdf` | `011_Aryan_2019_Extension_Landau_Gonek_Formula.pdf` |
-| `008_Aryan_2022_Extension_Landau_Gonek_Formula_Published.pdf` | `012_Aryan_2022_Extension_Landau_Gonek_Formula_Published.pdf` |
-| `009_Avdonin-Ivanov_2001_Exponential_Riesz_Bases_Subspaces_Divided_Differences.pdf` | `013_Avdonin-Ivanov_2001_Exponential_Riesz_Bases_Subspaces_Divided_Differences.pdf` |
-| `010_Avdonin_1977_Riesz_Bases_Exponential_Functions_L2_Brief.pdf` | `014_Avdonin_1977_Riesz_Bases_Exponential_Functions_L2_Brief.pdf` |
-| `011_Aymone-Sidoravicius_2017_Partial_Sums_Biased_Random_Multiplicative_Functions.pdf` | `015_Aymone-Sidoravicius_2017_Partial_Sums_Biased_Random_Multiplicative_Functions.pdf` |
-| `012_Aymone2020_2020_A_note_on_multiplicative_functions_resembling_the_M_bius_function.pdf` | `016_Aymone2020_2020_A_note_on_multiplicative_functions_resembling_the_M_bius_function.pdf` |
-| `013_Backlund_1916_Nullstellen_Riemannschen_Zetafunktion.pdf` | `017_Backlund_1916_Nullstellen_Riemannschen_Zetafunktion.pdf` |
-| `014_BaezDuarte-Balazard-Landreau-Saias_2000_Notes_sur_la_fonction_zeta_de_Riemann_3.pdf` | `018_BaezDuarte-Balazard-Landreau-Saias_2000_Notes_sur_la_fonction_zeta_de_Riemann_3.pdf` |
-| `015_BaezDuarte2002_2002_BaezDuarte2002.pdf` | `019_BaezDuarte2002_2002_BaezDuarte2002.pdf` |
-| `016_Balanzario-SanchezOrtiz_2007_Zeros_Davenport_Heilbronn_Counterexample.pdf` | `020_Balanzario-SanchezOrtiz_2007_Zeros_Davenport_Heilbronn_Counterexample.pdf` |
-| `017_Balazard-Saias-Yor_1999_Notes_Fonction_Zeta_Riemann_2_Transcription_VellaChemla.pdf` | `021_Balazard-Saias-Yor_1999_Notes_Fonction_Zeta_Riemann_2_Transcription_VellaChemla.pdf` |
-| `018_Balog_1987_Integers_Without_Large_Prime_Factors.pdf` | `022_Balog_1987_Integers_Without_Large_Prime_Factors.pdf` |
-| `019_Baluyot-Goldston-etal_2025_Pair_Correlation_Zeros_I_Proportions_Simple_Critical.pdf` | `023_Baluyot-Goldston-etal_2025_Pair_Correlation_Zeros_I_Proportions_Simple_Critical.pdf` |
-| `020_Baricz-Laforgia-Pogany_2015_Van_Der_Corput_Inequalities_Bessel.pdf` | `024_Baricz-Laforgia-Pogany_2015_Van_Der_Corput_Inequalities_Bessel.pdf` |
-| `021_Barrett-Jarvis_1992_Spectral_Properties_Redheffer_Matrix.pdf` | `025_Barrett-Jarvis_1992_Spectral_Properties_Redheffer_Matrix.pdf` |
-| `022_Bellotti-Wong_2025_Improved_Argument_Zero_Counting_Zeta.pdf` | `027_Bellotti-Wong_2025_Improved_Argument_Zero_Counting_Zeta.pdf` |
-| `340_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf` | `028_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf` |
-| `023_Bellotti_2024_Explicit_Bounds_Zeta_New_Zero_Free_Region.pdf` | `029_Bellotti_2024_Explicit_Bounds_Zeta_New_Zero_Free_Region.pdf` |
-| `024_Belton2022_2022_Mathematics_Research_Reports.pdf` | `030_Belton2022_2022_Mathematics_Research_Reports.pdf` |
-| `025_Benedetto-Powell-Yilmaz_2006_Sigma_Delta_Quantization_Finite_Frames.pdf` | `031_Benedetto-Powell-Yilmaz_2006_Sigma_Delta_Quantization_Finite_Frames.pdf` |
-| `026_Bennett-Martin-OBryant-Rechnitzer_2021_Counting_Zeros_Dirichlet_L_Functions.pdf` | `032_Bennett-Martin-OBryant-Rechnitzer_2021_Counting_Zeros_Dirichlet_L_Functions.pdf` |
-| `027_Benvenuti2019_2019_The_inverse_eigenvalue_problem_for_Leslie_matrices.pdf` | `033_Benvenuti2019_2019_The_inverse_eigenvalue_problem_for_Leslie_matrices.pdf` |
-| `028_BergelsonKulagaPrzymusLemanczykRichter2019_2019_Discrete_Contin_Dyn_Syst.pdf` | `034_BergelsonKulagaPrzymusLemanczykRichter2019_2019_Discrete_Contin_Dyn_Syst.pdf` |
-| `029_Bernstein_1929_Fonctions_Absolument_Monotones.pdf` | `035_Bernstein_1929_Fonctions_Absolument_Monotones.pdf` |
-| `030_Berry_1988_Semiclassical_Formula_Number_Variance_Riemann_Zeros.pdf` | `036_Berry_1988_Semiclassical_Formula_Number_Variance_Riemann_Zeros.pdf` |
-| `031_Beurling_1937_Distribution_Nombres_Premiers_Generalises_I.pdf` | `037_Beurling_1937_Distribution_Nombres_Premiers_Generalises_I.pdf` |
-| `032_Bjorner_2011_Cell_Complex_Number_Theory.pdf` | `039_Bjorner_2011_Cell_Complex_Number_Theory.pdf` |
-| `033_Bloch_2000_Higher_Regulators_K_Theory_Zeta_Elliptic_Curves.pdf` | `040_Bloch_2000_Higher_Regulators_K_Theory_Zeta_Elliptic_Curves.pdf` |
-| `034_Bogomolny-Keating_1995_Random_Matrix_Theory_Riemann_Zeros_I_Three_Four_Point_Correlations.pdf` | `041_Bogomolny-Keating_1995_Random_Matrix_Theory_Riemann_Zeros_I_Three_Four_Point_Correlations.pdf` |
-| `035_Bogomolny-Keating_1996_Gutzwiller_Trace_Formula_Spectral_Statistics_Beyond_Diagonal.pdf` | `042_Bogomolny-Keating_1996_Gutzwiller_Trace_Formula_Spectral_Statistics_Beyond_Diagonal.pdf` |
-| `036_Bogomolny-Keating_1996_Random_Matrix_Theory_Riemann_Zeros_II_n_Point_Correlations.pdf` | `043_Bogomolny-Keating_1996_Random_Matrix_Theory_Riemann_Zeros_II_n_Point_Correlations.pdf` |
-| `037_Bohigas-Leboeuf-Sanchez_2001_Spectral_Spacing_Correlations.pdf` | `044_Bohigas-Leboeuf-Sanchez_2001_Spectral_Spacing_Correlations.pdf` |
-| `038_Bohr_1926_Fastperiodische_Funktionen_III_Dirichletentwicklung.pdf` | `045_Bohr_1926_Fastperiodische_Funktionen_III_Dirichletentwicklung.pdf` |
-| `039_Bombieri_2010_Classical_Theory_Zeta_And_L_Functions.pdf` | `046_Bombieri_2010_Classical_Theory_Zeta_And_L_Functions.pdf` |
-| `040_Bonami1970_1970_Etude_des_coefficients_de_Fourier_des_fonctions_de_L_p_G.pdf` | `047_Bonami1970_1970_Etude_des_coefficients_de_Fourier_des_fonctions_de_L_p_G.pdf` |
-| `041_Bondarenko-Radchenko-Seip_2023_Fourier_Interpolation_Zeros_Zeta_L_Functions.pdf` | `048_Bondarenko-Radchenko-Seip_2023_Fourier_Interpolation_Zeros_Zeta_L_Functions.pdf` |
-| `042_BorceaBranden2009_2009_Annals_of_Mathematics.pdf` | `049_BorceaBranden2009_2009_Annals_of_Mathematics.pdf` |
-| `043_Bornemann-Forrester-Mays_2017_Finite_Size_Effects_Spacing_Distributions.pdf` | `050_Bornemann-Forrester-Mays_2017_Finite_Size_Effects_Spacing_Distributions.pdf` |
-| `044_Borwein-Straub-Wan-Zudilin_2012_Densities_Short_Uniform_Random_Walks.pdf` | `051_Borwein-Straub-Wan-Zudilin_2012_Densities_Short_Uniform_Random_Walks.pdf` |
-| `045_Bourgain_2017_Decoupling_Exponential_Sums_Riemann_Zeta.pdf` | `053_Bourgain_2017_Decoupling_Exponential_Sums_Riemann_Zeta.pdf` |
-| `046_Bourgain_undated_On_the_Fourier_Walsh_spectrum_of_the_M_obius_function.pdf` | `054_Bourgain_undated_On_the_Fourier_Walsh_spectrum_of_the_M_obius_function.pdf` |
-| `047_Brent-Platt-Trudgian_2020_Sums_Over_Zeros_Riemann_Zeta.pdf` | `055_Brent-Platt-Trudgian_2020_Sums_Over_Zeros_Riemann_Zeta.pdf` |
-| `048_Brent2018_2019_On_asymptotic_approximations_to_the_log_Gamma_and_Riemann_Siegel_theta_functions.pdf` | `056_Brent2018_2019_On_asymptotic_approximations_to_the_log_Gamma_and_Riemann_Siegel_theta_functions.pdf` |
-| `049_Brent_1979_Zeros_Riemann_Zeta_Critical_Strip.pdf` | `057_Brent_1979_Zeros_Riemann_Zeta_Critical_Strip.pdf` |
-| `050_BretcheDressTenenbaum2020_2020_Mathematika.pdf` | `058_BretcheDressTenenbaum2020_2020_Mathematika.pdf` |
-| `051_Brevig-Perfekt-Seip-Siskakis-Vukotic_2016_Multiplicative_Hilbert_Matrix.pdf` | `059_Brevig-Perfekt-Seip-Siskakis-Vukotic_2016_Multiplicative_Hilbert_Matrix.pdf` |
-| `052_Broucke-Debruyne-Revesz_2025_Well_Behaved_Beurling_Number_Systems.pdf` | `060_Broucke-Debruyne-Revesz_2025_Well_Behaved_Beurling_Number_Systems.pdf` |
-| `053_Broucke-Debruyne-Vindas_2020_Beurling_Integers_RH_Large_Oscillation.pdf` | `061_Broucke-Debruyne-Vindas_2020_Beurling_Integers_RH_Large_Oscillation.pdf` |
-| `054_Broucke-Vindas_2024_Generalized_Prime_Random_Approximation.pdf` | `062_Broucke-Vindas_2024_Generalized_Prime_Random_Approximation.pdf` |
-| `055_Burbea1974_1974_Pacific_Journal_of_Mathematics.pdf` | `063_Burbea1974_1974_Pacific_Journal_of_Mathematics.pdf` |
-| `056_Burbea1976_1976_Pacific_Journal_of_Mathematics.pdf` | `064_Burbea1976_1976_Pacific_Journal_of_Mathematics.pdf` |
-| `057_Buthe2014_2015_A_method_for_proving_the_completeness_of_a_list_of_zeros_of_certain_functions.pdf` | `065_Buthe2014_2015_A_method_for_proving_the_completeness_of_a_list_of_zeros_of_certain_functions.pdf` |
-| `058_Carmona-Petrelis_2017_Limit_Theorems_Random_Walk_Excursion.pdf` | `066_Carmona-Petrelis_2017_Limit_Theorems_Random_Walk_Excursion.pdf` |
-| `059_Carneiro-Chandee-Littmann-Milinovich_2014_Hilbert_Spaces_Pair_Correlation.pdf` | `067_Carneiro-Chandee-Littmann-Milinovich_2014_Hilbert_Spaces_Pair_Correlation.pdf` |
-| `060_Carneiro-Milinovich-Ramos_2023_Fourier_Optimization_Montgomery_Pair_Correlation.pdf` | `068_Carneiro-Milinovich-Ramos_2023_Fourier_Optimization_Montgomery_Pair_Correlation.pdf` |
-| `061_CarrascoFlorens2000_2000_Econometric_Theory.pdf` | `069_CarrascoFlorens2000_2000_Econometric_Theory.pdf` |
-| `062_Cartier-Julia-Moussa-Vanhove_2006_Random_Matrices_Zeta_Dynamical_Systems.pdf` | `070_Cartier-Julia-Moussa-Vanhove_2006_Random_Matrices_Zeta_Dynamical_Systems.pdf` |
-| `063_Cassaigne-Ferenczi-Mauduit-Rivat-Sarkozy_1999_Liouville_Pseudorandom_Sequences.pdf` | `071_Cassaigne-Ferenczi-Mauduit-Rivat-Sarkozy_1999_Liouville_Pseudorandom_Sequences.pdf` |
-| `064_Chan_2002_More_Precise_Pair_Correlation_Zeros_Primes_Short_Intervals.pdf` | `072_Chan_2002_More_Precise_Pair_Correlation_Zeros_Primes_Short_Intervals.pdf` |
-| `065_Chandrasekharan-Mandelbrojt_1959_Solutions_Riemann_Functional_Equation.pdf` | `073_Chandrasekharan-Mandelbrojt_1959_Solutions_Riemann_Functional_Equation.pdf` |
-| `066_Chatterjee2007_2007_Stein_s_method_for_concentration_inequalities.pdf` | `074_Chatterjee2007_2007_Stein_s_method_for_concentration_inequalities.pdf` |
-| `067_Christ_2014_Value_Distribution_Zeta_Near_Critical_Line_Thesis.pdf` | `076_Christ_2014_Value_Distribution_Zeta_Near_Critical_Line_Thesis.pdf` |
-| `068_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf` | `077_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf` |
-| `069_Coffey_2005_Polygamma_Theory_Li_Keiper_Constants_Riemann_Hypothesis.pdf` | `079_Coffey_2005_Polygamma_Theory_Li_Keiper_Constants_Riemann_Hypothesis.pdf` |
-| `070_Coffey_2009_Certain_Sums_Over_Nontrivial_Zeta_Zeros.pdf` | `080_Coffey_2009_Certain_Sums_Over_Nontrivial_Zeta_Zeros.pdf` |
-| `071_Cohn-Elkies_2003_New_Upper_Bounds_Sphere_Packings_I.pdf` | `081_Cohn-Elkies_2003_New_Upper_Bounds_Sphere_Packings_I.pdf` |
-| `072_Connes1998_1998_Connes1998.pdf` | `082_Connes1998_1998_Connes1998.pdf` |
-| `073_Connes2026_2026_Connes2026.pdf` | `083_Connes2026_2026_Connes2026.pdf` |
-| `074_Conrad_2005_Partial_Euler_Products_Critical_Line.pdf` | `084_Conrad_2005_Partial_Euler_Products_Critical_Line.pdf` |
-| `075_Conrey-Keating_2016_Pair_Correlation_Twin_Primes_Revisited.pdf` | `085_Conrey-Keating_2016_Pair_Correlation_Twin_Primes_Revisited.pdf` |
-| `076_Conrey-TurnageButterbaugh_2018_r_Gaps_Between_Zeros_Zeta.pdf` | `086_Conrey-TurnageButterbaugh_2018_r_Gaps_Between_Zeros_Zeta.pdf` |
-| `077_ConreySnaith2008_2008_Communications_in_Number_Theory_and_Physics.pdf` | `087_ConreySnaith2008_2008_Communications_in_Number_Theory_and_Physics.pdf` |
-| `078_Conrey_1986_Review_Ivic_Riemann_Zeta_Function.pdf` | `088_Conrey_1986_Review_Ivic_Riemann_Zeta_Function.pdf` |
-| `079_Conrey_1989_More_Than_Two_Fifths_Zeros_Critical_Line.pdf` | `089_Conrey_1989_More_Than_Two_Fifths_Zeros_Critical_Line.pdf` |
-| `080_Conrey_2003_Riemann_Hypothesis.pdf` | `090_Conrey_2003_Riemann_Hypothesis.pdf` |
-| `081_Coons2010_2010_On_the_multiplicative_Erd_s_discrepancy_problem.pdf` | `091_Coons2010_2010_On_the_multiplicative_Erd_s_discrepancy_problem.pdf` |
-| `082_Corless-Gonnet-Hare-Jeffrey-Knuth_1996_Lambert_W_Function.pdf` | `092_Corless-Gonnet-Hare-Jeffrey-Knuth_1996_Lambert_W_Function.pdf` |
-| `083_Cramer_1919_Nullstellen_Riemannschen_Zetafunktion.pdf` | `093_Cramer_1919_Nullstellen_Riemannschen_Zetafunktion.pdf` |
-| `084_Croot_2003_Oscillations_Multiplicative_PlusMinusOne.pdf` | `094_Croot_2003_Oscillations_Multiplicative_PlusMinusOne.pdf` |
-| `085_Croot_2007_Smooth_Numbers_Short_Intervals.pdf` | `095_Croot_2007_Smooth_Numbers_Short_Intervals.pdf` |
-| `086_Dannon_2008_Riemann_Zeta_Function.pdf` | `096_Dannon_2008_Riemann_Zeta_Function.pdf` |
-| `087_Das-Ismoilov-Ramos_2025_Fourier_Optimization_Pair_Correlation_Problems.pdf` | `097_Das-Ismoilov-Ramos_2025_Fourier_Optimization_Pair_Correlation_Problems.pdf` |
-| `088_Daubechies-DeVore_2003_Bandlimited_Function_Stable_Sigma_Delta_Modulators.pdf` | `098_Daubechies-DeVore_2003_Bandlimited_Function_Stable_Sigma_Delta_Modulators.pdf` |
-| `089_Davenport-Heilbronn_1936_Zeros_Certain_Dirichlet_Series_I.pdf` | `099_Davenport-Heilbronn_1936_Zeros_Certain_Dirichlet_Series_I.pdf` |
-| `341_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf` | `100_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf` |
-| `090_Debruyne-Vindas_2019_Complex_Tauberian_Theorems_Laplace_Transforms.pdf` | `101_Debruyne-Vindas_2019_Complex_Tauberian_Theorems_Laplace_Transforms.pdf` |
-| `091_DellAnnaEtAl2016_2016_Violation_of_cluster_decomposition_and_absence_of_light_cones_in_local_integer_and_half_integer_spin_chains.pdf` | `103_DellAnnaEtAl2016_2016_Violation_of_cluster_decomposition_and_absence_of_light_cones_in_local_integer_and_half_integer_spin_chains.pdf` |
-| `092_Denisov-Kolb-Wachtel_2015_Local_Asymptotics_Random_Walk_Excursions.pdf` | `104_Denisov-Kolb-Wachtel_2015_Local_Asymptotics_Random_Walk_Excursions.pdf` |
-| `093_DerridaEnaudLebowitz2004_2004_The_asymmetric_exclusion_process_and_Brownian_excursions.pdf` | `105_DerridaEnaudLebowitz2004_2004_The_asymmetric_exclusion_process_and_Brownian_excursions.pdf` |
-| `094_Diamond-Montgomery-Vorhauer_2006_Beurling_Primes_Large_Oscillation.pdf` | `106_Diamond-Montgomery-Vorhauer_2006_Beurling_Primes_Large_Oscillation.pdf` |
-| `095_Diamond_1970_Asymptotic_Distribution_Beurling_Generalized_Integers.pdf` | `107_Diamond_1970_Asymptotic_Distribution_Beurling_Generalized_Integers.pdf` |
-| `096_Drmota_2009_Sum_Of_Digits_Of_Primes.pdf` | `108_Drmota_2009_Sum_Of_Digits_Of_Primes.pdf` |
-| `097_Durkan-Hughes-PearceCrump_2026_Generalisations_Landau_Gonek_Theorem.pdf` | `109_Durkan-Hughes-PearceCrump_2026_Generalisations_Landau_Gonek_Theorem.pdf` |
-| `098_DurrettIglehartMiller1977_1977_Weak_convergence_to_Brownian_meander_and_Brownian_excursion.pdf` | `110_DurrettIglehartMiller1977_1977_Weak_convergence_to_Brownian_meander_and_Brownian_excursion.pdf` |
-| `099_DuttEtAl2019_2019_Nature_Communications.pdf` | `111_DuttEtAl2019_2019_Nature_Communications.pdf` |
-| `100_Edwards_1974_Riemanns_Zeta_Function.pdf` | `112_Edwards_1974_Riemanns_Zeta_Function.pdf` |
-| `101_Engert1970_1970_Finite_dimensional_translation_invariant_subspaces.pdf` | `113_Engert1970_1970_Finite_dimensional_translation_invariant_subspaces.pdf` |
-| `102_ErdosEtAl2012_2012_Spectral_statistics_of_Erd.pdf` | `114_ErdosEtAl2012_2012_Spectral_statistics_of_Erd.pdf` |
-| `103_Fazzari-Gerspach-Minelli_2025_Selberg_CLT_Weighted_Linear_Statistics_Zeta_Zeros.pdf` | `115_Fazzari-Gerspach-Minelli_2025_Selberg_CLT_Weighted_Linear_Statistics_Zeta_Zeros.pdf` |
-| `104_FazziGuglielmiMarkovsky2021_2021_A_gradient_system_approach_for_Hankel_structured_low_rank_approximation.pdf` | `116_FazziGuglielmiMarkovsky2021_2021_A_gradient_system_approach_for_Hankel_structured_low_rank_approximation.pdf` |
-| `105_Fiori_2025_Note_Phragmen_Lindelof_Theorem.pdf` | `118_Fiori_2025_Note_Phragmen_Lindelof_Theorem.pdf` |
-| `106_Ford-Meng-Zaharescu_2017_Simultaneous_Fractional_Parts.pdf` | `119_Ford-Meng-Zaharescu_2017_Simultaneous_Fractional_Parts.pdf` |
-| `107_Ford-Soundararajan-Zaharescu_2009_Imaginary_Parts_II.pdf` | `120_Ford-Soundararajan-Zaharescu_2009_Imaginary_Parts_II.pdf` |
-| `108_Ford-Zaharescu_2005_Imaginary_Parts_Zeta_Zeros.pdf` | `121_Ford-Zaharescu_2005_Imaginary_Parts_Zeta_Zeros.pdf` |
-| `109_Ford_2002_Vinogradov_Integral_Bounds_Riemann_Zeta.pdf` | `122_Ford_2002_Vinogradov_Integral_Bounds_Riemann_Zeta.pdf` |
-| `110_Forrester-Lebowitz_2013_Local_CLT_Determinantal_Point_Processes.pdf` | `123_Forrester-Lebowitz_2013_Local_CLT_Determinantal_Point_Processes.pdf` |
-| `111_Forrester-Mays_2015_Finite_Size_Corrections_RMT_Odlyzko_Data.pdf` | `124_Forrester-Mays_2015_Finite_Size_Corrections_RMT_Odlyzko_Data.pdf` |
-| `112_Franca-LeClair_2014_Statistical_Properties_Riemann_Zeros_Explicit_Equation_nth_Zero.pdf` | `125_Franca-LeClair_2014_Statistical_Properties_Riemann_Zeros_Explicit_Equation_nth_Zero.pdf` |
-| `113_Franca-LeClair_2014_Theory_Zeros_Riemann_Zeta_And_Other_L_Functions.pdf` | `126_Franca-LeClair_2014_Theory_Zeros_Riemann_Zeta_And_Other_L_Functions.pdf` |
-| `114_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions.pdf` | `127_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions.pdf` |
-| `115_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions_CNTP_Published.pdf` | `128_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions_CNTP_Published.pdf` |
-| `116_Frantzikinakis2020_1908_Correlations_of_multiplicative_functions_along_deterministic_and_independent_sequences.pdf` | `129_Frantzikinakis2020_1908_Correlations_of_multiplicative_functions_along_deterministic_and_independent_sequences.pdf` |
-| `117_Friedlander-Granville_1993_Smoothing_Smooth_Numbers.pdf` | `130_Friedlander-Granville_1993_Smoothing_Smooth_Numbers.pdf` |
-| `118_Fujii_1974_Zeros_Dirichlet_L_Functions_I.pdf` | `131_Fujii_1974_Zeros_Dirichlet_L_Functions_I.pdf` |
-| `119_Fujii_1975_Difference_r_Consecutive_Ordinates_Zeros_Zeta.pdf` | `132_Fujii_1975_Difference_r_Consecutive_Ordinates_Zeros_Zeta.pdf` |
-| `120_Fujii_1975_Distribution_Zeros_Zeta_Short_Intervals.pdf` | `133_Fujii_1975_Distribution_Zeros_Zeta_Short_Intervals.pdf` |
-| `121_Fujii_1981_Zeros_Dirichlet_L_Functions_II_Corrections.pdf` | `134_Fujii_1981_Zeros_Dirichlet_L_Functions_II_Corrections.pdf` |
-| `122_GPY2009_2009_Annals_of_Mathematics.pdf` | `135_GPY2009_2009_Annals_of_Mathematics.pdf` |
-| `123_Gallier2016_2016_Spectral_theory_of_unsigned_and_signed_graphs_applications_to_graph_clustering_a_survey.pdf` | `136_Gallier2016_2016_Spectral_theory_of_unsigned_and_signed_graphs_applications_to_graph_clustering_a_survey.pdf` |
-| `124_Ghosh-Sarnak_2012_Real_Zeros_Hecke_Cusp_Forms.pdf` | `139_Ghosh-Sarnak_2012_Real_Zeros_Hecke_Cusp_Forms.pdf` |
-| `125_Ghosh_2022_Statistics_Approximations_Zeros_Truncated_Symmetrized_Euler_Products.pdf` | `140_Ghosh_2022_Statistics_Approximations_Zeros_Truncated_Symmetrized_Euler_Products.pdf` |
-| `126_Goldfeld_1982_Produits_Partiels_Euleriens_Courbes_Elliptiques.pdf` | `141_Goldfeld_1982_Produits_Partiels_Euleriens_Courbes_Elliptiques.pdf` |
-| `127_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_II_Alternative_Hypothesis.pdf` | `142_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_II_Alternative_Hypothesis.pdf` |
-| `128_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_I_Simple_Critical.pdf` | `143_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_I_Simple_Critical.pdf` |
-| `129_Gonek-Sahay_2024_Consecutive_Moderate_Gaps_Between_Zeros_Zeta.pdf` | `144_Gonek-Sahay_2024_Consecutive_Moderate_Gaps_Between_Zeros_Zeta.pdf` |
-| `130_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf` | `145_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf` |
-| `131_Gonek_2012_Finite_Euler_Products_Riemann_Hypothesis.pdf` | `146_Gonek_2012_Finite_Euler_Products_Riemann_Hypothesis.pdf` |
-| `132_GordinPeligrad2011_2011_On_the_functional_central_limit_theorem_via_martingale_approximation.pdf` | `147_GordinPeligrad2011_2011_On_the_functional_central_limit_theorem_via_martingale_approximation.pdf` |
-| `133_Gouezel2010_2010_Almost_sure_invariance_principle_for_dynamical_systems_by_spectral_methods.pdf` | `148_Gouezel2010_2010_Almost_sure_invariance_principle_for_dynamical_systems_by_spectral_methods.pdf` |
-| `134_Graham-Kolesnik_1991_Computing_Optimal_Exponent_Pairs.pdf` | `149_Graham-Kolesnik_1991_Computing_Optimal_Exponent_Pairs.pdf` |
-| `135_Graham-Kolesnik_1991_Simplest_Van_Der_Corput_Estimates.pdf` | `150_Graham-Kolesnik_1991_Simplest_Van_Der_Corput_Estimates.pdf` |
-| `136_Granville-Soundararajan_2003_Decay_Of_Mean_Values.pdf` | `151_Granville-Soundararajan_2003_Decay_Of_Mean_Values.pdf` |
-| `137_Granville_2008_Smooth_Numbers_Survey.pdf` | `152_Granville_2008_Smooth_Numbers_Survey.pdf` |
-| `138_GrepstadEtAl2019_1909_On_the_asymptotic_behaviour_of_the_sine_product.pdf` | `154_GrepstadEtAl2019_1909_On_the_asymptotic_behaviour_of_the_sine_product.pdf` |
-| `139_Grosswald-Schnitzer_1978_Class_Modified_Zeta_L_Functions.pdf` | `155_Grosswald-Schnitzer_1978_Class_Modified_Zeta_L_Functions.pdf` |
-| `140_Guillera_2013_Sums_Nontrivial_Zeros_Riemann_Zeta.pdf` | `156_Guillera_2013_Sums_Nontrivial_Zeros_Riemann_Zeta.pdf` |
-| `141_Gunturk-Thao_2003_Ergodic_Dynamics_Sigma_Delta_Quantization.pdf` | `157_Gunturk-Thao_2003_Ergodic_Dynamics_Sigma_Delta_Quantization.pdf` |
-| `142_Guth-Maynard_2026_New_Large_Value_Estimates_Dirichlet_Polynomials.pdf` | `158_Guth-Maynard_2026_New_Large_Value_Estimates_Dirichlet_Polynomials.pdf` |
-| `143_Hadamard_1896_Distribution_Zeros_Zeta_Consequences_Arithmetiques.pdf` | `159_Hadamard_1896_Distribution_Zeros_Zeta_Consequences_Arithmetiques.pdf` |
-| `144_Hamburger_1921_Riemannsche_Funktionalgleichung_Zeta_Funktion_I.pdf` | `160_Hamburger_1921_Riemannsche_Funktionalgleichung_Zeta_Funktion_I.pdf` |
-| `145_Hardy-Littlewood-Polya_1934_Inequalities.pdf` | `161_Hardy-Littlewood-Polya_1934_Inequalities.pdf` |
-| `146_Hardy-Littlewood_1917_Riemann_Zeta_And_Distribution_Primes.pdf` | `162_Hardy-Littlewood_1917_Riemann_Zeta_And_Distribution_Primes.pdf` |
-| `147_Harman-Pintz-Wolke_1985_Mobius_And_Liouville_Functions.pdf` | `163_Harman-Pintz-Wolke_1985_Mobius_And_Liouville_Functions.pdf` |
-| `148_Harper_2013_Conditional_Bounds_Zeta_Moments.pdf` | `164_Harper_2013_Conditional_Bounds_Zeta_Moments.pdf` |
-| `149_Harper_2020_Moments_Random_Multiplicative_Functions_I.pdf` | `165_Harper_2020_Moments_Random_Multiplicative_Functions_I.pdf` |
-| `150_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Dedekind_Zeta.pdf` | `166_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Dedekind_Zeta.pdf` |
-| `151_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Riemann_Zeta.pdf` | `167_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Riemann_Zeta.pdf` |
-| `152_HaugPrellberg2015_2015_Uniform_asymptotics_of_area_weighted_Dyck_paths.pdf` | `168_HaugPrellberg2015_2015_Uniform_asymptotics_of_area_weighted_Dyck_paths.pdf` |
-| `153_Haynes-Zudilin_2015_Hankel_Determinants_Zeta_Values.pdf` | `169_Haynes-Zudilin_2015_Hankel_Determinants_Zeta_Values.pdf` |
-| `342_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf` | `170_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf` |
-| `154_Helfgott-Thompson_2023_Summing_Mobius_Faster_Elementary_Algorithm.pdf` | `171_Helfgott-Thompson_2023_Summing_Mobius_Faster_Elementary_Algorithm.pdf` |
-| `155_HelfgottRadziwill2021_undated_HelfgottRadziwill2021.pdf` | `172_HelfgottRadziwill2021_undated_HelfgottRadziwill2021.pdf` |
-| `156_HerichiLapidus2014_2014_Truncated_infinitesimal_shifts_spectral_operators_and_quantized_universality_of_the_Riemann_zeta_function.pdf` | `173_HerichiLapidus2014_2014_Truncated_infinitesimal_shifts_spectral_operators_and_quantized_universality_of_the_Riemann_zeta_function.pdf` |
-| `157_HerreraMoree2018_2018_Coefficients_and_higher_order_derivatives_of_cyclotomic_polynomials_old_and_new.pdf` | `174_HerreraMoree2018_2018_Coefficients_and_higher_order_derivatives_of_cyclotomic_polynomials_old_and_new.pdf` |
-| `158_HeuslerEtAl2007_2007_Periodic_orbit_theory_of_level_correlations.pdf` | `175_HeuslerEtAl2007_2007_Periodic_orbit_theory_of_level_correlations.pdf` |
-| `343_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf` | `176_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf` |
-| `159_Hiary-Leong-Yang_2025_Explicit_Bounds_Zeta_1_Line.pdf` | `177_Hiary-Leong-Yang_2025_Explicit_Bounds_Zeta_1_Line.pdf` |
-| `160_Hiary-Patel-Yang_2024_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` | `178_Hiary-Patel-Yang_2024_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` |
-| `161_Hilberdink-Lapidus_2006_Beurling_Zeta_Generalised_Primes_Fractal_Membranes.pdf` | `180_Hilberdink-Lapidus_2006_Beurling_Zeta_Generalised_Primes_Fractal_Membranes.pdf` |
-| `162_Hilberdink-Pushnitski_2023_Spectral_Asymptotics_LCM_Matrices.pdf` | `181_Hilberdink-Pushnitski_2023_Spectral_Asymptotics_LCM_Matrices.pdf` |
-| `163_Hilberdink_2006_Determinants_Multiplicative_Toeplitz_Matrices.pdf` | `182_Hilberdink_2006_Determinants_Multiplicative_Toeplitz_Matrices.pdf` |
-| `164_Hilberdink_2015_Multiplicative_Toeplitz_Matrices_Riemann_Zeta.pdf` | `183_Hilberdink_2015_Multiplicative_Toeplitz_Matrices_Riemann_Zeta.pdf` |
-| `165_Hilberdink_2017_Singular_Values_Multiplicative_Toeplitz_Matrices.pdf` | `184_Hilberdink_2017_Singular_Values_Multiplicative_Toeplitz_Matrices.pdf` |
-| `166_Hoffman1992_1992_Multiple_harmonic_series.pdf` | `185_Hoffman1992_1992_Multiple_harmonic_series.pdf` |
-| `167_Hruscev-Nikolskii-Pavlov_1981_Unconditional_Bases_Exponentials_Reproducing_Kernels.pdf` | `186_Hruscev-Nikolskii-Pavlov_1981_Unconditional_Bases_Exponentials_Reproducing_Kernels.pdf` |
-| `168_Hughes-Rudnick_2002_Linear_Statistics_Zeros_Zeta.pdf` | `187_Hughes-Rudnick_2002_Linear_Statistics_Zeros_Zeta.pdf` |
-| `169_Hurst2026_2026_Practical_computations_of_the_Mertens_function_M_10.pdf` | `188_Hurst2026_2026_Practical_computations_of_the_Mertens_function_M_10.pdf` |
-| `170_Hurst_2018_Computations_Mertens_Function_Improved_Bounds.pdf` | `189_Hurst_2018_Computations_Mertens_Function_Improved_Bounds.pdf` |
-| `171_Hutchinson_1925_Roots_Riemann_Zeta_Function.pdf` | `190_Hutchinson_1925_Roots_Riemann_Zeta_Function.pdf` |
-| `172_Huxley_1989_Exponential_Sums_Riemann_Zeta.pdf` | `192_Huxley_1989_Exponential_Sums_Riemann_Zeta.pdf` |
-| `173_Igusa_2000_Introduction_Local_Zeta_Functions.pdf` | `193_Igusa_2000_Introduction_Local_Zeta_Functions.pdf` |
-| `174_Ingham_1936_Trigonometrical_Inequalities_Theory_Series.pdf` | `194_Ingham_1936_Trigonometrical_Inequalities_Theory_Series.pdf` |
-| `175_Inoue-Kobayashi-Toma_2026_Explicit_Extreme_Values_Argument_Zeta.pdf` | `195_Inoue-Kobayashi-Toma_2026_Explicit_Extreme_Values_Argument_Zeta.pdf` |
-| `176_Inoue_2024_Note_On_r_Gaps_Between_Zeros_Zeta.pdf` | `196_Inoue_2024_Note_On_r_Gaps_Between_Zeros_Zeta.pdf` |
-| `177_Ivic-Korolev_2018_Distribution_Values_Argument_Zeta.pdf` | `197_Ivic-Korolev_2018_Distribution_Values_Argument_Zeta.pdf` |
-| `178_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf` | `198_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf` |
-| `179_Ivic_2001_Sums_Over_Ordinates_Zeta_Zeros.pdf` | `199_Ivic_2001_Sums_Over_Ordinates_Zeta_Zeros.pdf` |
-| `180_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` | `200_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` |
-| `181_Janson_2007_Brownian_Excursion_Area_Wright_Constants.pdf` | `201_Janson_2007_Brownian_Excursion_Area_Wright_Constants.pdf` |
-| `182_Jerby_2023_New_Discriminant_Hardy_Z_Function_Corrected_Gram_Law.pdf` | `202_Jerby_2023_New_Discriminant_Hardy_Z_Function_Corrected_Gram_Law.pdf` |
-| `183_Johansson_2001_Discrete_Orthogonal_Polynomial_Ensembles_Plancherel.pdf` | `203_Johansson_2001_Discrete_Orthogonal_Polynomial_Ensembles_Plancherel.pdf` |
-| `184_Johansson_2017_Arb_Arbitrary_Precision_Interval_Arithmetic.pdf` | `204_Johansson_2017_Arb_Arbitrary_Precision_Interval_Arithmetic.pdf` |
-| `185_Johansson_2018_Numerical_Integration_Ball_Arithmetic.pdf` | `205_Johansson_2018_Numerical_Integration_Ball_Arithmetic.pdf` |
-| `186_Jones-Sato-Wada-Wiens_1976_Diophantine_Representation_Primes.pdf` | `206_Jones-Sato-Wada-Wiens_1976_Diophantine_Representation_Primes.pdf` |
-| `187_Jun-Lee_2014_Dedekind_And_Exponential_Sums.pdf` | `207_Jun-Lee_2014_Dedekind_And_Exponential_Sums.pdf` |
-| `188_Jutila_1977_Zero_Density_Estimates_L_Functions.pdf` | `208_Jutila_1977_Zero_Density_Estimates_L_Functions.pdf` |
-| `189_Kaczorowski-Perelli_1999_Structure_Selberg_Class_I.pdf` | `209_Kaczorowski-Perelli_1999_Structure_Selberg_Class_I.pdf` |
-| `190_Kaczorowski-Pintz_1986_Oscillatory_Properties_Arithmetical_Functions_I.pdf` | `210_Kaczorowski-Pintz_1986_Oscillatory_Properties_Arithmetical_Functions_I.pdf` |
-| `191_KaczorowskiLanguascoPerelli2000_2000_A_note_on_Landau_s_formula.pdf` | `211_KaczorowskiLanguascoPerelli2000_2000_A_note_on_Landau_s_formula.pdf` |
-| `192_Kaczorowski_1991_k_Functions_Multiplicative_Number_Theory_V.pdf` | `212_Kaczorowski_1991_k_Functions_Multiplicative_Number_Theory_V.pdf` |
-| `193_Kaigh1976_1976_An_invariance_principle_for_random_walk_conditioned_by_a_late_return_to_zero.pdf` | `213_Kaigh1976_1976_An_invariance_principle_for_random_walk_conditioned_by_a_late_return_to_zero.pdf` |
-| `194_Kanemitsu-Tsukada_2015_Hecke_Type_Zeta_Functions.pdf` | `214_Kanemitsu-Tsukada_2015_Hecke_Type_Zeta_Functions.pdf` |
-| `195_Kanemitsu-Tsukada_2015_Modular_Relation_Supremacy.pdf` | `215_Kanemitsu-Tsukada_2015_Modular_Relation_Supremacy.pdf` |
-| `196_Kannan-Bachem_1979_Polynomial_Algorithms_Smith_Hermite_Normal_Forms.pdf` | `216_Kannan-Bachem_1979_Polynomial_Algorithms_Smith_Hermite_Normal_Forms.pdf` |
-| `197_Karatsuba-Voronin_1992_Vinogradov_Method_Riemann_Zeta.pdf` | `217_Karatsuba-Voronin_1992_Vinogradov_Method_Riemann_Zeta.pdf` |
-| `198_Kargin_2013_Fluctuations_Riemann_Zeta_Zeros.pdf` | `218_Kargin_2013_Fluctuations_Riemann_Zeta_Zeros.pdf` |
-| `199_Keating_2022_Hierarchical_Structure_Trace_Formula.pdf` | `220_Keating_2022_Hierarchical_Structure_Trace_Formula.pdf` |
-| `200_Kelly-Le_2018_Van_Der_Corput_Sets_Compact_Groups.pdf` | `221_Kelly-Le_2018_Van_Der_Corput_Sets_Compact_Groups.pdf` |
-| `201_KhorunzhiyMarckert2009_2009_Uniform_bounds_for_exponential_moment_of_maximum_of_a_Dyck_path.pdf` | `222_KhorunzhiyMarckert2009_2009_Uniform_bounds_for_exponential_moment_of_maximum_of_a_Dyck_path.pdf` |
-| `202_Kinnunen_1997_Hardy_Littlewood_Maximal_Function_Sobolev_Function.pdf` | `223_Kinnunen_1997_Hardy_Littlewood_Maximal_Function_Sobolev_Function.pdf` |
-| `203_Knopp_1994_Dirichlet_Series_Riemann_Functional_Equation.pdf` | `224_Knopp_1994_Dirichlet_Series_Riemann_Functional_Equation.pdf` |
-| `204_Kolountzakis-Revesz_2003_Turan_Extremal_Problem.pdf` | `225_Kolountzakis-Revesz_2003_Turan_Extremal_Problem.pdf` |
-| `205_Komori-Matsumoto-Tsumura_2023_Zeta_Functions_Root_Systems.pdf` | `227_Komori-Matsumoto-Tsumura_2023_Zeta_Functions_Root_Systems.pdf` |
-| `206_Korolev-Laurincikas_2023_Approximation_Mellin_Transform_Zeta_Axioms.pdf` | `228_Korolev-Laurincikas_2023_Approximation_Mellin_Transform_Zeta_Axioms.pdf` |
-| `207_Korolev_2010_Gram_Law_Selberg_Conjecture_Zeros_Izv_Math.pdf` | `229_Korolev_2010_Gram_Law_Selberg_Conjecture_Zeros_Izv_Math.pdf` |
-| `208_Korolev_2011_Gram_Law_Argument_Riemann_Zeta_arXiv.pdf` | `230_Korolev_2011_Gram_Law_Argument_Riemann_Zeta_arXiv.pdf` |
-| `209_Korolev_2012_Gram_Law_Argument_Riemann_Zeta_Publ_Inst_Math.pdf` | `231_Korolev_2012_Gram_Law_Argument_Riemann_Zeta_Publ_Inst_Math.pdf` |
-| `210_Korolev_2012_Gram_Law_Riemann_Zeta.pdf` | `232_Korolev_2012_Gram_Law_Riemann_Zeta.pdf` |
-| `211_Korolev_2016_Extreme_Values_S_Short_Intervals_Indian_J.pdf` | `233_Korolev_2016_Extreme_Values_S_Short_Intervals_Indian_J.pdf` |
-| `212_Korolev_2016_Gram_Law_Theory_Zeta_Part1_Proc_Steklov.pdf` | `234_Korolev_2016_Gram_Law_Theory_Zeta_Part1_Proc_Steklov.pdf` |
-| `213_Kotnik-vandeLune_2004_Order_Mertens_Function.pdf` | `235_Kotnik-vandeLune_2004_Order_Mertens_Function.pdf` |
-| `214_Kousha2012_2012_Asymptotic_behavior_and_the_moderate_deviation_principle_for_the_maximum_of_a_Dyck_path.pdf` | `236_Kousha2012_2012_Asymptotic_behavior_and_the_moderate_deviation_principle_for_the_maximum_of_a_Dyck_path.pdf` |
-| `215_Kowalski-Robert-Wu_2007_Small_Gaps_And_B_Free_Numbers.pdf` | `237_Kowalski-Robert-Wu_2007_Small_Gaps_And_B_Free_Numbers.pdf` |
-| `216_Kowalski_2021_Exponential_Sums_Finite_Fields_Elementary.pdf` | `238_Kowalski_2021_Exponential_Sums_Finite_Fields_Elementary.pdf` |
-| `217_Kowalski_2021_Exponential_Sums_Finite_Fields_II.pdf` | `239_Kowalski_2021_Exponential_Sums_Finite_Fields_II.pdf` |
-| `218_Kozma-Lev_2011_Exponential_Riesz_Bases_Discrepancy_BMO.pdf` | `240_Kozma-Lev_2011_Exponential_Riesz_Bases_Discrepancy_BMO.pdf` |
-| `219_Kurasov-Sarnak_2020_Stable_Polynomials_Crystalline_Measures.pdf` | `241_Kurasov-Sarnak_2020_Stable_Polynomials_Crystalline_Measures.pdf` |
-| `220_LMS_2015_Atle_Selberg_Obituary.pdf` | `242_LMS_2015_Atle_Selberg_Obituary.pdf` |
-| `221_Labahn-Neiger-Zhou_2018_Hermite_Normal_Form_Polynomial_Matrix.pdf` | `243_Labahn-Neiger-Zhou_2018_Hermite_Normal_Form_Polynomial_Matrix.pdf` |
-| `222_Lagarias2007_2007_Li_coefficients_for_automorphic_functions.pdf` | `244_Lagarias2007_2007_Li_coefficients_for_automorphic_functions.pdf` |
-| `223_Landau_1912_Nullstellen_Zetafunktion.pdf` | `246_Landau_1912_Nullstellen_Zetafunktion.pdf` |
-| `224_Lapidus-VanFrankenhuysen_2000_Fractal_Geometry_Number_Theory.pdf` | `247_Lapidus-VanFrankenhuysen_2000_Fractal_Geometry_Number_Theory.pdf` |
-| `225_Lau-Liu-Wu_2010_Symmetric_Square_L_Function_Coefficients.pdf` | `248_Lau-Liu-Wu_2010_Symmetric_Square_L_Function_Coefficients.pdf` |
-| `226_LeClair_2016_Riemann_Hypothesis_Random_Walks_Zeta_Case.pdf` | `249_LeClair_2016_Riemann_Hypothesis_Random_Walks_Zeta_Case.pdf` |
-| `227_LeeLeong2024_2024_New_explicit_bounds_for_the_Mertens_function_and_the_reciprocal_of_the_Riemann_zeta_function.pdf` | `250_LeeLeong2024_2024_New_explicit_bounds_for_the_Mertens_function_and_the_reciprocal_of_the_Riemann_zeta_function.pdf` |
-| `228_Leong_2024_Explicit_Estimates_Log_Derivative_Reciprocal_Zeta.pdf` | `251_Leong_2024_Explicit_Estimates_Log_Derivative_Reciprocal_Zeta.pdf` |
-| `229_Lester-Matomaki-Radziwill_2015_Small_Scale_Zeros_Modular_Forms.pdf` | `252_Lester-Matomaki-Radziwill_2015_Small_Scale_Zeros_Modular_Forms.pdf` |
-| `230_Lev-Olevskii_2015_Quasicrystals_Poisson_Summation_Formula.pdf` | `253_Lev-Olevskii_2015_Quasicrystals_Poisson_Summation_Formula.pdf` |
-| `231_Lev_2012_Riesz_Bases_Exponentials_Multiband_Spectra_Preprint.pdf` | `254_Lev_2012_Riesz_Bases_Exponentials_Multiband_Spectra_Preprint.pdf` |
-| `232_LiYang2023_2023_An_improvement_on_Gauss_s_circle_problem_and_Dirichlet_s_divisor_problem.pdf` | `255_LiYang2023_2023_An_improvement_on_Gauss_s_circle_problem_and_Dirichlet_s_divisor_problem.pdf` |
-| `233_Li_2019_Zeta_L_Functions_Number_Theory_Combinatorics.pdf` | `256_Li_2019_Zeta_L_Functions_Number_Theory_Combinatorics.pdf` |
-| `234_Lieb-Loss_2001_Analysis_Second_Edition.pdf` | `257_Lieb-Loss_2001_Analysis_Second_Edition.pdf` |
-| `235_Lindqvist-Seip_1998_Note_Greatest_Common_Divisor_Matrices.pdf` | `258_Lindqvist-Seip_1998_Note_Greatest_Common_Divisor_Matrices.pdf` |
-| `236_Littlewood_1924_Zeros_Riemann_Zeta_Function.pdf` | `259_Littlewood_1924_Zeros_Riemann_Zeta_Function.pdf` |
-| `237_Liu2022_2022_Multiplicative_functions_resembling_the_M_bius_function.pdf` | `260_Liu2022_2022_Multiplicative_functions_resembling_the_M_bius_function.pdf` |
-| `238_Lyubarskii-Seip_1997_Complete_Interpolating_Sequences_Paley_Wiener_Muckenhoupt_Ap.pdf` | `262_Lyubarskii-Seip_1997_Complete_Interpolating_Sequences_Paley_Wiener_Muckenhoupt_Ap.pdf` |
-| `239_LyubarskiiVershynin2010_2010_Uncertainty_principles_and_vector_quantization.pdf` | `263_LyubarskiiVershynin2010_2010_Uncertainty_principles_and_vector_quantization.pdf` |
-| `240_Matiyasevich2007a_1983_Hidden_Life_of_Riemann_s_Zeta_Function_1_Arrow_Bow_and_Targets.pdf` | `264_Matiyasevich2007a_1983_Hidden_Life_of_Riemann_s_Zeta_Function_1_Arrow_Bow_and_Targets.pdf` |
-| `241_Matiyasevich2007b_2007_Hidden_Life_of_Riemann_s_Zeta_Function_2_Electrons_and_Trains.pdf` | `265_Matiyasevich2007b_2007_Hidden_Life_of_Riemann_s_Zeta_Function_2_Electrons_and_Trains.pdf` |
-| `242_Matomaki-Radziwill-Tao_2015_Averaged_Chowla_Conjecture.pdf` | `266_Matomaki-Radziwill-Tao_2015_Averaged_Chowla_Conjecture.pdf` |
-| `243_Matomaki-Radziwill_2015_Liouville_Short_Intervals.pdf` | `267_Matomaki-Radziwill_2015_Liouville_Short_Intervals.pdf` |
-| `244_Matomaki-Radziwill_2015_Sign_Changes_Hecke_Eigenvalues.pdf` | `268_Matomaki-Radziwill_2015_Sign_Changes_Hecke_Eigenvalues.pdf` |
-| `245_Matomaki-Radziwill_2016_Multiplicative_Functions_Short_Intervals.pdf` | `269_Matomaki-Radziwill_2016_Multiplicative_Functions_Short_Intervals.pdf` |
-| `246_Matomaki-Shao-Tao-Teravainen_2023_Higher_Uniformity_Arithmetic_Functions.pdf` | `270_Matomaki-Shao-Tao-Teravainen_2023_Higher_Uniformity_Arithmetic_Functions.pdf` |
-| `247_Matomaki-Teravainen_2023_Mobius_Function_All_Short_Intervals.pdf` | `271_Matomaki-Teravainen_2023_Mobius_Function_All_Short_Intervals.pdf` |
-| `248_Matomaki_2010_Smooth_Numbers_Short_Intervals.pdf` | `272_Matomaki_2010_Smooth_Numbers_Short_Intervals.pdf` |
-| `249_Matomaki_2016_Smooth_Numbers_Short_Intervals_II.pdf` | `273_Matomaki_2016_Smooth_Numbers_Short_Intervals_II.pdf` |
-| `250_MelottiSaias2020_2020_On_path_partitions_of_the_divisor_graph.pdf` | `274_MelottiSaias2020_2020_On_path_partitions_of_the_divisor_graph.pdf` |
-| `251_Mirsky_1949_Frequency_Pairs_Square_Free_Numbers_Given_Difference.pdf` | `275_Mirsky_1949_Frequency_Pairs_Square_Free_Numbers_Given_Difference.pdf` |
-| `252_Monien_2009_Hankel_Determinants_Dirichlet_Series.pdf` | `276_Monien_2009_Hankel_Determinants_Dirichlet_Series.pdf` |
-| `253_Montgomery-Vaughan_1974_Hilberts_Inequality.pdf` | `277_Montgomery-Vaughan_1974_Hilberts_Inequality.pdf` |
-| `254_MontgomerySoundararajan2004_2004_Comm_Math_Phys.pdf` | `278_MontgomerySoundararajan2004_2004_Comm_Math_Phys.pdf` |
-| `255_Montgomery_1973_Pair_Correlation_Zeros_Zeta.pdf` | `279_Montgomery_1973_Pair_Correlation_Zeros_Zeta.pdf` |
-| `256_Mossinghoff-Trudgian-Yang_2022_Explicit_Zero_Free_Regions_Riemann_Zeta.pdf` | `281_Mossinghoff-Trudgian-Yang_2022_Explicit_Zero_Free_Regions_Riemann_Zeta.pdf` |
-| `257_MossinghoffOliveiraTrudgian2021_2021_The_distribution_of_k_free_numbers.pdf` | `282_MossinghoffOliveiraTrudgian2021_2021_The_distribution_of_k_free_numbers.pdf` |
-| `258_Motohashi_1997_Spectral_Theory_Riemann_Zeta.pdf` | `283_Motohashi_1997_Spectral_Theory_Riemann_Zeta.pdf` |
-| `259_Muellner2017_2017_Automatic_sequences_fulfill_the_Sarnak_conjecture.pdf` | `284_Muellner2017_2017_Automatic_sequences_fulfill_the_Sarnak_conjecture.pdf` |
-| `260_MullerEtAl2005_2005_Periodic_orbit_theory_of_universality_in_quantum_chaos.pdf` | `285_MullerEtAl2005_2005_Periodic_orbit_theory_of_universality_in_quantum_chaos.pdf` |
-| `261_Murahara-Onozuka_2025_Equidistribution_A_Points_Zeta_Derivatives.pdf` | `286_Murahara-Onozuka_2025_Equidistribution_A_Points_Zeta_Derivatives.pdf` |
-| `262_MussardoLeClair2021_2021_Randomness_of_M_obius_coefficients_and_Brownian_motion_growth_of_the_Mertens_function_and_the_Riemann_hypothes.pdf` | `287_MussardoLeClair2021_2021_Randomness_of_M_obius_coefficients_and_Brownian_motion_growth_of_the_Mertens_function_and_the_Riemann_hypothes.pdf` |
-| `263_Nakamura_2020_Dirichlet_Series_Periodic_Coefficients_Functional_Equation.pdf` | `288_Nakamura_2020_Dirichlet_Series_Periodic_Coefficients_Functional_Equation.pdf` |
-| `264_Ng2004_2004_Proc_London_Math_Soc.pdf` | `289_Ng2004_2004_Proc_London_Math_Soc.pdf` |
-| `265_Nishigaki_2024_Consecutive_Level_Spacings_GUE_Ratio.pdf` | `290_Nishigaki_2024_Consecutive_Level_Spacings_GUE_Ratio.pdf` |
-| `266_Nishigaki_2025_Consecutive_Level_Spacings_CUE_Finite_Size_Zeta.pdf` | `291_Nishigaki_2025_Consecutive_Level_Spacings_CUE_Finite_Size_Zeta.pdf` |
-| `267_Norvidas_2011_Entire_Functions_Exponential_Sums.pdf` | `292_Norvidas_2011_Entire_Functions_Exponential_Sums.pdf` |
-| `268_Nunes2015_2015_Journal_of_Number_Theory.pdf` | `293_Nunes2015_2015_Journal_of_Number_Theory.pdf` |
-| `269_Odlyzko-TeRiele_1985_Disproof_Mertens_Conjecture.pdf` | `294_Odlyzko-TeRiele_1985_Disproof_Mertens_Conjecture.pdf` |
-| `270_Odlyzko_1987_Distribution_Spacings_Between_Zeros_Zeta.pdf` | `295_Odlyzko_1987_Distribution_Spacings_Between_Zeros_Zeta.pdf` |
-| `271_OganesyanHuse2007_2007_Localization_of_interacting_fermions_at_high_temperature.pdf` | `296_OganesyanHuse2007_2007_Localization_of_interacting_fermions_at_high_temperature.pdf` |
-| `272_Olevskii-Ulanovskii_2020_Fourier_Quasicrystals_Unit_Masses.pdf` | `298_Olevskii-Ulanovskii_2020_Fourier_Quasicrystals_Unit_Masses.pdf` |
-| `344_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf` | `299_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf` |
-| `345_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf` | `300_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf` |
-| `273_OwczarekPrellberg2014_2014_Pressure_exerted_by_a_vesicle_on_a_surface.pdf` | `301_OwczarekPrellberg2014_2014_Pressure_exerted_by_a_vesicle_on_a_surface.pdf` |
-| `274_Patel-Yang_2024_Explicit_Sub_Weyl_Bound_Zeta_Critical_Line.pdf` | `302_Patel-Yang_2024_Explicit_Sub_Weyl_Bound_Zeta_Critical_Line.pdf` |
-| `275_Patel_2022_Explicit_Upper_Bound_Zeta_1_Line.pdf` | `303_Patel_2022_Explicit_Upper_Bound_Zeta_1_Line.pdf` |
-| `276_Patterson_1988_Introduction_Riemann_Zeta_Function.pdf` | `304_Patterson_1988_Introduction_Riemann_Zeta_Function.pdf` |
-| `277_Patterson_1988_Zeros_Zeta_And_Prime_Number_Theorem.pdf` | `305_Patterson_1988_Zeros_Zeta_And_Prime_Number_Theorem.pdf` |
-| `278_PeligradUtev2005_2005_A_new_maximal_inequality_and_invariance_principle_for_stationary_sequences.pdf` | `306_PeligradUtev2005_2005_A_new_maximal_inequality_and_invariance_principle_for_stationary_sequences.pdf` |
-| `279_Perelli_2016_Converse_Theorems_Zeta_Selberg_Class.pdf` | `307_Perelli_2016_Converse_Theorems_Zeta_Selberg_Class.pdf` |
-| `280_Perfekt-Pushnitski_2018_Spectrum_Multiplicative_Hilbert_Matrix.pdf` | `308_Perfekt-Pushnitski_2018_Spectrum_Multiplicative_Hilbert_Matrix.pdf` |
-| `281_PillaiYin2014_2014_Universality_of_covariance_matrices.pdf` | `309_PillaiYin2014_2014_Universality_of_covariance_matrices.pdf` |
-| `282_Pintz_2026_Oscillation_Mobius_Function_Zeta_Zeros.pdf` | `310_Pintz_2026_Oscillation_Mobius_Function_Zeta_Zeros.pdf` |
-| `346_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf` | `311_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf` |
-| `347_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf` | `312_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf` |
-| `283_Platt-Trudgian_2021_RH_True_Up_To_3e12.pdf` | `313_Platt-Trudgian_2021_RH_True_Up_To_3e12.pdf` |
-| `284_Platt_2017_Isolating_Nontrivial_Zeros_Zeta.pdf` | `314_Platt_2017_Isolating_Nontrivial_Zeros_Zeta.pdf` |
-| `285_Popov_1985_Transfer_Functions_Riemann_Zeta.pdf` | `315_Popov_1985_Transfer_Functions_Riemann_Zeta.pdf` |
-| `286_Rademacher_1959_Phragmen_Lindelof_Theorem_Applications.pdf` | `316_Rademacher_1959_Phragmen_Lindelof_Theorem_Applications.pdf` |
-| `287_Radziwill-Soundararajan_2015_Quadratic_Twists_Central_L_Values.pdf` | `317_Radziwill-Soundararajan_2015_Quadratic_Twists_Central_L_Values.pdf` |
-| `288_Ramachandra_1976_Problems_Analytic_Number_Theory.pdf` | `319_Ramachandra_1976_Problems_Analytic_Number_Theory.pdf` |
-| `289_Revers_2026_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` | `320_Revers_2026_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` |
-| `290_Richard_2005_Q_Functional_Equations_Excursion_Moments.pdf` | `322_Richard_2005_Q_Functional_Equations_Excursion_Moments.pdf` |
-| `291_Riemann-Wilkins_1859_Prime_Counting_English_Translation.pdf` | `323_Riemann-Wilkins_1859_Prime_Counting_English_Translation.pdf` |
-| `292_RigalZadunaisky2015_2015_Twisted_semigroup_algebras.pdf` | `324_RigalZadunaisky2015_2015_Twisted_semigroup_algebras.pdf` |
-| `293_RodgersTao2018_2018_RodgersTao2018.pdf` | `325_RodgersTao2018_2018_RodgersTao2018.pdf` |
-| `294_Roesler_1986_Riemann_Hypothesis_Eigenvalue_Problem.pdf` | `326_Roesler_1986_Riemann_Hypothesis_Eigenvalue_Problem.pdf` |
-| `295_Roesler_1987_Riemann_Hypothesis_Eigenvalue_Problem_II.pdf` | `327_Roesler_1987_Riemann_Hypothesis_Eigenvalue_Problem_II.pdf` |
-| `296_Rosser-Schoenfeld_1962_Approximate_Formulas_Functions_Prime_Numbers.pdf` | `328_Rosser-Schoenfeld_1962_Approximate_Formulas_Functions_Prime_Numbers.pdf` |
-| `348_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf` | `329_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf` |
-| `297_Rota_1964_Foundations_Combinatorial_Theory_Mobius_Functions.pdf` | `330_Rota_1964_Foundations_Combinatorial_Theory_Mobius_Functions.pdf` |
-| `349_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf` | `331_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf` |
-| `298_Saffari-Vaughan_1977_Fractional_Parts_X_Over_N_II.pdf` | `332_Saffari-Vaughan_1977_Fractional_Parts_X_Over_N_II.pdf` |
-| `299_Sawin_2022_Mobius_Cancellation_Polynomial_Sequences.pdf` | `333_Sawin_2022_Mobius_Cancellation_Polynomial_Sequences.pdf` |
-| `300_Schechter_2002_Principles_Functional_Analysis_Second_Edition.pdf` | `334_Schechter_2002_Principles_Functional_Analysis_Second_Edition.pdf` |
-| `301_Sekatskii-Beltraminelli-Merlini_2012_Integrals_Logarithm_Zeta_RH.pdf` | `335_Sekatskii-Beltraminelli-Merlini_2012_Integrals_Logarithm_Zeta_RH.pdf` |
-| `302_Sekatskii_2013_Generalized_Bombieri_Lagarias_Li_Criterion.pdf` | `336_Sekatskii_2013_Generalized_Bombieri_Lagarias_Li_Criterion.pdf` |
-| `303_Sekatskii_2014_Generalized_Li_Criterion_Zeroes_Location.pdf` | `337_Sekatskii_2014_Generalized_Li_Criterion_Zeroes_Location.pdf` |
-| `304_Sheth_2025_Euler_Products_Centre_Chebyshev_Bias.pdf` | `339_Sheth_2025_Euler_Products_Centre_Chebyshev_Bias.pdf` |
-| `305_Shir-MartinezAzcona-Chenu_2025_Surmise_Level_Spacing_Beyond_Nearest.pdf` | `340_Shir-MartinezAzcona-Chenu_2025_Surmise_Level_Spacing_Beyond_Nearest.pdf` |
-| `306_Sidi_2003_Riemann_And_Generalized_Zeta_Extrapolation.pdf` | `341_Sidi_2003_Riemann_And_Generalized_Zeta_Extrapolation.pdf` |
-| `307_Siegel_1922_Satz_Hamburger_Funktionalgleichung_Zetafunktion.pdf` | `342_Siegel_1922_Satz_Hamburger_Funktionalgleichung_Zetafunktion.pdf` |
-| `308_Soundararajan_2009_Partial_Sums_Mobius_Function.pdf` | `345_Soundararajan_2009_Partial_Sums_Mobius_Function.pdf` |
-| `309_Soundararajan_2010_Smooth_Numbers_Short_Intervals.pdf` | `346_Soundararajan_2010_Smooth_Numbers_Short_Intervals.pdf` |
-| `310_StampachStovicek2020_2020_On_Hankel_matrices_commuting_with_Jacobi_matrices_from_the_Askey_scheme.pdf` | `347_StampachStovicek2020_2020_On_Hankel_matrices_commuting_with_Jacobi_matrices_from_the_Askey_scheme.pdf` |
-| `311_Suzuki2025Hilbert_2025_On_the_Hilbert_space_derived_from_the_Weil_distribution.pdf` | `348_Suzuki2025Hilbert_2025_On_the_Hilbert_space_derived_from_the_Weil_distribution.pdf` |
-| `312_Szekelyhidi1982_1982_Note_on_exponential_polynomials.pdf` | `349_Szekelyhidi1982_1982_Note_on_exponential_polynomials.pdf` |
-| `313_Tao-Teravainen_2018_Odd_Order_Logarithmically_Averaged_Chowla.pdf` | `350_Tao-Teravainen_2018_Odd_Order_Logarithmically_Averaged_Chowla.pdf` |
-| `314_Tao-Teravainen_2019_Structure_Logarithmically_Averaged_Correlations.pdf` | `351_Tao-Teravainen_2019_Structure_Logarithmically_Averaged_Correlations.pdf` |
-| `350_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf` | `352_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf` |
-| `315_Tao_2016_Logarithmically_Averaged_Chowla_Elliott_Two_Point.pdf` | `353_Tao_2016_Logarithmically_Averaged_Chowla_Elliott_Two_Point.pdf` |
-| `316_Tenenbaum_2015_Analytic_Probabilistic_Number_Theory.pdf` | `355_Tenenbaum_2015_Analytic_Probabilistic_Number_Theory.pdf` |
-| `317_Tenenbaum_2017_Generalized_Mertens_Sums.pdf` | `356_Tenenbaum_2017_Generalized_Mertens_Sums.pdf` |
-| `318_Titchmarsh-HeathBrown_1986_Theory_Riemann_Zeta_Function.pdf` | `357_Titchmarsh-HeathBrown_1986_Theory_Riemann_Zeta_Function.pdf` |
-| `351_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf` | `358_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf` |
-| `352_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf` | `359_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf` |
-| `319_Trudgian_2008_Gram_Law_Fails_Positive_Proportion_Of_The_Time.pdf` | `360_Trudgian_2008_Gram_Law_Fails_Positive_Proportion_Of_The_Time.pdf` |
-| `320_Trudgian_2012_Improved_Upper_Bound_Argument_Zeta.pdf` | `361_Trudgian_2012_Improved_Upper_Bound_Argument_Zeta.pdf` |
-| `321_Trudgian_2014_Improved_Upper_Bound_Argument_Zeta_II.pdf` | `362_Trudgian_2014_Improved_Upper_Bound_Argument_Zeta_II.pdf` |
-| `353_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf` | `363_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf` |
-| `322_Vaughan_1996_Eigenvalues_Redheffer_Matrix_II.pdf` | `364_Vaughan_1996_Eigenvalues_Redheffer_Matrix_II.pdf` |
-| `323_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf` | `365_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf` |
-| `324_Volchkov_1995_Equality_Equivalent_Riemann_Hypothesis_Russian.pdf` | `366_Volchkov_1995_Equality_Equivalent_Riemann_Hypothesis_Russian.pdf` |
-| `325_Weil_1952_Formules_Explicites_Nombres_Premiers_Transcription_VellaChemla.pdf` | `367_Weil_1952_Formules_Explicites_Nombres_Premiers_Transcription_VellaChemla.pdf` |
-| `326_Wilf_2004_Redheffer_Matrix_Partially_Ordered_Set.pdf` | `368_Wilf_2004_Redheffer_Matrix_Partially_Ordered_Set.pdf` |
-| `327_Xylouris_2011_Nullstellen_Dirichletschen_L_Funktionen_Kleinste_Primzahl.pdf` | `369_Xylouris_2011_Nullstellen_Dirichletschen_L_Funktionen_Kleinste_Primzahl.pdf` |
-| `328_Yang_2024_Explicit_Bounds_Zeta_Critical_Strip_Zero_Free_Region.pdf` | `370_Yang_2024_Explicit_Bounds_Zeta_Critical_Strip_Zero_Free_Region.pdf` |
-| `329_Young_1974_Inequalities_Perturbation_Theorem_Paley_Wiener.pdf` | `371_Young_1974_Inequalities_Perturbation_Theorem_Paley_Wiener.pdf` |
-| `330_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` | `372_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` |
-| `331_Zhang_2013_Normalization_Beurling_Generalized_Primes_RH.pdf` | `373_Zhang_2013_Normalization_Beurling_Generalized_Primes_RH.pdf` |
-| `332_Zhao_2016_Multiple_Zeta_Polylogarithms_Special_Values.pdf` | `374_Zhao_2016_Multiple_Zeta_Polylogarithms_Special_Values.pdf` |
-| `333_Zhao_2026_Density_Results_r_Gaps_Between_Zeros_Zeta.pdf` | `375_Zhao_2026_Density_Results_r_Gaps_Between_Zeros_Zeta.pdf` |
-| `334_deBruijn1950_1950_The_roots_of_trigonometric_integrals.pdf` | `376_deBruijn1950_1950_The_roots_of_trigonometric_integrals.pdf` |
-| `335_deLaValleePoussin_1896_Recherches_Analytiques_Nombres_Premiers_I.pdf` | `377_deLaValleePoussin_1896_Recherches_Analytiques_Nombres_Premiers_I.pdf` |
-| `336_vonMangoldt_1895_Zu_Riemanns_Abhandlung_Anzahl_Primzahlen.pdf` | `378_vonMangoldt_1895_Zu_Riemanns_Abhandlung_Anzahl_Primzahlen.pdf` |
-| `337_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf` | `379_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf` |
+| Archivo en el zip | 22-11 (379) | Nombre vigente |
+|---|---|---|
+| `28_SUPPLEMENT_Alpoge_announcement_remark.pdf` | `003_Alpoge_2026_Announcement_Remark_Riemann_Hypothesis_Proof.pdf` | `003_Alpoge_2026_Announcement_Remark_Riemann_Hypothesis_Proof.pdf` |
+| `02_Anschutz_LeBras_Prismatic_Dieudonne_theory.pdf` | `007_Anschutz-LeBras_2023_Prismatic_Dieudonne_Theory_arXiv_v4.pdf` | `007_Anschutz-LeBras_2023_Prismatic_Dieudonne_Theory_arXiv_v4.pdf` |
+| `04_Bellaiche_Chenevier_Families_Galois_representations_Selmer_groups.pdf` | `026_Bellaiche-Chenevier_2009_Families_Galois_Representations_Selmer_Groups.pdf` | `026_Bellaiche-Chenevier_2009_Families_Galois_Representations_Selmer_Groups.pdf` |
+| `05_Bhatt_Scholze_Prisms_prismatic_cohomology.pdf` | `038_Bhatt-Scholze_2022_Prisms_Prismatic_Cohomology.pdf` | `038_Bhatt-Scholze_2022_Prisms_Prismatic_Cohomology.pdf` |
+| `06_Bost_Periodes_isogenies_varietes_abeliennes.pdf` | `052_Bost_1996_Periodes_Isogenies_Varietes_Abeliennes.pdf` | `052_Bost_1996_Periodes_Isogenies_Varietes_Abeliennes.pdf` |
+| `07_Chenevier_Harris_Automorphic_Galois_representations_II.pdf` | `075_Chenevier-Harris_2013_Construction_Automorphic_Galois_Representations_II.pdf` | `075_Chenevier-Harris_2013_Construction_Automorphic_Galois_Representations_II.pdf` |
+| `08_Coates_Sinnott_Stickelberger_higher_K_groups.pdf` | `078_Coates-Sinnott_1974_Analogue_Stickelberger_Theorem_Higher_K_Groups.pdf` | `078_Coates-Sinnott_1974_Analogue_Stickelberger_Theorem_Higher_K_Groups.pdf` |
+| `10_Deligne_Lusztig_Reductive_groups_finite_fields.pdf` | `102_Deligne-Lusztig_1976_Representations_Reductive_Groups_Finite_Fields.pdf` | `102_Deligne-Lusztig_1976_Representations_Reductive_Groups_Finite_Fields.pdf` |
+| `11_Ferrero_Washington_Iwasawa_invariant.pdf` | `117_Ferrero-Washington_1979_Iwasawa_Invariant_Mu_p_Vanishes_Abelian_Number_Fields.pdf` | `117_Ferrero-Washington_1979_Iwasawa_Invariant_Mu_p_Vanishes_Abelian_Number_Fields.pdf` |
+| `12_Gan_Qiu_Takeda_Regularized_Siegel_Weil_Rallis.pdf` | `137_Gan-Qiu-Takeda_2014_Regularized_Siegel_Weil_Formula_Rallis_Inner_Product_arXiv_v3.pdf` | `138_Gan-Qiu-Takeda_2014_Regularized_Siegel_Weil_Formula_Rallis_Inner_Product_arXiv_v3.pdf` |
+| `15_ALT_Gan_Takeda_2016_Proof_Howe_Duality.pdf` | `138_Gan-Takeda_2016_Proof_Howe_Duality_Conjecture_arXiv_v4.pdf` | `139_Gan-Takeda_2016_Proof_Howe_Duality_Conjecture_arXiv_v4.pdf` |
+| `13_Grayson_Reduction_theory_semistability.pdf` | `153_Grayson_1984_Reduction_Theory_Using_Semistability.pdf` | `154_Grayson_1984_Reduction_Theory_Using_Semistability.pdf` |
+| `14_Hida_pAdic_Automorphic_Forms_Shimura_Varieties.pdf` | `179_Hida_2004_pAdic_Automorphic_Forms_Shimura_Varieties.pdf` | `180_Hida_2004_pAdic_Automorphic_Forms_Shimura_Varieties.pdf` |
+| `16_Huxley_Imperfect_hybrid_zero_density.pdf` | `191_Huxley_1976_Imperfect_Hybrid_Zero_Density_Theorem.pdf` | `192_Huxley_1976_Imperfect_Hybrid_Zero_Density_Theorem.pdf` |
+| `17_Kato_padic_Hodge_theory_zeta_modular_forms.pdf` | `219_Kato_2004_pAdic_Hodge_Theory_Values_Zeta_Functions_Modular_Forms.pdf` | `220_Kato_2004_pAdic_Hodge_Theory_Values_Zeta_Functions_Modular_Forms.pdf` |
+| `18_Kolyvagin_Euler_systems.pdf` | `226_Kolyvagin_1990_Euler_Systems.pdf` | `227_Kolyvagin_1990_Euler_Systems.pdf` |
+| `19_Landau_Uber_einen_Satz_von_Tschebyschef.pdf` | `245_Landau_1905_Uber_Einen_Satz_Von_Tschebyschef.pdf` | `246_Landau_1905_Uber_Einen_Satz_Von_Tschebyschef.pdf` |
+| `20_Lubin_Tate_Formal_complex_multiplication_local_fields.pdf` | `261_Lubin-Tate_1965_Formal_Complex_Multiplication_Local_Fields.pdf` | `262_Lubin-Tate_1965_Formal_Complex_Multiplication_Local_Fields.pdf` |
+| `21_Moriwaki_Continuity_volumes_arithmetic_varieties.pdf` | `280_Moriwaki_2009_Continuity_Volumes_Arithmetic_Varieties_arXiv_v2.pdf` | `281_Moriwaki_2009_Continuity_Volumes_Arithmetic_Varieties_arXiv_v2.pdf` |
+| `22_Ohsawa_Takegoshi_Extension_L2_holomorphic_functions.pdf` | `297_Ohsawa-Takegoshi_1987_Extension_L2_Holomorphic_Functions.pdf` | `300_Ohsawa-Takegoshi_1987_Extension_L2_Holomorphic_Functions.pdf` |
+| `23_Rallis_Injectivity_liftings_Weil_representations.pdf` | `318_Rallis_1984_Injectivity_Properties_Liftings_Weil_Representations.pdf` | `321_Rallis_1984_Injectivity_Properties_Liftings_Weil_Representations.pdf` |
+| `24_Ribet_Unramified_p_extensions.pdf` | `321_Ribet_1976_Modular_Construction_Unramified_p_Extensions.pdf` | `324_Ribet_1976_Modular_Construction_Unramified_p_Extensions.pdf` |
+| `25_Selberg_Chowla_On_Epstein_zeta_function.pdf` | `338_Selberg-Chowla_1967_On_Epstein_Zeta_Function.pdf` | `341_Selberg-Chowla_1967_On_Epstein_Zeta_Function.pdf` |
+| `26_Sorensen_A_Patching_Lemma.pdf` | `343_Sorensen_2020_A_Patching_Lemma.pdf` | `346_Sorensen_2020_A_Patching_Lemma.pdf` |
+| `27_Soule_Torsion_K_theory_algebraic_integers.pdf` | `344_Soule_2003_Bound_Torsion_K_Theory_Algebraic_Integers.pdf` | `347_Soule_2003_Bound_Torsion_K_Theory_Algebraic_Integers.pdf` |
+| `29_Taylor_Wiles_Hecke_algebras.pdf` | `354_Taylor-Wiles_1995_Ring_Theoretic_Properties_Certain_Hecke_Algebras.pdf` | `357_Taylor-Wiles_1995_Ring_Theoretic_Properties_Certain_Hecke_Algebras.pdf` |
+
+## Equivalencias de los 353 PDF de la numeración del 2026-11-01
+
+| 2026-11-01 | 22-11 (379) | Nombre vigente |
+|---|---|---|
+| `001_AbercrombieBanksShparlinski2009_2009_Arithmetic_functions_on_Beatty_sequences.pdf` | `001_AbercrombieBanksShparlinski2009_2009_Arithmetic_functions_on_Beatty_sequences.pdf` | `001_AbercrombieBanksShparlinski2009_2009_Arithmetic_functions_on_Beatty_sequences.pdf` |
+| `002_AkianGaubertNiv2018_2018_Tropical_compound_matrix_identities.pdf` | `002_AkianGaubertNiv2018_2018_Tropical_compound_matrix_identities.pdf` | `002_AkianGaubertNiv2018_2018_Tropical_compound_matrix_identities.pdf` |
+| `338_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf` | `004_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf` | `004_Amberger_2025_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v1.pdf` |
+| `339_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf` | `005_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf` | `005_Amberger_2026_Estimating_Number_Zeros_Dedekind_Zeta_Functions_arXiv_v5.pdf` |
+| `003_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` | `006_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` | `006_Anonymous_2026_Unexpected_Phase_Summation_Patterns_Riemann_Zeros.pdf` |
+| `004_Arguin-Bourgade-Radziwill_2020_Fyodorov_Hiary_Keating_Conjecture_I.pdf` | `008_Arguin-Bourgade-Radziwill_2020_Fyodorov_Hiary_Keating_Conjecture_I.pdf` | `008_Arguin-Bourgade-Radziwill_2020_Fyodorov_Hiary_Keating_Conjecture_I.pdf` |
+| `005_Arguin-Bourgade-Radziwill_2023_Fyodorov_Hiary_Keating_Conjecture_II.pdf` | `009_Arguin-Bourgade-Radziwill_2023_Fyodorov_Hiary_Keating_Conjecture_II.pdf` | `009_Arguin-Bourgade-Radziwill_2023_Fyodorov_Hiary_Keating_Conjecture_II.pdf` |
+| `006_AriasdeReyna_2024_Explicit_Formula_Quasicrystal_Definition.pdf` | `010_AriasdeReyna_2024_Explicit_Formula_Quasicrystal_Definition.pdf` | `010_AriasdeReyna_2024_Explicit_Formula_Quasicrystal_Definition.pdf` |
+| `007_Aryan_2019_Extension_Landau_Gonek_Formula.pdf` | `011_Aryan_2019_Extension_Landau_Gonek_Formula.pdf` | `011_Aryan_2019_Extension_Landau_Gonek_Formula.pdf` |
+| `008_Aryan_2022_Extension_Landau_Gonek_Formula_Published.pdf` | `012_Aryan_2022_Extension_Landau_Gonek_Formula_Published.pdf` | `012_Aryan_2022_Extension_Landau_Gonek_Formula_Published.pdf` |
+| `009_Avdonin-Ivanov_2001_Exponential_Riesz_Bases_Subspaces_Divided_Differences.pdf` | `013_Avdonin-Ivanov_2001_Exponential_Riesz_Bases_Subspaces_Divided_Differences.pdf` | `013_Avdonin-Ivanov_2001_Exponential_Riesz_Bases_Subspaces_Divided_Differences.pdf` |
+| `010_Avdonin_1977_Riesz_Bases_Exponential_Functions_L2_Brief.pdf` | `014_Avdonin_1977_Riesz_Bases_Exponential_Functions_L2_Brief.pdf` | `014_Avdonin_1977_Riesz_Bases_Exponential_Functions_L2_Brief.pdf` |
+| `011_Aymone-Sidoravicius_2017_Partial_Sums_Biased_Random_Multiplicative_Functions.pdf` | `015_Aymone-Sidoravicius_2017_Partial_Sums_Biased_Random_Multiplicative_Functions.pdf` | `015_Aymone-Sidoravicius_2017_Partial_Sums_Biased_Random_Multiplicative_Functions.pdf` |
+| `012_Aymone2020_2020_A_note_on_multiplicative_functions_resembling_the_M_bius_function.pdf` | `016_Aymone2020_2020_A_note_on_multiplicative_functions_resembling_the_M_bius_function.pdf` | `016_Aymone2020_2020_A_note_on_multiplicative_functions_resembling_the_M_bius_function.pdf` |
+| `013_Backlund_1916_Nullstellen_Riemannschen_Zetafunktion.pdf` | `017_Backlund_1916_Nullstellen_Riemannschen_Zetafunktion.pdf` | `017_Backlund_1916_Nullstellen_Riemannschen_Zetafunktion.pdf` |
+| `014_BaezDuarte-Balazard-Landreau-Saias_2000_Notes_sur_la_fonction_zeta_de_Riemann_3.pdf` | `018_BaezDuarte-Balazard-Landreau-Saias_2000_Notes_sur_la_fonction_zeta_de_Riemann_3.pdf` | `018_BaezDuarte-Balazard-Landreau-Saias_2000_Notes_sur_la_fonction_zeta_de_Riemann_3.pdf` |
+| `015_BaezDuarte2002_2002_BaezDuarte2002.pdf` | `019_BaezDuarte2002_2002_BaezDuarte2002.pdf` | `019_BaezDuarte2002_2002_BaezDuarte2002.pdf` |
+| `016_Balanzario-SanchezOrtiz_2007_Zeros_Davenport_Heilbronn_Counterexample.pdf` | `020_Balanzario-SanchezOrtiz_2007_Zeros_Davenport_Heilbronn_Counterexample.pdf` | `020_Balanzario-SanchezOrtiz_2007_Zeros_Davenport_Heilbronn_Counterexample.pdf` |
+| `017_Balazard-Saias-Yor_1999_Notes_Fonction_Zeta_Riemann_2_Transcription_VellaChemla.pdf` | `021_Balazard-Saias-Yor_1999_Notes_Fonction_Zeta_Riemann_2_Transcription_VellaChemla.pdf` | `021_Balazard-Saias-Yor_1999_Notes_Fonction_Zeta_Riemann_2_Transcription_VellaChemla.pdf` |
+| `018_Balog_1987_Integers_Without_Large_Prime_Factors.pdf` | `022_Balog_1987_Integers_Without_Large_Prime_Factors.pdf` | `022_Balog_1987_Integers_Without_Large_Prime_Factors.pdf` |
+| `019_Baluyot-Goldston-etal_2025_Pair_Correlation_Zeros_I_Proportions_Simple_Critical.pdf` | `023_Baluyot-Goldston-etal_2025_Pair_Correlation_Zeros_I_Proportions_Simple_Critical.pdf` | `023_Baluyot-Goldston-etal_2025_Pair_Correlation_Zeros_I_Proportions_Simple_Critical.pdf` |
+| `020_Baricz-Laforgia-Pogany_2015_Van_Der_Corput_Inequalities_Bessel.pdf` | `024_Baricz-Laforgia-Pogany_2015_Van_Der_Corput_Inequalities_Bessel.pdf` | `024_Baricz-Laforgia-Pogany_2015_Van_Der_Corput_Inequalities_Bessel.pdf` |
+| `021_Barrett-Jarvis_1992_Spectral_Properties_Redheffer_Matrix.pdf` | `025_Barrett-Jarvis_1992_Spectral_Properties_Redheffer_Matrix.pdf` | `025_Barrett-Jarvis_1992_Spectral_Properties_Redheffer_Matrix.pdf` |
+| `022_Bellotti-Wong_2025_Improved_Argument_Zero_Counting_Zeta.pdf` | `027_Bellotti-Wong_2025_Improved_Argument_Zero_Counting_Zeta.pdf` | `027_Bellotti-Wong_2025_Improved_Argument_Zero_Counting_Zeta.pdf` |
+| `340_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf` | `028_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf` | `028_Bellotti-Wong_2026_Counting_Zeros_Artin_L_Functions_arXiv_v1.pdf` |
+| `023_Bellotti_2024_Explicit_Bounds_Zeta_New_Zero_Free_Region.pdf` | `029_Bellotti_2024_Explicit_Bounds_Zeta_New_Zero_Free_Region.pdf` | `029_Bellotti_2024_Explicit_Bounds_Zeta_New_Zero_Free_Region.pdf` |
+| `024_Belton2022_2022_Mathematics_Research_Reports.pdf` | `030_Belton2022_2022_Mathematics_Research_Reports.pdf` | `030_Belton2022_2022_Mathematics_Research_Reports.pdf` |
+| `025_Benedetto-Powell-Yilmaz_2006_Sigma_Delta_Quantization_Finite_Frames.pdf` | `031_Benedetto-Powell-Yilmaz_2006_Sigma_Delta_Quantization_Finite_Frames.pdf` | `031_Benedetto-Powell-Yilmaz_2006_Sigma_Delta_Quantization_Finite_Frames.pdf` |
+| `026_Bennett-Martin-OBryant-Rechnitzer_2021_Counting_Zeros_Dirichlet_L_Functions.pdf` | `032_Bennett-Martin-OBryant-Rechnitzer_2021_Counting_Zeros_Dirichlet_L_Functions.pdf` | `032_Bennett-Martin-OBryant-Rechnitzer_2021_Counting_Zeros_Dirichlet_L_Functions.pdf` |
+| `027_Benvenuti2019_2019_The_inverse_eigenvalue_problem_for_Leslie_matrices.pdf` | `033_Benvenuti2019_2019_The_inverse_eigenvalue_problem_for_Leslie_matrices.pdf` | `033_Benvenuti2019_2019_The_inverse_eigenvalue_problem_for_Leslie_matrices.pdf` |
+| `028_BergelsonKulagaPrzymusLemanczykRichter2019_2019_Discrete_Contin_Dyn_Syst.pdf` | `034_BergelsonKulagaPrzymusLemanczykRichter2019_2019_Discrete_Contin_Dyn_Syst.pdf` | `034_BergelsonKulagaPrzymusLemanczykRichter2019_2019_Discrete_Contin_Dyn_Syst.pdf` |
+| `029_Bernstein_1929_Fonctions_Absolument_Monotones.pdf` | `035_Bernstein_1929_Fonctions_Absolument_Monotones.pdf` | `035_Bernstein_1929_Fonctions_Absolument_Monotones.pdf` |
+| `030_Berry_1988_Semiclassical_Formula_Number_Variance_Riemann_Zeros.pdf` | `036_Berry_1988_Semiclassical_Formula_Number_Variance_Riemann_Zeros.pdf` | `036_Berry_1988_Semiclassical_Formula_Number_Variance_Riemann_Zeros.pdf` |
+| `031_Beurling_1937_Distribution_Nombres_Premiers_Generalises_I.pdf` | `037_Beurling_1937_Distribution_Nombres_Premiers_Generalises_I.pdf` | `037_Beurling_1937_Distribution_Nombres_Premiers_Generalises_I.pdf` |
+| `032_Bjorner_2011_Cell_Complex_Number_Theory.pdf` | `039_Bjorner_2011_Cell_Complex_Number_Theory.pdf` | `039_Bjorner_2011_Cell_Complex_Number_Theory.pdf` |
+| `033_Bloch_2000_Higher_Regulators_K_Theory_Zeta_Elliptic_Curves.pdf` | `040_Bloch_2000_Higher_Regulators_K_Theory_Zeta_Elliptic_Curves.pdf` | `040_Bloch_2000_Higher_Regulators_K_Theory_Zeta_Elliptic_Curves.pdf` |
+| `034_Bogomolny-Keating_1995_Random_Matrix_Theory_Riemann_Zeros_I_Three_Four_Point_Correlations.pdf` | `041_Bogomolny-Keating_1995_Random_Matrix_Theory_Riemann_Zeros_I_Three_Four_Point_Correlations.pdf` | `041_Bogomolny-Keating_1995_Random_Matrix_Theory_Riemann_Zeros_I_Three_Four_Point_Correlations.pdf` |
+| `035_Bogomolny-Keating_1996_Gutzwiller_Trace_Formula_Spectral_Statistics_Beyond_Diagonal.pdf` | `042_Bogomolny-Keating_1996_Gutzwiller_Trace_Formula_Spectral_Statistics_Beyond_Diagonal.pdf` | `042_Bogomolny-Keating_1996_Gutzwiller_Trace_Formula_Spectral_Statistics_Beyond_Diagonal.pdf` |
+| `036_Bogomolny-Keating_1996_Random_Matrix_Theory_Riemann_Zeros_II_n_Point_Correlations.pdf` | `043_Bogomolny-Keating_1996_Random_Matrix_Theory_Riemann_Zeros_II_n_Point_Correlations.pdf` | `043_Bogomolny-Keating_1996_Random_Matrix_Theory_Riemann_Zeros_II_n_Point_Correlations.pdf` |
+| `037_Bohigas-Leboeuf-Sanchez_2001_Spectral_Spacing_Correlations.pdf` | `044_Bohigas-Leboeuf-Sanchez_2001_Spectral_Spacing_Correlations.pdf` | `044_Bohigas-Leboeuf-Sanchez_2001_Spectral_Spacing_Correlations.pdf` |
+| `038_Bohr_1926_Fastperiodische_Funktionen_III_Dirichletentwicklung.pdf` | `045_Bohr_1926_Fastperiodische_Funktionen_III_Dirichletentwicklung.pdf` | `045_Bohr_1926_Fastperiodische_Funktionen_III_Dirichletentwicklung.pdf` |
+| `039_Bombieri_2010_Classical_Theory_Zeta_And_L_Functions.pdf` | `046_Bombieri_2010_Classical_Theory_Zeta_And_L_Functions.pdf` | `046_Bombieri_2010_Classical_Theory_Zeta_And_L_Functions.pdf` |
+| `040_Bonami1970_1970_Etude_des_coefficients_de_Fourier_des_fonctions_de_L_p_G.pdf` | `047_Bonami1970_1970_Etude_des_coefficients_de_Fourier_des_fonctions_de_L_p_G.pdf` | `047_Bonami1970_1970_Etude_des_coefficients_de_Fourier_des_fonctions_de_L_p_G.pdf` |
+| `041_Bondarenko-Radchenko-Seip_2023_Fourier_Interpolation_Zeros_Zeta_L_Functions.pdf` | `048_Bondarenko-Radchenko-Seip_2023_Fourier_Interpolation_Zeros_Zeta_L_Functions.pdf` | `048_Bondarenko-Radchenko-Seip_2023_Fourier_Interpolation_Zeros_Zeta_L_Functions.pdf` |
+| `042_BorceaBranden2009_2009_Annals_of_Mathematics.pdf` | `049_BorceaBranden2009_2009_Annals_of_Mathematics.pdf` | `049_BorceaBranden2009_2009_Annals_of_Mathematics.pdf` |
+| `043_Bornemann-Forrester-Mays_2017_Finite_Size_Effects_Spacing_Distributions.pdf` | `050_Bornemann-Forrester-Mays_2017_Finite_Size_Effects_Spacing_Distributions.pdf` | `050_Bornemann-Forrester-Mays_2017_Finite_Size_Effects_Spacing_Distributions.pdf` |
+| `044_Borwein-Straub-Wan-Zudilin_2012_Densities_Short_Uniform_Random_Walks.pdf` | `051_Borwein-Straub-Wan-Zudilin_2012_Densities_Short_Uniform_Random_Walks.pdf` | `051_Borwein-Straub-Wan-Zudilin_2012_Densities_Short_Uniform_Random_Walks.pdf` |
+| `045_Bourgain_2017_Decoupling_Exponential_Sums_Riemann_Zeta.pdf` | `053_Bourgain_2017_Decoupling_Exponential_Sums_Riemann_Zeta.pdf` | `053_Bourgain_2017_Decoupling_Exponential_Sums_Riemann_Zeta.pdf` |
+| `046_Bourgain_undated_On_the_Fourier_Walsh_spectrum_of_the_M_obius_function.pdf` | `054_Bourgain_undated_On_the_Fourier_Walsh_spectrum_of_the_M_obius_function.pdf` | `054_Bourgain_undated_On_the_Fourier_Walsh_spectrum_of_the_M_obius_function.pdf` |
+| `047_Brent-Platt-Trudgian_2020_Sums_Over_Zeros_Riemann_Zeta.pdf` | `055_Brent-Platt-Trudgian_2020_Sums_Over_Zeros_Riemann_Zeta.pdf` | `055_Brent-Platt-Trudgian_2020_Sums_Over_Zeros_Riemann_Zeta.pdf` |
+| `048_Brent2018_2019_On_asymptotic_approximations_to_the_log_Gamma_and_Riemann_Siegel_theta_functions.pdf` | `056_Brent2018_2019_On_asymptotic_approximations_to_the_log_Gamma_and_Riemann_Siegel_theta_functions.pdf` | `056_Brent2018_2019_On_asymptotic_approximations_to_the_log_Gamma_and_Riemann_Siegel_theta_functions.pdf` |
+| `049_Brent_1979_Zeros_Riemann_Zeta_Critical_Strip.pdf` | `057_Brent_1979_Zeros_Riemann_Zeta_Critical_Strip.pdf` | `057_Brent_1979_Zeros_Riemann_Zeta_Critical_Strip.pdf` |
+| `050_BretcheDressTenenbaum2020_2020_Mathematika.pdf` | `058_BretcheDressTenenbaum2020_2020_Mathematika.pdf` | `058_BretcheDressTenenbaum2020_2020_Mathematika.pdf` |
+| `051_Brevig-Perfekt-Seip-Siskakis-Vukotic_2016_Multiplicative_Hilbert_Matrix.pdf` | `059_Brevig-Perfekt-Seip-Siskakis-Vukotic_2016_Multiplicative_Hilbert_Matrix.pdf` | `059_Brevig-Perfekt-Seip-Siskakis-Vukotic_2016_Multiplicative_Hilbert_Matrix.pdf` |
+| `052_Broucke-Debruyne-Revesz_2025_Well_Behaved_Beurling_Number_Systems.pdf` | `060_Broucke-Debruyne-Revesz_2025_Well_Behaved_Beurling_Number_Systems.pdf` | `060_Broucke-Debruyne-Revesz_2025_Well_Behaved_Beurling_Number_Systems.pdf` |
+| `053_Broucke-Debruyne-Vindas_2020_Beurling_Integers_RH_Large_Oscillation.pdf` | `061_Broucke-Debruyne-Vindas_2020_Beurling_Integers_RH_Large_Oscillation.pdf` | `061_Broucke-Debruyne-Vindas_2020_Beurling_Integers_RH_Large_Oscillation.pdf` |
+| `054_Broucke-Vindas_2024_Generalized_Prime_Random_Approximation.pdf` | `062_Broucke-Vindas_2024_Generalized_Prime_Random_Approximation.pdf` | `062_Broucke-Vindas_2024_Generalized_Prime_Random_Approximation.pdf` |
+| `055_Burbea1974_1974_Pacific_Journal_of_Mathematics.pdf` | `063_Burbea1974_1974_Pacific_Journal_of_Mathematics.pdf` | `063_Burbea1974_1974_Pacific_Journal_of_Mathematics.pdf` |
+| `056_Burbea1976_1976_Pacific_Journal_of_Mathematics.pdf` | `064_Burbea1976_1976_Pacific_Journal_of_Mathematics.pdf` | `064_Burbea1976_1976_Pacific_Journal_of_Mathematics.pdf` |
+| `057_Buthe2014_2015_A_method_for_proving_the_completeness_of_a_list_of_zeros_of_certain_functions.pdf` | `065_Buthe2014_2015_A_method_for_proving_the_completeness_of_a_list_of_zeros_of_certain_functions.pdf` | `065_Buthe2014_2015_A_method_for_proving_the_completeness_of_a_list_of_zeros_of_certain_functions.pdf` |
+| `058_Carmona-Petrelis_2017_Limit_Theorems_Random_Walk_Excursion.pdf` | `066_Carmona-Petrelis_2017_Limit_Theorems_Random_Walk_Excursion.pdf` | `066_Carmona-Petrelis_2017_Limit_Theorems_Random_Walk_Excursion.pdf` |
+| `059_Carneiro-Chandee-Littmann-Milinovich_2014_Hilbert_Spaces_Pair_Correlation.pdf` | `067_Carneiro-Chandee-Littmann-Milinovich_2014_Hilbert_Spaces_Pair_Correlation.pdf` | `067_Carneiro-Chandee-Littmann-Milinovich_2014_Hilbert_Spaces_Pair_Correlation.pdf` |
+| `060_Carneiro-Milinovich-Ramos_2023_Fourier_Optimization_Montgomery_Pair_Correlation.pdf` | `068_Carneiro-Milinovich-Ramos_2023_Fourier_Optimization_Montgomery_Pair_Correlation.pdf` | `068_Carneiro-Milinovich-Ramos_2023_Fourier_Optimization_Montgomery_Pair_Correlation.pdf` |
+| `061_CarrascoFlorens2000_2000_Econometric_Theory.pdf` | `069_CarrascoFlorens2000_2000_Econometric_Theory.pdf` | `069_CarrascoFlorens2000_2000_Econometric_Theory.pdf` |
+| `062_Cartier-Julia-Moussa-Vanhove_2006_Random_Matrices_Zeta_Dynamical_Systems.pdf` | `070_Cartier-Julia-Moussa-Vanhove_2006_Random_Matrices_Zeta_Dynamical_Systems.pdf` | `070_Cartier-Julia-Moussa-Vanhove_2006_Random_Matrices_Zeta_Dynamical_Systems.pdf` |
+| `063_Cassaigne-Ferenczi-Mauduit-Rivat-Sarkozy_1999_Liouville_Pseudorandom_Sequences.pdf` | `071_Cassaigne-Ferenczi-Mauduit-Rivat-Sarkozy_1999_Liouville_Pseudorandom_Sequences.pdf` | `071_Cassaigne-Ferenczi-Mauduit-Rivat-Sarkozy_1999_Liouville_Pseudorandom_Sequences.pdf` |
+| `064_Chan_2002_More_Precise_Pair_Correlation_Zeros_Primes_Short_Intervals.pdf` | `072_Chan_2002_More_Precise_Pair_Correlation_Zeros_Primes_Short_Intervals.pdf` | `072_Chan_2002_More_Precise_Pair_Correlation_Zeros_Primes_Short_Intervals.pdf` |
+| `065_Chandrasekharan-Mandelbrojt_1959_Solutions_Riemann_Functional_Equation.pdf` | `073_Chandrasekharan-Mandelbrojt_1959_Solutions_Riemann_Functional_Equation.pdf` | `073_Chandrasekharan-Mandelbrojt_1959_Solutions_Riemann_Functional_Equation.pdf` |
+| `066_Chatterjee2007_2007_Stein_s_method_for_concentration_inequalities.pdf` | `074_Chatterjee2007_2007_Stein_s_method_for_concentration_inequalities.pdf` | `074_Chatterjee2007_2007_Stein_s_method_for_concentration_inequalities.pdf` |
+| `067_Christ_2014_Value_Distribution_Zeta_Near_Critical_Line_Thesis.pdf` | `076_Christ_2014_Value_Distribution_Zeta_Near_Critical_Line_Thesis.pdf` | `076_Christ_2014_Value_Distribution_Zeta_Near_Critical_Line_Thesis.pdf` |
+| `068_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf` | `077_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf` | `077_Claude_2026_More_Than_Two_Thirds_Zeros_Zeta_Critical_Line.pdf` |
+| `069_Coffey_2005_Polygamma_Theory_Li_Keiper_Constants_Riemann_Hypothesis.pdf` | `079_Coffey_2005_Polygamma_Theory_Li_Keiper_Constants_Riemann_Hypothesis.pdf` | `079_Coffey_2005_Polygamma_Theory_Li_Keiper_Constants_Riemann_Hypothesis.pdf` |
+| `070_Coffey_2009_Certain_Sums_Over_Nontrivial_Zeta_Zeros.pdf` | `080_Coffey_2009_Certain_Sums_Over_Nontrivial_Zeta_Zeros.pdf` | `080_Coffey_2009_Certain_Sums_Over_Nontrivial_Zeta_Zeros.pdf` |
+| `071_Cohn-Elkies_2003_New_Upper_Bounds_Sphere_Packings_I.pdf` | `081_Cohn-Elkies_2003_New_Upper_Bounds_Sphere_Packings_I.pdf` | `081_Cohn-Elkies_2003_New_Upper_Bounds_Sphere_Packings_I.pdf` |
+| `072_Connes1998_1998_Connes1998.pdf` | `082_Connes1998_1998_Connes1998.pdf` | `082_Connes1998_1998_Connes1998.pdf` |
+| `073_Connes2026_2026_Connes2026.pdf` | `083_Connes2026_2026_Connes2026.pdf` | `083_Connes2026_2026_Connes2026.pdf` |
+| `074_Conrad_2005_Partial_Euler_Products_Critical_Line.pdf` | `084_Conrad_2005_Partial_Euler_Products_Critical_Line.pdf` | `084_Conrad_2005_Partial_Euler_Products_Critical_Line.pdf` |
+| `075_Conrey-Keating_2016_Pair_Correlation_Twin_Primes_Revisited.pdf` | `085_Conrey-Keating_2016_Pair_Correlation_Twin_Primes_Revisited.pdf` | `085_Conrey-Keating_2016_Pair_Correlation_Twin_Primes_Revisited.pdf` |
+| `076_Conrey-TurnageButterbaugh_2018_r_Gaps_Between_Zeros_Zeta.pdf` | `086_Conrey-TurnageButterbaugh_2018_r_Gaps_Between_Zeros_Zeta.pdf` | `086_Conrey-TurnageButterbaugh_2018_r_Gaps_Between_Zeros_Zeta.pdf` |
+| `077_ConreySnaith2008_2008_Communications_in_Number_Theory_and_Physics.pdf` | `087_ConreySnaith2008_2008_Communications_in_Number_Theory_and_Physics.pdf` | `087_ConreySnaith2008_2008_Communications_in_Number_Theory_and_Physics.pdf` |
+| `078_Conrey_1986_Review_Ivic_Riemann_Zeta_Function.pdf` | `088_Conrey_1986_Review_Ivic_Riemann_Zeta_Function.pdf` | `088_Conrey_1986_Review_Ivic_Riemann_Zeta_Function.pdf` |
+| `079_Conrey_1989_More_Than_Two_Fifths_Zeros_Critical_Line.pdf` | `089_Conrey_1989_More_Than_Two_Fifths_Zeros_Critical_Line.pdf` | `089_Conrey_1989_More_Than_Two_Fifths_Zeros_Critical_Line.pdf` |
+| `080_Conrey_2003_Riemann_Hypothesis.pdf` | `090_Conrey_2003_Riemann_Hypothesis.pdf` | `090_Conrey_2003_Riemann_Hypothesis.pdf` |
+| `081_Coons2010_2010_On_the_multiplicative_Erd_s_discrepancy_problem.pdf` | `091_Coons2010_2010_On_the_multiplicative_Erd_s_discrepancy_problem.pdf` | `091_Coons2010_2010_On_the_multiplicative_Erd_s_discrepancy_problem.pdf` |
+| `082_Corless-Gonnet-Hare-Jeffrey-Knuth_1996_Lambert_W_Function.pdf` | `092_Corless-Gonnet-Hare-Jeffrey-Knuth_1996_Lambert_W_Function.pdf` | `092_Corless-Gonnet-Hare-Jeffrey-Knuth_1996_Lambert_W_Function.pdf` |
+| `083_Cramer_1919_Nullstellen_Riemannschen_Zetafunktion.pdf` | `093_Cramer_1919_Nullstellen_Riemannschen_Zetafunktion.pdf` | `093_Cramer_1919_Nullstellen_Riemannschen_Zetafunktion.pdf` |
+| `084_Croot_2003_Oscillations_Multiplicative_PlusMinusOne.pdf` | `094_Croot_2003_Oscillations_Multiplicative_PlusMinusOne.pdf` | `094_Croot_2003_Oscillations_Multiplicative_PlusMinusOne.pdf` |
+| `085_Croot_2007_Smooth_Numbers_Short_Intervals.pdf` | `095_Croot_2007_Smooth_Numbers_Short_Intervals.pdf` | `095_Croot_2007_Smooth_Numbers_Short_Intervals.pdf` |
+| `086_Dannon_2008_Riemann_Zeta_Function.pdf` | `096_Dannon_2008_Riemann_Zeta_Function.pdf` | `096_Dannon_2008_Riemann_Zeta_Function.pdf` |
+| `087_Das-Ismoilov-Ramos_2025_Fourier_Optimization_Pair_Correlation_Problems.pdf` | `097_Das-Ismoilov-Ramos_2025_Fourier_Optimization_Pair_Correlation_Problems.pdf` | `097_Das-Ismoilov-Ramos_2025_Fourier_Optimization_Pair_Correlation_Problems.pdf` |
+| `088_Daubechies-DeVore_2003_Bandlimited_Function_Stable_Sigma_Delta_Modulators.pdf` | `098_Daubechies-DeVore_2003_Bandlimited_Function_Stable_Sigma_Delta_Modulators.pdf` | `098_Daubechies-DeVore_2003_Bandlimited_Function_Stable_Sigma_Delta_Modulators.pdf` |
+| `089_Davenport-Heilbronn_1936_Zeros_Certain_Dirichlet_Series_I.pdf` | `099_Davenport-Heilbronn_1936_Zeros_Certain_Dirichlet_Series_I.pdf` | `099_Davenport-Heilbronn_1936_Zeros_Certain_Dirichlet_Series_I.pdf` |
+| `341_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf` | `100_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf` | `100_Davenport_1980_Multiplicative_Number_Theory_Second_Edition.pdf` |
+| `090_Debruyne-Vindas_2019_Complex_Tauberian_Theorems_Laplace_Transforms.pdf` | `101_Debruyne-Vindas_2019_Complex_Tauberian_Theorems_Laplace_Transforms.pdf` | `101_Debruyne-Vindas_2019_Complex_Tauberian_Theorems_Laplace_Transforms.pdf` |
+| `091_DellAnnaEtAl2016_2016_Violation_of_cluster_decomposition_and_absence_of_light_cones_in_local_integer_and_half_integer_spin_chains.pdf` | `103_DellAnnaEtAl2016_2016_Violation_of_cluster_decomposition_and_absence_of_light_cones_in_local_integer_and_half_integer_spin_chains.pdf` | `103_DellAnnaEtAl2016_2016_Violation_of_cluster_decomposition_and_absence_of_light_cones_in_local_integer_and_half_integer_spin_chains.pdf` |
+| `092_Denisov-Kolb-Wachtel_2015_Local_Asymptotics_Random_Walk_Excursions.pdf` | `104_Denisov-Kolb-Wachtel_2015_Local_Asymptotics_Random_Walk_Excursions.pdf` | `104_Denisov-Kolb-Wachtel_2015_Local_Asymptotics_Random_Walk_Excursions.pdf` |
+| `093_DerridaEnaudLebowitz2004_2004_The_asymmetric_exclusion_process_and_Brownian_excursions.pdf` | `105_DerridaEnaudLebowitz2004_2004_The_asymmetric_exclusion_process_and_Brownian_excursions.pdf` | `105_DerridaEnaudLebowitz2004_2004_The_asymmetric_exclusion_process_and_Brownian_excursions.pdf` |
+| `094_Diamond-Montgomery-Vorhauer_2006_Beurling_Primes_Large_Oscillation.pdf` | `106_Diamond-Montgomery-Vorhauer_2006_Beurling_Primes_Large_Oscillation.pdf` | `106_Diamond-Montgomery-Vorhauer_2006_Beurling_Primes_Large_Oscillation.pdf` |
+| `095_Diamond_1970_Asymptotic_Distribution_Beurling_Generalized_Integers.pdf` | `107_Diamond_1970_Asymptotic_Distribution_Beurling_Generalized_Integers.pdf` | `107_Diamond_1970_Asymptotic_Distribution_Beurling_Generalized_Integers.pdf` |
+| `096_Drmota_2009_Sum_Of_Digits_Of_Primes.pdf` | `108_Drmota_2009_Sum_Of_Digits_Of_Primes.pdf` | `108_Drmota_2009_Sum_Of_Digits_Of_Primes.pdf` |
+| `097_Durkan-Hughes-PearceCrump_2026_Generalisations_Landau_Gonek_Theorem.pdf` | `109_Durkan-Hughes-PearceCrump_2026_Generalisations_Landau_Gonek_Theorem.pdf` | `109_Durkan-Hughes-PearceCrump_2026_Generalisations_Landau_Gonek_Theorem.pdf` |
+| `098_DurrettIglehartMiller1977_1977_Weak_convergence_to_Brownian_meander_and_Brownian_excursion.pdf` | `110_DurrettIglehartMiller1977_1977_Weak_convergence_to_Brownian_meander_and_Brownian_excursion.pdf` | `110_DurrettIglehartMiller1977_1977_Weak_convergence_to_Brownian_meander_and_Brownian_excursion.pdf` |
+| `099_DuttEtAl2019_2019_Nature_Communications.pdf` | `111_DuttEtAl2019_2019_Nature_Communications.pdf` | `111_DuttEtAl2019_2019_Nature_Communications.pdf` |
+| `100_Edwards_1974_Riemanns_Zeta_Function.pdf` | `112_Edwards_1974_Riemanns_Zeta_Function.pdf` | `112_Edwards_1974_Riemanns_Zeta_Function.pdf` |
+| `101_Engert1970_1970_Finite_dimensional_translation_invariant_subspaces.pdf` | `113_Engert1970_1970_Finite_dimensional_translation_invariant_subspaces.pdf` | `113_Engert1970_1970_Finite_dimensional_translation_invariant_subspaces.pdf` |
+| `102_ErdosEtAl2012_2012_Spectral_statistics_of_Erd.pdf` | `114_ErdosEtAl2012_2012_Spectral_statistics_of_Erd.pdf` | `114_ErdosEtAl2012_2012_Spectral_statistics_of_Erd.pdf` |
+| `103_Fazzari-Gerspach-Minelli_2025_Selberg_CLT_Weighted_Linear_Statistics_Zeta_Zeros.pdf` | `115_Fazzari-Gerspach-Minelli_2025_Selberg_CLT_Weighted_Linear_Statistics_Zeta_Zeros.pdf` | `115_Fazzari-Gerspach-Minelli_2025_Selberg_CLT_Weighted_Linear_Statistics_Zeta_Zeros.pdf` |
+| `104_FazziGuglielmiMarkovsky2021_2021_A_gradient_system_approach_for_Hankel_structured_low_rank_approximation.pdf` | `116_FazziGuglielmiMarkovsky2021_2021_A_gradient_system_approach_for_Hankel_structured_low_rank_approximation.pdf` | `116_FazziGuglielmiMarkovsky2021_2021_A_gradient_system_approach_for_Hankel_structured_low_rank_approximation.pdf` |
+| `105_Fiori_2025_Note_Phragmen_Lindelof_Theorem.pdf` | `118_Fiori_2025_Note_Phragmen_Lindelof_Theorem.pdf` | `118_Fiori_2025_Note_Phragmen_Lindelof_Theorem.pdf` |
+| `106_Ford-Meng-Zaharescu_2017_Simultaneous_Fractional_Parts.pdf` | `119_Ford-Meng-Zaharescu_2017_Simultaneous_Fractional_Parts.pdf` | `119_Ford-Meng-Zaharescu_2017_Simultaneous_Fractional_Parts.pdf` |
+| `107_Ford-Soundararajan-Zaharescu_2009_Imaginary_Parts_II.pdf` | `120_Ford-Soundararajan-Zaharescu_2009_Imaginary_Parts_II.pdf` | `120_Ford-Soundararajan-Zaharescu_2009_Imaginary_Parts_II.pdf` |
+| `108_Ford-Zaharescu_2005_Imaginary_Parts_Zeta_Zeros.pdf` | `121_Ford-Zaharescu_2005_Imaginary_Parts_Zeta_Zeros.pdf` | `121_Ford-Zaharescu_2005_Imaginary_Parts_Zeta_Zeros.pdf` |
+| `109_Ford_2002_Vinogradov_Integral_Bounds_Riemann_Zeta.pdf` | `122_Ford_2002_Vinogradov_Integral_Bounds_Riemann_Zeta.pdf` | `122_Ford_2002_Vinogradov_Integral_Bounds_Riemann_Zeta.pdf` |
+| `110_Forrester-Lebowitz_2013_Local_CLT_Determinantal_Point_Processes.pdf` | `123_Forrester-Lebowitz_2013_Local_CLT_Determinantal_Point_Processes.pdf` | `123_Forrester-Lebowitz_2013_Local_CLT_Determinantal_Point_Processes.pdf` |
+| `111_Forrester-Mays_2015_Finite_Size_Corrections_RMT_Odlyzko_Data.pdf` | `124_Forrester-Mays_2015_Finite_Size_Corrections_RMT_Odlyzko_Data.pdf` | `124_Forrester-Mays_2015_Finite_Size_Corrections_RMT_Odlyzko_Data.pdf` |
+| `112_Franca-LeClair_2014_Statistical_Properties_Riemann_Zeros_Explicit_Equation_nth_Zero.pdf` | `125_Franca-LeClair_2014_Statistical_Properties_Riemann_Zeros_Explicit_Equation_nth_Zero.pdf` | `125_Franca-LeClair_2014_Statistical_Properties_Riemann_Zeros_Explicit_Equation_nth_Zero.pdf` |
+| `113_Franca-LeClair_2014_Theory_Zeros_Riemann_Zeta_And_Other_L_Functions.pdf` | `126_Franca-LeClair_2014_Theory_Zeros_Riemann_Zeta_And_Other_L_Functions.pdf` | `126_Franca-LeClair_2014_Theory_Zeros_Riemann_Zeta_And_Other_L_Functions.pdf` |
+| `114_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions.pdf` | `127_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions.pdf` | `127_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions.pdf` |
+| `115_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions_CNTP_Published.pdf` | `128_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions_CNTP_Published.pdf` | `128_Franca-LeClair_2015_Transcendental_Equations_Individual_Zeros_L_Functions_CNTP_Published.pdf` |
+| `116_Frantzikinakis2020_1908_Correlations_of_multiplicative_functions_along_deterministic_and_independent_sequences.pdf` | `129_Frantzikinakis2020_1908_Correlations_of_multiplicative_functions_along_deterministic_and_independent_sequences.pdf` | `129_Frantzikinakis2020_1908_Correlations_of_multiplicative_functions_along_deterministic_and_independent_sequences.pdf` |
+| `117_Friedlander-Granville_1993_Smoothing_Smooth_Numbers.pdf` | `130_Friedlander-Granville_1993_Smoothing_Smooth_Numbers.pdf` | `130_Friedlander-Granville_1993_Smoothing_Smooth_Numbers.pdf` |
+| `118_Fujii_1974_Zeros_Dirichlet_L_Functions_I.pdf` | `131_Fujii_1974_Zeros_Dirichlet_L_Functions_I.pdf` | `131_Fujii_1974_Zeros_Dirichlet_L_Functions_I.pdf` |
+| `119_Fujii_1975_Difference_r_Consecutive_Ordinates_Zeros_Zeta.pdf` | `132_Fujii_1975_Difference_r_Consecutive_Ordinates_Zeros_Zeta.pdf` | `132_Fujii_1975_Difference_r_Consecutive_Ordinates_Zeros_Zeta.pdf` |
+| `120_Fujii_1975_Distribution_Zeros_Zeta_Short_Intervals.pdf` | `133_Fujii_1975_Distribution_Zeros_Zeta_Short_Intervals.pdf` | `133_Fujii_1975_Distribution_Zeros_Zeta_Short_Intervals.pdf` |
+| `121_Fujii_1981_Zeros_Dirichlet_L_Functions_II_Corrections.pdf` | `134_Fujii_1981_Zeros_Dirichlet_L_Functions_II_Corrections.pdf` | `134_Fujii_1981_Zeros_Dirichlet_L_Functions_II_Corrections.pdf` |
+| `122_GPY2009_2009_Annals_of_Mathematics.pdf` | `135_GPY2009_2009_Annals_of_Mathematics.pdf` | `135_GPY2009_2009_Annals_of_Mathematics.pdf` |
+| `123_Gallier2016_2016_Spectral_theory_of_unsigned_and_signed_graphs_applications_to_graph_clustering_a_survey.pdf` | `136_Gallier2016_2016_Spectral_theory_of_unsigned_and_signed_graphs_applications_to_graph_clustering_a_survey.pdf` | `137_Gallier2016_2016_Spectral_theory_of_unsigned_and_signed_graphs_applications_to_graph_clustering_a_survey.pdf` |
+| `124_Ghosh-Sarnak_2012_Real_Zeros_Hecke_Cusp_Forms.pdf` | `139_Ghosh-Sarnak_2012_Real_Zeros_Hecke_Cusp_Forms.pdf` | `140_Ghosh-Sarnak_2012_Real_Zeros_Hecke_Cusp_Forms.pdf` |
+| `125_Ghosh_2022_Statistics_Approximations_Zeros_Truncated_Symmetrized_Euler_Products.pdf` | `140_Ghosh_2022_Statistics_Approximations_Zeros_Truncated_Symmetrized_Euler_Products.pdf` | `141_Ghosh_2022_Statistics_Approximations_Zeros_Truncated_Symmetrized_Euler_Products.pdf` |
+| `126_Goldfeld_1982_Produits_Partiels_Euleriens_Courbes_Elliptiques.pdf` | `141_Goldfeld_1982_Produits_Partiels_Euleriens_Courbes_Elliptiques.pdf` | `142_Goldfeld_1982_Produits_Partiels_Euleriens_Courbes_Elliptiques.pdf` |
+| `127_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_II_Alternative_Hypothesis.pdf` | `142_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_II_Alternative_Hypothesis.pdf` | `143_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_II_Alternative_Hypothesis.pdf` |
+| `128_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_I_Simple_Critical.pdf` | `143_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_I_Simple_Critical.pdf` | `144_Goldston-Lee-Schettler-Suriajaya_2025_Pair_Correlation_Conjecture_I_Simple_Critical.pdf` |
+| `129_Gonek-Sahay_2024_Consecutive_Moderate_Gaps_Between_Zeros_Zeta.pdf` | `144_Gonek-Sahay_2024_Consecutive_Moderate_Gaps_Between_Zeros_Zeta.pdf` | `145_Gonek-Sahay_2024_Consecutive_Moderate_Gaps_Between_Zeros_Zeta.pdf` |
+| `130_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf` | `145_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf` | `146_Gonek_1985_Formula_Landau_Mean_Values_Zeta_INCOMPLETE_pp92-96.pdf` |
+| `131_Gonek_2012_Finite_Euler_Products_Riemann_Hypothesis.pdf` | `146_Gonek_2012_Finite_Euler_Products_Riemann_Hypothesis.pdf` | `147_Gonek_2012_Finite_Euler_Products_Riemann_Hypothesis.pdf` |
+| `132_GordinPeligrad2011_2011_On_the_functional_central_limit_theorem_via_martingale_approximation.pdf` | `147_GordinPeligrad2011_2011_On_the_functional_central_limit_theorem_via_martingale_approximation.pdf` | `148_GordinPeligrad2011_2011_On_the_functional_central_limit_theorem_via_martingale_approximation.pdf` |
+| `133_Gouezel2010_2010_Almost_sure_invariance_principle_for_dynamical_systems_by_spectral_methods.pdf` | `148_Gouezel2010_2010_Almost_sure_invariance_principle_for_dynamical_systems_by_spectral_methods.pdf` | `149_Gouezel2010_2010_Almost_sure_invariance_principle_for_dynamical_systems_by_spectral_methods.pdf` |
+| `134_Graham-Kolesnik_1991_Computing_Optimal_Exponent_Pairs.pdf` | `149_Graham-Kolesnik_1991_Computing_Optimal_Exponent_Pairs.pdf` | `150_Graham-Kolesnik_1991_Computing_Optimal_Exponent_Pairs.pdf` |
+| `135_Graham-Kolesnik_1991_Simplest_Van_Der_Corput_Estimates.pdf` | `150_Graham-Kolesnik_1991_Simplest_Van_Der_Corput_Estimates.pdf` | `151_Graham-Kolesnik_1991_Simplest_Van_Der_Corput_Estimates.pdf` |
+| `136_Granville-Soundararajan_2003_Decay_Of_Mean_Values.pdf` | `151_Granville-Soundararajan_2003_Decay_Of_Mean_Values.pdf` | `152_Granville-Soundararajan_2003_Decay_Of_Mean_Values.pdf` |
+| `137_Granville_2008_Smooth_Numbers_Survey.pdf` | `152_Granville_2008_Smooth_Numbers_Survey.pdf` | `153_Granville_2008_Smooth_Numbers_Survey.pdf` |
+| `138_GrepstadEtAl2019_1909_On_the_asymptotic_behaviour_of_the_sine_product.pdf` | `154_GrepstadEtAl2019_1909_On_the_asymptotic_behaviour_of_the_sine_product.pdf` | `155_GrepstadEtAl2019_1909_On_the_asymptotic_behaviour_of_the_sine_product.pdf` |
+| `139_Grosswald-Schnitzer_1978_Class_Modified_Zeta_L_Functions.pdf` | `155_Grosswald-Schnitzer_1978_Class_Modified_Zeta_L_Functions.pdf` | `156_Grosswald-Schnitzer_1978_Class_Modified_Zeta_L_Functions.pdf` |
+| `140_Guillera_2013_Sums_Nontrivial_Zeros_Riemann_Zeta.pdf` | `156_Guillera_2013_Sums_Nontrivial_Zeros_Riemann_Zeta.pdf` | `157_Guillera_2013_Sums_Nontrivial_Zeros_Riemann_Zeta.pdf` |
+| `141_Gunturk-Thao_2003_Ergodic_Dynamics_Sigma_Delta_Quantization.pdf` | `157_Gunturk-Thao_2003_Ergodic_Dynamics_Sigma_Delta_Quantization.pdf` | `158_Gunturk-Thao_2003_Ergodic_Dynamics_Sigma_Delta_Quantization.pdf` |
+| `142_Guth-Maynard_2026_New_Large_Value_Estimates_Dirichlet_Polynomials.pdf` | `158_Guth-Maynard_2026_New_Large_Value_Estimates_Dirichlet_Polynomials.pdf` | `159_Guth-Maynard_2026_New_Large_Value_Estimates_Dirichlet_Polynomials.pdf` |
+| `143_Hadamard_1896_Distribution_Zeros_Zeta_Consequences_Arithmetiques.pdf` | `159_Hadamard_1896_Distribution_Zeros_Zeta_Consequences_Arithmetiques.pdf` | `160_Hadamard_1896_Distribution_Zeros_Zeta_Consequences_Arithmetiques.pdf` |
+| `144_Hamburger_1921_Riemannsche_Funktionalgleichung_Zeta_Funktion_I.pdf` | `160_Hamburger_1921_Riemannsche_Funktionalgleichung_Zeta_Funktion_I.pdf` | `161_Hamburger_1921_Riemannsche_Funktionalgleichung_Zeta_Funktion_I.pdf` |
+| `145_Hardy-Littlewood-Polya_1934_Inequalities.pdf` | `161_Hardy-Littlewood-Polya_1934_Inequalities.pdf` | `162_Hardy-Littlewood-Polya_1934_Inequalities.pdf` |
+| `146_Hardy-Littlewood_1917_Riemann_Zeta_And_Distribution_Primes.pdf` | `162_Hardy-Littlewood_1917_Riemann_Zeta_And_Distribution_Primes.pdf` | `163_Hardy-Littlewood_1917_Riemann_Zeta_And_Distribution_Primes.pdf` |
+| `147_Harman-Pintz-Wolke_1985_Mobius_And_Liouville_Functions.pdf` | `163_Harman-Pintz-Wolke_1985_Mobius_And_Liouville_Functions.pdf` | `164_Harman-Pintz-Wolke_1985_Mobius_And_Liouville_Functions.pdf` |
+| `148_Harper_2013_Conditional_Bounds_Zeta_Moments.pdf` | `164_Harper_2013_Conditional_Bounds_Zeta_Moments.pdf` | `165_Harper_2013_Conditional_Bounds_Zeta_Moments.pdf` |
+| `149_Harper_2020_Moments_Random_Multiplicative_Functions_I.pdf` | `165_Harper_2020_Moments_Random_Multiplicative_Functions_I.pdf` | `166_Harper_2020_Moments_Random_Multiplicative_Functions_I.pdf` |
+| `150_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Dedekind_Zeta.pdf` | `166_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Dedekind_Zeta.pdf` | `167_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Dedekind_Zeta.pdf` |
+| `151_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Riemann_Zeta.pdf` | `167_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Riemann_Zeta.pdf` | `168_Hasanalizade-Shen-Wong_2022_Counting_Zeros_Riemann_Zeta.pdf` |
+| `152_HaugPrellberg2015_2015_Uniform_asymptotics_of_area_weighted_Dyck_paths.pdf` | `168_HaugPrellberg2015_2015_Uniform_asymptotics_of_area_weighted_Dyck_paths.pdf` | `169_HaugPrellberg2015_2015_Uniform_asymptotics_of_area_weighted_Dyck_paths.pdf` |
+| `153_Haynes-Zudilin_2015_Hankel_Determinants_Zeta_Values.pdf` | `169_Haynes-Zudilin_2015_Hankel_Determinants_Zeta_Values.pdf` | `170_Haynes-Zudilin_2015_Hankel_Determinants_Zeta_Values.pdf` |
+| `342_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf` | `170_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf` | `171_HeathBrown_2016_New_kth_Derivative_Estimate_Exponential_Sums_Vinogradov_arXiv_v3.pdf` |
+| `154_Helfgott-Thompson_2023_Summing_Mobius_Faster_Elementary_Algorithm.pdf` | `171_Helfgott-Thompson_2023_Summing_Mobius_Faster_Elementary_Algorithm.pdf` | `172_Helfgott-Thompson_2023_Summing_Mobius_Faster_Elementary_Algorithm.pdf` |
+| `155_HelfgottRadziwill2021_undated_HelfgottRadziwill2021.pdf` | `172_HelfgottRadziwill2021_undated_HelfgottRadziwill2021.pdf` | `173_HelfgottRadziwill2021_undated_HelfgottRadziwill2021.pdf` |
+| `156_HerichiLapidus2014_2014_Truncated_infinitesimal_shifts_spectral_operators_and_quantized_universality_of_the_Riemann_zeta_function.pdf` | `173_HerichiLapidus2014_2014_Truncated_infinitesimal_shifts_spectral_operators_and_quantized_universality_of_the_Riemann_zeta_function.pdf` | `174_HerichiLapidus2014_2014_Truncated_infinitesimal_shifts_spectral_operators_and_quantized_universality_of_the_Riemann_zeta_function.pdf` |
+| `157_HerreraMoree2018_2018_Coefficients_and_higher_order_derivatives_of_cyclotomic_polynomials_old_and_new.pdf` | `174_HerreraMoree2018_2018_Coefficients_and_higher_order_derivatives_of_cyclotomic_polynomials_old_and_new.pdf` | `175_HerreraMoree2018_2018_Coefficients_and_higher_order_derivatives_of_cyclotomic_polynomials_old_and_new.pdf` |
+| `158_HeuslerEtAl2007_2007_Periodic_orbit_theory_of_level_correlations.pdf` | `175_HeuslerEtAl2007_2007_Periodic_orbit_theory_of_level_correlations.pdf` | `176_HeuslerEtAl2007_2007_Periodic_orbit_theory_of_level_correlations.pdf` |
+| `343_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf` | `176_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf` | `177_Hiary-Leong-Yang_2024_Explicit_Bounds_Zeta_1_Line_arXiv_v3.pdf` |
+| `159_Hiary-Leong-Yang_2025_Explicit_Bounds_Zeta_1_Line.pdf` | `177_Hiary-Leong-Yang_2025_Explicit_Bounds_Zeta_1_Line.pdf` | `178_Hiary-Leong-Yang_2025_Explicit_Bounds_Zeta_1_Line.pdf` |
+| `160_Hiary-Patel-Yang_2024_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` | `178_Hiary-Patel-Yang_2024_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` | `179_Hiary-Patel-Yang_2024_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` |
+| `161_Hilberdink-Lapidus_2006_Beurling_Zeta_Generalised_Primes_Fractal_Membranes.pdf` | `180_Hilberdink-Lapidus_2006_Beurling_Zeta_Generalised_Primes_Fractal_Membranes.pdf` | `181_Hilberdink-Lapidus_2006_Beurling_Zeta_Generalised_Primes_Fractal_Membranes.pdf` |
+| `162_Hilberdink-Pushnitski_2023_Spectral_Asymptotics_LCM_Matrices.pdf` | `181_Hilberdink-Pushnitski_2023_Spectral_Asymptotics_LCM_Matrices.pdf` | `182_Hilberdink-Pushnitski_2023_Spectral_Asymptotics_LCM_Matrices.pdf` |
+| `163_Hilberdink_2006_Determinants_Multiplicative_Toeplitz_Matrices.pdf` | `182_Hilberdink_2006_Determinants_Multiplicative_Toeplitz_Matrices.pdf` | `183_Hilberdink_2006_Determinants_Multiplicative_Toeplitz_Matrices.pdf` |
+| `164_Hilberdink_2015_Multiplicative_Toeplitz_Matrices_Riemann_Zeta.pdf` | `183_Hilberdink_2015_Multiplicative_Toeplitz_Matrices_Riemann_Zeta.pdf` | `184_Hilberdink_2015_Multiplicative_Toeplitz_Matrices_Riemann_Zeta.pdf` |
+| `165_Hilberdink_2017_Singular_Values_Multiplicative_Toeplitz_Matrices.pdf` | `184_Hilberdink_2017_Singular_Values_Multiplicative_Toeplitz_Matrices.pdf` | `185_Hilberdink_2017_Singular_Values_Multiplicative_Toeplitz_Matrices.pdf` |
+| `166_Hoffman1992_1992_Multiple_harmonic_series.pdf` | `185_Hoffman1992_1992_Multiple_harmonic_series.pdf` | `186_Hoffman1992_1992_Multiple_harmonic_series.pdf` |
+| `167_Hruscev-Nikolskii-Pavlov_1981_Unconditional_Bases_Exponentials_Reproducing_Kernels.pdf` | `186_Hruscev-Nikolskii-Pavlov_1981_Unconditional_Bases_Exponentials_Reproducing_Kernels.pdf` | `187_Hruscev-Nikolskii-Pavlov_1981_Unconditional_Bases_Exponentials_Reproducing_Kernels.pdf` |
+| `168_Hughes-Rudnick_2002_Linear_Statistics_Zeros_Zeta.pdf` | `187_Hughes-Rudnick_2002_Linear_Statistics_Zeros_Zeta.pdf` | `188_Hughes-Rudnick_2002_Linear_Statistics_Zeros_Zeta.pdf` |
+| `169_Hurst2026_2026_Practical_computations_of_the_Mertens_function_M_10.pdf` | `188_Hurst2026_2026_Practical_computations_of_the_Mertens_function_M_10.pdf` | `189_Hurst2026_2026_Practical_computations_of_the_Mertens_function_M_10.pdf` |
+| `170_Hurst_2018_Computations_Mertens_Function_Improved_Bounds.pdf` | `189_Hurst_2018_Computations_Mertens_Function_Improved_Bounds.pdf` | `190_Hurst_2018_Computations_Mertens_Function_Improved_Bounds.pdf` |
+| `171_Hutchinson_1925_Roots_Riemann_Zeta_Function.pdf` | `190_Hutchinson_1925_Roots_Riemann_Zeta_Function.pdf` | `191_Hutchinson_1925_Roots_Riemann_Zeta_Function.pdf` |
+| `172_Huxley_1989_Exponential_Sums_Riemann_Zeta.pdf` | `192_Huxley_1989_Exponential_Sums_Riemann_Zeta.pdf` | `193_Huxley_1989_Exponential_Sums_Riemann_Zeta.pdf` |
+| `173_Igusa_2000_Introduction_Local_Zeta_Functions.pdf` | `193_Igusa_2000_Introduction_Local_Zeta_Functions.pdf` | `194_Igusa_2000_Introduction_Local_Zeta_Functions.pdf` |
+| `174_Ingham_1936_Trigonometrical_Inequalities_Theory_Series.pdf` | `194_Ingham_1936_Trigonometrical_Inequalities_Theory_Series.pdf` | `195_Ingham_1936_Trigonometrical_Inequalities_Theory_Series.pdf` |
+| `175_Inoue-Kobayashi-Toma_2026_Explicit_Extreme_Values_Argument_Zeta.pdf` | `195_Inoue-Kobayashi-Toma_2026_Explicit_Extreme_Values_Argument_Zeta.pdf` | `196_Inoue-Kobayashi-Toma_2026_Explicit_Extreme_Values_Argument_Zeta.pdf` |
+| `176_Inoue_2024_Note_On_r_Gaps_Between_Zeros_Zeta.pdf` | `196_Inoue_2024_Note_On_r_Gaps_Between_Zeros_Zeta.pdf` | `197_Inoue_2024_Note_On_r_Gaps_Between_Zeros_Zeta.pdf` |
+| `177_Ivic-Korolev_2018_Distribution_Values_Argument_Zeta.pdf` | `197_Ivic-Korolev_2018_Distribution_Values_Argument_Zeta.pdf` | `198_Ivic-Korolev_2018_Distribution_Values_Argument_Zeta.pdf` |
+| `178_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf` | `198_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf` | `199_Ivic_1985_Riemann_Zeta_Theory_Applications.pdf` |
+| `179_Ivic_2001_Sums_Over_Ordinates_Zeta_Zeros.pdf` | `199_Ivic_2001_Sums_Over_Ordinates_Zeta_Zeros.pdf` | `200_Ivic_2001_Sums_Over_Ordinates_Zeta_Zeros.pdf` |
+| `180_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` | `200_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` | `201_Ivic_2003_Riemann_Zeta_Dover_Reprint.pdf` |
+| `181_Janson_2007_Brownian_Excursion_Area_Wright_Constants.pdf` | `201_Janson_2007_Brownian_Excursion_Area_Wright_Constants.pdf` | `202_Janson_2007_Brownian_Excursion_Area_Wright_Constants.pdf` |
+| `182_Jerby_2023_New_Discriminant_Hardy_Z_Function_Corrected_Gram_Law.pdf` | `202_Jerby_2023_New_Discriminant_Hardy_Z_Function_Corrected_Gram_Law.pdf` | `203_Jerby_2023_New_Discriminant_Hardy_Z_Function_Corrected_Gram_Law.pdf` |
+| `183_Johansson_2001_Discrete_Orthogonal_Polynomial_Ensembles_Plancherel.pdf` | `203_Johansson_2001_Discrete_Orthogonal_Polynomial_Ensembles_Plancherel.pdf` | `204_Johansson_2001_Discrete_Orthogonal_Polynomial_Ensembles_Plancherel.pdf` |
+| `184_Johansson_2017_Arb_Arbitrary_Precision_Interval_Arithmetic.pdf` | `204_Johansson_2017_Arb_Arbitrary_Precision_Interval_Arithmetic.pdf` | `205_Johansson_2017_Arb_Arbitrary_Precision_Interval_Arithmetic.pdf` |
+| `185_Johansson_2018_Numerical_Integration_Ball_Arithmetic.pdf` | `205_Johansson_2018_Numerical_Integration_Ball_Arithmetic.pdf` | `206_Johansson_2018_Numerical_Integration_Ball_Arithmetic.pdf` |
+| `186_Jones-Sato-Wada-Wiens_1976_Diophantine_Representation_Primes.pdf` | `206_Jones-Sato-Wada-Wiens_1976_Diophantine_Representation_Primes.pdf` | `207_Jones-Sato-Wada-Wiens_1976_Diophantine_Representation_Primes.pdf` |
+| `187_Jun-Lee_2014_Dedekind_And_Exponential_Sums.pdf` | `207_Jun-Lee_2014_Dedekind_And_Exponential_Sums.pdf` | `208_Jun-Lee_2014_Dedekind_And_Exponential_Sums.pdf` |
+| `188_Jutila_1977_Zero_Density_Estimates_L_Functions.pdf` | `208_Jutila_1977_Zero_Density_Estimates_L_Functions.pdf` | `209_Jutila_1977_Zero_Density_Estimates_L_Functions.pdf` |
+| `189_Kaczorowski-Perelli_1999_Structure_Selberg_Class_I.pdf` | `209_Kaczorowski-Perelli_1999_Structure_Selberg_Class_I.pdf` | `210_Kaczorowski-Perelli_1999_Structure_Selberg_Class_I.pdf` |
+| `190_Kaczorowski-Pintz_1986_Oscillatory_Properties_Arithmetical_Functions_I.pdf` | `210_Kaczorowski-Pintz_1986_Oscillatory_Properties_Arithmetical_Functions_I.pdf` | `211_Kaczorowski-Pintz_1986_Oscillatory_Properties_Arithmetical_Functions_I.pdf` |
+| `191_KaczorowskiLanguascoPerelli2000_2000_A_note_on_Landau_s_formula.pdf` | `211_KaczorowskiLanguascoPerelli2000_2000_A_note_on_Landau_s_formula.pdf` | `212_KaczorowskiLanguascoPerelli2000_2000_A_note_on_Landau_s_formula.pdf` |
+| `192_Kaczorowski_1991_k_Functions_Multiplicative_Number_Theory_V.pdf` | `212_Kaczorowski_1991_k_Functions_Multiplicative_Number_Theory_V.pdf` | `213_Kaczorowski_1991_k_Functions_Multiplicative_Number_Theory_V.pdf` |
+| `193_Kaigh1976_1976_An_invariance_principle_for_random_walk_conditioned_by_a_late_return_to_zero.pdf` | `213_Kaigh1976_1976_An_invariance_principle_for_random_walk_conditioned_by_a_late_return_to_zero.pdf` | `214_Kaigh1976_1976_An_invariance_principle_for_random_walk_conditioned_by_a_late_return_to_zero.pdf` |
+| `194_Kanemitsu-Tsukada_2015_Hecke_Type_Zeta_Functions.pdf` | `214_Kanemitsu-Tsukada_2015_Hecke_Type_Zeta_Functions.pdf` | `215_Kanemitsu-Tsukada_2015_Hecke_Type_Zeta_Functions.pdf` |
+| `195_Kanemitsu-Tsukada_2015_Modular_Relation_Supremacy.pdf` | `215_Kanemitsu-Tsukada_2015_Modular_Relation_Supremacy.pdf` | `216_Kanemitsu-Tsukada_2015_Modular_Relation_Supremacy.pdf` |
+| `196_Kannan-Bachem_1979_Polynomial_Algorithms_Smith_Hermite_Normal_Forms.pdf` | `216_Kannan-Bachem_1979_Polynomial_Algorithms_Smith_Hermite_Normal_Forms.pdf` | `217_Kannan-Bachem_1979_Polynomial_Algorithms_Smith_Hermite_Normal_Forms.pdf` |
+| `197_Karatsuba-Voronin_1992_Vinogradov_Method_Riemann_Zeta.pdf` | `217_Karatsuba-Voronin_1992_Vinogradov_Method_Riemann_Zeta.pdf` | `218_Karatsuba-Voronin_1992_Vinogradov_Method_Riemann_Zeta.pdf` |
+| `198_Kargin_2013_Fluctuations_Riemann_Zeta_Zeros.pdf` | `218_Kargin_2013_Fluctuations_Riemann_Zeta_Zeros.pdf` | `219_Kargin_2013_Fluctuations_Riemann_Zeta_Zeros.pdf` |
+| `199_Keating_2022_Hierarchical_Structure_Trace_Formula.pdf` | `220_Keating_2022_Hierarchical_Structure_Trace_Formula.pdf` | `221_Keating_2022_Hierarchical_Structure_Trace_Formula.pdf` |
+| `200_Kelly-Le_2018_Van_Der_Corput_Sets_Compact_Groups.pdf` | `221_Kelly-Le_2018_Van_Der_Corput_Sets_Compact_Groups.pdf` | `222_Kelly-Le_2018_Van_Der_Corput_Sets_Compact_Groups.pdf` |
+| `201_KhorunzhiyMarckert2009_2009_Uniform_bounds_for_exponential_moment_of_maximum_of_a_Dyck_path.pdf` | `222_KhorunzhiyMarckert2009_2009_Uniform_bounds_for_exponential_moment_of_maximum_of_a_Dyck_path.pdf` | `223_KhorunzhiyMarckert2009_2009_Uniform_bounds_for_exponential_moment_of_maximum_of_a_Dyck_path.pdf` |
+| `202_Kinnunen_1997_Hardy_Littlewood_Maximal_Function_Sobolev_Function.pdf` | `223_Kinnunen_1997_Hardy_Littlewood_Maximal_Function_Sobolev_Function.pdf` | `224_Kinnunen_1997_Hardy_Littlewood_Maximal_Function_Sobolev_Function.pdf` |
+| `203_Knopp_1994_Dirichlet_Series_Riemann_Functional_Equation.pdf` | `224_Knopp_1994_Dirichlet_Series_Riemann_Functional_Equation.pdf` | `225_Knopp_1994_Dirichlet_Series_Riemann_Functional_Equation.pdf` |
+| `204_Kolountzakis-Revesz_2003_Turan_Extremal_Problem.pdf` | `225_Kolountzakis-Revesz_2003_Turan_Extremal_Problem.pdf` | `226_Kolountzakis-Revesz_2003_Turan_Extremal_Problem.pdf` |
+| `205_Komori-Matsumoto-Tsumura_2023_Zeta_Functions_Root_Systems.pdf` | `227_Komori-Matsumoto-Tsumura_2023_Zeta_Functions_Root_Systems.pdf` | `228_Komori-Matsumoto-Tsumura_2023_Zeta_Functions_Root_Systems.pdf` |
+| `206_Korolev-Laurincikas_2023_Approximation_Mellin_Transform_Zeta_Axioms.pdf` | `228_Korolev-Laurincikas_2023_Approximation_Mellin_Transform_Zeta_Axioms.pdf` | `229_Korolev-Laurincikas_2023_Approximation_Mellin_Transform_Zeta_Axioms.pdf` |
+| `207_Korolev_2010_Gram_Law_Selberg_Conjecture_Zeros_Izv_Math.pdf` | `229_Korolev_2010_Gram_Law_Selberg_Conjecture_Zeros_Izv_Math.pdf` | `230_Korolev_2010_Gram_Law_Selberg_Conjecture_Zeros_Izv_Math.pdf` |
+| `208_Korolev_2011_Gram_Law_Argument_Riemann_Zeta_arXiv.pdf` | `230_Korolev_2011_Gram_Law_Argument_Riemann_Zeta_arXiv.pdf` | `231_Korolev_2011_Gram_Law_Argument_Riemann_Zeta_arXiv.pdf` |
+| `209_Korolev_2012_Gram_Law_Argument_Riemann_Zeta_Publ_Inst_Math.pdf` | `231_Korolev_2012_Gram_Law_Argument_Riemann_Zeta_Publ_Inst_Math.pdf` | `232_Korolev_2012_Gram_Law_Argument_Riemann_Zeta_Publ_Inst_Math.pdf` |
+| `210_Korolev_2012_Gram_Law_Riemann_Zeta.pdf` | `232_Korolev_2012_Gram_Law_Riemann_Zeta.pdf` | `233_Korolev_2012_Gram_Law_Riemann_Zeta.pdf` |
+| `211_Korolev_2016_Extreme_Values_S_Short_Intervals_Indian_J.pdf` | `233_Korolev_2016_Extreme_Values_S_Short_Intervals_Indian_J.pdf` | `234_Korolev_2016_Extreme_Values_S_Short_Intervals_Indian_J.pdf` |
+| `212_Korolev_2016_Gram_Law_Theory_Zeta_Part1_Proc_Steklov.pdf` | `234_Korolev_2016_Gram_Law_Theory_Zeta_Part1_Proc_Steklov.pdf` | `235_Korolev_2016_Gram_Law_Theory_Zeta_Part1_Proc_Steklov.pdf` |
+| `213_Kotnik-vandeLune_2004_Order_Mertens_Function.pdf` | `235_Kotnik-vandeLune_2004_Order_Mertens_Function.pdf` | `236_Kotnik-vandeLune_2004_Order_Mertens_Function.pdf` |
+| `214_Kousha2012_2012_Asymptotic_behavior_and_the_moderate_deviation_principle_for_the_maximum_of_a_Dyck_path.pdf` | `236_Kousha2012_2012_Asymptotic_behavior_and_the_moderate_deviation_principle_for_the_maximum_of_a_Dyck_path.pdf` | `237_Kousha2012_2012_Asymptotic_behavior_and_the_moderate_deviation_principle_for_the_maximum_of_a_Dyck_path.pdf` |
+| `215_Kowalski-Robert-Wu_2007_Small_Gaps_And_B_Free_Numbers.pdf` | `237_Kowalski-Robert-Wu_2007_Small_Gaps_And_B_Free_Numbers.pdf` | `238_Kowalski-Robert-Wu_2007_Small_Gaps_And_B_Free_Numbers.pdf` |
+| `216_Kowalski_2021_Exponential_Sums_Finite_Fields_Elementary.pdf` | `238_Kowalski_2021_Exponential_Sums_Finite_Fields_Elementary.pdf` | `239_Kowalski_2021_Exponential_Sums_Finite_Fields_Elementary.pdf` |
+| `217_Kowalski_2021_Exponential_Sums_Finite_Fields_II.pdf` | `239_Kowalski_2021_Exponential_Sums_Finite_Fields_II.pdf` | `240_Kowalski_2021_Exponential_Sums_Finite_Fields_II.pdf` |
+| `218_Kozma-Lev_2011_Exponential_Riesz_Bases_Discrepancy_BMO.pdf` | `240_Kozma-Lev_2011_Exponential_Riesz_Bases_Discrepancy_BMO.pdf` | `241_Kozma-Lev_2011_Exponential_Riesz_Bases_Discrepancy_BMO.pdf` |
+| `219_Kurasov-Sarnak_2020_Stable_Polynomials_Crystalline_Measures.pdf` | `241_Kurasov-Sarnak_2020_Stable_Polynomials_Crystalline_Measures.pdf` | `242_Kurasov-Sarnak_2020_Stable_Polynomials_Crystalline_Measures.pdf` |
+| `220_LMS_2015_Atle_Selberg_Obituary.pdf` | `242_LMS_2015_Atle_Selberg_Obituary.pdf` | `243_LMS_2015_Atle_Selberg_Obituary.pdf` |
+| `221_Labahn-Neiger-Zhou_2018_Hermite_Normal_Form_Polynomial_Matrix.pdf` | `243_Labahn-Neiger-Zhou_2018_Hermite_Normal_Form_Polynomial_Matrix.pdf` | `244_Labahn-Neiger-Zhou_2018_Hermite_Normal_Form_Polynomial_Matrix.pdf` |
+| `222_Lagarias2007_2007_Li_coefficients_for_automorphic_functions.pdf` | `244_Lagarias2007_2007_Li_coefficients_for_automorphic_functions.pdf` | `245_Lagarias2007_2007_Li_coefficients_for_automorphic_functions.pdf` |
+| `223_Landau_1912_Nullstellen_Zetafunktion.pdf` | `246_Landau_1912_Nullstellen_Zetafunktion.pdf` | `247_Landau_1912_Nullstellen_Zetafunktion.pdf` |
+| `224_Lapidus-VanFrankenhuysen_2000_Fractal_Geometry_Number_Theory.pdf` | `247_Lapidus-VanFrankenhuysen_2000_Fractal_Geometry_Number_Theory.pdf` | `248_Lapidus-VanFrankenhuysen_2000_Fractal_Geometry_Number_Theory.pdf` |
+| `225_Lau-Liu-Wu_2010_Symmetric_Square_L_Function_Coefficients.pdf` | `248_Lau-Liu-Wu_2010_Symmetric_Square_L_Function_Coefficients.pdf` | `249_Lau-Liu-Wu_2010_Symmetric_Square_L_Function_Coefficients.pdf` |
+| `226_LeClair_2016_Riemann_Hypothesis_Random_Walks_Zeta_Case.pdf` | `249_LeClair_2016_Riemann_Hypothesis_Random_Walks_Zeta_Case.pdf` | `250_LeClair_2016_Riemann_Hypothesis_Random_Walks_Zeta_Case.pdf` |
+| `227_LeeLeong2024_2024_New_explicit_bounds_for_the_Mertens_function_and_the_reciprocal_of_the_Riemann_zeta_function.pdf` | `250_LeeLeong2024_2024_New_explicit_bounds_for_the_Mertens_function_and_the_reciprocal_of_the_Riemann_zeta_function.pdf` | `251_LeeLeong2024_2024_New_explicit_bounds_for_the_Mertens_function_and_the_reciprocal_of_the_Riemann_zeta_function.pdf` |
+| `228_Leong_2024_Explicit_Estimates_Log_Derivative_Reciprocal_Zeta.pdf` | `251_Leong_2024_Explicit_Estimates_Log_Derivative_Reciprocal_Zeta.pdf` | `252_Leong_2024_Explicit_Estimates_Log_Derivative_Reciprocal_Zeta.pdf` |
+| `229_Lester-Matomaki-Radziwill_2015_Small_Scale_Zeros_Modular_Forms.pdf` | `252_Lester-Matomaki-Radziwill_2015_Small_Scale_Zeros_Modular_Forms.pdf` | `253_Lester-Matomaki-Radziwill_2015_Small_Scale_Zeros_Modular_Forms.pdf` |
+| `230_Lev-Olevskii_2015_Quasicrystals_Poisson_Summation_Formula.pdf` | `253_Lev-Olevskii_2015_Quasicrystals_Poisson_Summation_Formula.pdf` | `254_Lev-Olevskii_2015_Quasicrystals_Poisson_Summation_Formula.pdf` |
+| `231_Lev_2012_Riesz_Bases_Exponentials_Multiband_Spectra_Preprint.pdf` | `254_Lev_2012_Riesz_Bases_Exponentials_Multiband_Spectra_Preprint.pdf` | `255_Lev_2012_Riesz_Bases_Exponentials_Multiband_Spectra_Preprint.pdf` |
+| `232_LiYang2023_2023_An_improvement_on_Gauss_s_circle_problem_and_Dirichlet_s_divisor_problem.pdf` | `255_LiYang2023_2023_An_improvement_on_Gauss_s_circle_problem_and_Dirichlet_s_divisor_problem.pdf` | `256_LiYang2023_2023_An_improvement_on_Gauss_s_circle_problem_and_Dirichlet_s_divisor_problem.pdf` |
+| `233_Li_2019_Zeta_L_Functions_Number_Theory_Combinatorics.pdf` | `256_Li_2019_Zeta_L_Functions_Number_Theory_Combinatorics.pdf` | `257_Li_2019_Zeta_L_Functions_Number_Theory_Combinatorics.pdf` |
+| `234_Lieb-Loss_2001_Analysis_Second_Edition.pdf` | `257_Lieb-Loss_2001_Analysis_Second_Edition.pdf` | `258_Lieb-Loss_2001_Analysis_Second_Edition.pdf` |
+| `235_Lindqvist-Seip_1998_Note_Greatest_Common_Divisor_Matrices.pdf` | `258_Lindqvist-Seip_1998_Note_Greatest_Common_Divisor_Matrices.pdf` | `259_Lindqvist-Seip_1998_Note_Greatest_Common_Divisor_Matrices.pdf` |
+| `236_Littlewood_1924_Zeros_Riemann_Zeta_Function.pdf` | `259_Littlewood_1924_Zeros_Riemann_Zeta_Function.pdf` | `260_Littlewood_1924_Zeros_Riemann_Zeta_Function.pdf` |
+| `237_Liu2022_2022_Multiplicative_functions_resembling_the_M_bius_function.pdf` | `260_Liu2022_2022_Multiplicative_functions_resembling_the_M_bius_function.pdf` | `261_Liu2022_2022_Multiplicative_functions_resembling_the_M_bius_function.pdf` |
+| `238_Lyubarskii-Seip_1997_Complete_Interpolating_Sequences_Paley_Wiener_Muckenhoupt_Ap.pdf` | `262_Lyubarskii-Seip_1997_Complete_Interpolating_Sequences_Paley_Wiener_Muckenhoupt_Ap.pdf` | `263_Lyubarskii-Seip_1997_Complete_Interpolating_Sequences_Paley_Wiener_Muckenhoupt_Ap.pdf` |
+| `239_LyubarskiiVershynin2010_2010_Uncertainty_principles_and_vector_quantization.pdf` | `263_LyubarskiiVershynin2010_2010_Uncertainty_principles_and_vector_quantization.pdf` | `264_LyubarskiiVershynin2010_2010_Uncertainty_principles_and_vector_quantization.pdf` |
+| `240_Matiyasevich2007a_1983_Hidden_Life_of_Riemann_s_Zeta_Function_1_Arrow_Bow_and_Targets.pdf` | `264_Matiyasevich2007a_1983_Hidden_Life_of_Riemann_s_Zeta_Function_1_Arrow_Bow_and_Targets.pdf` | `265_Matiyasevich2007a_1983_Hidden_Life_of_Riemann_s_Zeta_Function_1_Arrow_Bow_and_Targets.pdf` |
+| `241_Matiyasevich2007b_2007_Hidden_Life_of_Riemann_s_Zeta_Function_2_Electrons_and_Trains.pdf` | `265_Matiyasevich2007b_2007_Hidden_Life_of_Riemann_s_Zeta_Function_2_Electrons_and_Trains.pdf` | `266_Matiyasevich2007b_2007_Hidden_Life_of_Riemann_s_Zeta_Function_2_Electrons_and_Trains.pdf` |
+| `242_Matomaki-Radziwill-Tao_2015_Averaged_Chowla_Conjecture.pdf` | `266_Matomaki-Radziwill-Tao_2015_Averaged_Chowla_Conjecture.pdf` | `267_Matomaki-Radziwill-Tao_2015_Averaged_Chowla_Conjecture.pdf` |
+| `243_Matomaki-Radziwill_2015_Liouville_Short_Intervals.pdf` | `267_Matomaki-Radziwill_2015_Liouville_Short_Intervals.pdf` | `268_Matomaki-Radziwill_2015_Liouville_Short_Intervals.pdf` |
+| `244_Matomaki-Radziwill_2015_Sign_Changes_Hecke_Eigenvalues.pdf` | `268_Matomaki-Radziwill_2015_Sign_Changes_Hecke_Eigenvalues.pdf` | `269_Matomaki-Radziwill_2015_Sign_Changes_Hecke_Eigenvalues.pdf` |
+| `245_Matomaki-Radziwill_2016_Multiplicative_Functions_Short_Intervals.pdf` | `269_Matomaki-Radziwill_2016_Multiplicative_Functions_Short_Intervals.pdf` | `270_Matomaki-Radziwill_2016_Multiplicative_Functions_Short_Intervals.pdf` |
+| `246_Matomaki-Shao-Tao-Teravainen_2023_Higher_Uniformity_Arithmetic_Functions.pdf` | `270_Matomaki-Shao-Tao-Teravainen_2023_Higher_Uniformity_Arithmetic_Functions.pdf` | `271_Matomaki-Shao-Tao-Teravainen_2023_Higher_Uniformity_Arithmetic_Functions.pdf` |
+| `247_Matomaki-Teravainen_2023_Mobius_Function_All_Short_Intervals.pdf` | `271_Matomaki-Teravainen_2023_Mobius_Function_All_Short_Intervals.pdf` | `272_Matomaki-Teravainen_2023_Mobius_Function_All_Short_Intervals.pdf` |
+| `248_Matomaki_2010_Smooth_Numbers_Short_Intervals.pdf` | `272_Matomaki_2010_Smooth_Numbers_Short_Intervals.pdf` | `273_Matomaki_2010_Smooth_Numbers_Short_Intervals.pdf` |
+| `249_Matomaki_2016_Smooth_Numbers_Short_Intervals_II.pdf` | `273_Matomaki_2016_Smooth_Numbers_Short_Intervals_II.pdf` | `274_Matomaki_2016_Smooth_Numbers_Short_Intervals_II.pdf` |
+| `250_MelottiSaias2020_2020_On_path_partitions_of_the_divisor_graph.pdf` | `274_MelottiSaias2020_2020_On_path_partitions_of_the_divisor_graph.pdf` | `275_MelottiSaias2020_2020_On_path_partitions_of_the_divisor_graph.pdf` |
+| `251_Mirsky_1949_Frequency_Pairs_Square_Free_Numbers_Given_Difference.pdf` | `275_Mirsky_1949_Frequency_Pairs_Square_Free_Numbers_Given_Difference.pdf` | `276_Mirsky_1949_Frequency_Pairs_Square_Free_Numbers_Given_Difference.pdf` |
+| `252_Monien_2009_Hankel_Determinants_Dirichlet_Series.pdf` | `276_Monien_2009_Hankel_Determinants_Dirichlet_Series.pdf` | `277_Monien_2009_Hankel_Determinants_Dirichlet_Series.pdf` |
+| `253_Montgomery-Vaughan_1974_Hilberts_Inequality.pdf` | `277_Montgomery-Vaughan_1974_Hilberts_Inequality.pdf` | `278_Montgomery-Vaughan_1974_Hilberts_Inequality.pdf` |
+| `254_MontgomerySoundararajan2004_2004_Comm_Math_Phys.pdf` | `278_MontgomerySoundararajan2004_2004_Comm_Math_Phys.pdf` | `279_MontgomerySoundararajan2004_2004_Comm_Math_Phys.pdf` |
+| `255_Montgomery_1973_Pair_Correlation_Zeros_Zeta.pdf` | `279_Montgomery_1973_Pair_Correlation_Zeros_Zeta.pdf` | `280_Montgomery_1973_Pair_Correlation_Zeros_Zeta.pdf` |
+| `256_Mossinghoff-Trudgian-Yang_2022_Explicit_Zero_Free_Regions_Riemann_Zeta.pdf` | `281_Mossinghoff-Trudgian-Yang_2022_Explicit_Zero_Free_Regions_Riemann_Zeta.pdf` | `282_Mossinghoff-Trudgian-Yang_2022_Explicit_Zero_Free_Regions_Riemann_Zeta.pdf` |
+| `257_MossinghoffOliveiraTrudgian2021_2021_The_distribution_of_k_free_numbers.pdf` | `282_MossinghoffOliveiraTrudgian2021_2021_The_distribution_of_k_free_numbers.pdf` | `283_MossinghoffOliveiraTrudgian2021_2021_The_distribution_of_k_free_numbers.pdf` |
+| `258_Motohashi_1997_Spectral_Theory_Riemann_Zeta.pdf` | `283_Motohashi_1997_Spectral_Theory_Riemann_Zeta.pdf` | `286_Motohashi_1997_Spectral_Theory_Riemann_Zeta.pdf` |
+| `259_Muellner2017_2017_Automatic_sequences_fulfill_the_Sarnak_conjecture.pdf` | `284_Muellner2017_2017_Automatic_sequences_fulfill_the_Sarnak_conjecture.pdf` | `287_Muellner2017_2017_Automatic_sequences_fulfill_the_Sarnak_conjecture.pdf` |
+| `260_MullerEtAl2005_2005_Periodic_orbit_theory_of_universality_in_quantum_chaos.pdf` | `285_MullerEtAl2005_2005_Periodic_orbit_theory_of_universality_in_quantum_chaos.pdf` | `288_MullerEtAl2005_2005_Periodic_orbit_theory_of_universality_in_quantum_chaos.pdf` |
+| `261_Murahara-Onozuka_2025_Equidistribution_A_Points_Zeta_Derivatives.pdf` | `286_Murahara-Onozuka_2025_Equidistribution_A_Points_Zeta_Derivatives.pdf` | `289_Murahara-Onozuka_2025_Equidistribution_A_Points_Zeta_Derivatives.pdf` |
+| `262_MussardoLeClair2021_2021_Randomness_of_M_obius_coefficients_and_Brownian_motion_growth_of_the_Mertens_function_and_the_Riemann_hypothes.pdf` | `287_MussardoLeClair2021_2021_Randomness_of_M_obius_coefficients_and_Brownian_motion_growth_of_the_Mertens_function_and_the_Riemann_hypothes.pdf` | `290_MussardoLeClair2021_2021_Randomness_of_M_obius_coefficients_and_Brownian_motion_growth_of_the_Mertens_function_and_the_Riemann_hypothes.pdf` |
+| `263_Nakamura_2020_Dirichlet_Series_Periodic_Coefficients_Functional_Equation.pdf` | `288_Nakamura_2020_Dirichlet_Series_Periodic_Coefficients_Functional_Equation.pdf` | `291_Nakamura_2020_Dirichlet_Series_Periodic_Coefficients_Functional_Equation.pdf` |
+| `264_Ng2004_2004_Proc_London_Math_Soc.pdf` | `289_Ng2004_2004_Proc_London_Math_Soc.pdf` | `292_Ng2004_2004_Proc_London_Math_Soc.pdf` |
+| `265_Nishigaki_2024_Consecutive_Level_Spacings_GUE_Ratio.pdf` | `290_Nishigaki_2024_Consecutive_Level_Spacings_GUE_Ratio.pdf` | `293_Nishigaki_2024_Consecutive_Level_Spacings_GUE_Ratio.pdf` |
+| `266_Nishigaki_2025_Consecutive_Level_Spacings_CUE_Finite_Size_Zeta.pdf` | `291_Nishigaki_2025_Consecutive_Level_Spacings_CUE_Finite_Size_Zeta.pdf` | `294_Nishigaki_2025_Consecutive_Level_Spacings_CUE_Finite_Size_Zeta.pdf` |
+| `267_Norvidas_2011_Entire_Functions_Exponential_Sums.pdf` | `292_Norvidas_2011_Entire_Functions_Exponential_Sums.pdf` | `295_Norvidas_2011_Entire_Functions_Exponential_Sums.pdf` |
+| `268_Nunes2015_2015_Journal_of_Number_Theory.pdf` | `293_Nunes2015_2015_Journal_of_Number_Theory.pdf` | `296_Nunes2015_2015_Journal_of_Number_Theory.pdf` |
+| `269_Odlyzko-TeRiele_1985_Disproof_Mertens_Conjecture.pdf` | `294_Odlyzko-TeRiele_1985_Disproof_Mertens_Conjecture.pdf` | `297_Odlyzko-TeRiele_1985_Disproof_Mertens_Conjecture.pdf` |
+| `270_Odlyzko_1987_Distribution_Spacings_Between_Zeros_Zeta.pdf` | `295_Odlyzko_1987_Distribution_Spacings_Between_Zeros_Zeta.pdf` | `298_Odlyzko_1987_Distribution_Spacings_Between_Zeros_Zeta.pdf` |
+| `271_OganesyanHuse2007_2007_Localization_of_interacting_fermions_at_high_temperature.pdf` | `296_OganesyanHuse2007_2007_Localization_of_interacting_fermions_at_high_temperature.pdf` | `299_OganesyanHuse2007_2007_Localization_of_interacting_fermions_at_high_temperature.pdf` |
+| `272_Olevskii-Ulanovskii_2020_Fourier_Quasicrystals_Unit_Masses.pdf` | `298_Olevskii-Ulanovskii_2020_Fourier_Quasicrystals_Unit_Masses.pdf` | `301_Olevskii-Ulanovskii_2020_Fourier_Quasicrystals_Unit_Masses.pdf` |
+| `344_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf` | `299_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf` | `302_Olver_1974_Introduction_Asymptotics_Special_Functions.pdf` |
+| `345_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf` | `300_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf` | `303_Olver_1997_Asymptotics_Special_Functions_AK_Peters_Reprint.pdf` |
+| `273_OwczarekPrellberg2014_2014_Pressure_exerted_by_a_vesicle_on_a_surface.pdf` | `301_OwczarekPrellberg2014_2014_Pressure_exerted_by_a_vesicle_on_a_surface.pdf` | `304_OwczarekPrellberg2014_2014_Pressure_exerted_by_a_vesicle_on_a_surface.pdf` |
+| `274_Patel-Yang_2024_Explicit_Sub_Weyl_Bound_Zeta_Critical_Line.pdf` | `302_Patel-Yang_2024_Explicit_Sub_Weyl_Bound_Zeta_Critical_Line.pdf` | `305_Patel-Yang_2024_Explicit_Sub_Weyl_Bound_Zeta_Critical_Line.pdf` |
+| `275_Patel_2022_Explicit_Upper_Bound_Zeta_1_Line.pdf` | `303_Patel_2022_Explicit_Upper_Bound_Zeta_1_Line.pdf` | `306_Patel_2022_Explicit_Upper_Bound_Zeta_1_Line.pdf` |
+| `276_Patterson_1988_Introduction_Riemann_Zeta_Function.pdf` | `304_Patterson_1988_Introduction_Riemann_Zeta_Function.pdf` | `307_Patterson_1988_Introduction_Riemann_Zeta_Function.pdf` |
+| `277_Patterson_1988_Zeros_Zeta_And_Prime_Number_Theorem.pdf` | `305_Patterson_1988_Zeros_Zeta_And_Prime_Number_Theorem.pdf` | `308_Patterson_1988_Zeros_Zeta_And_Prime_Number_Theorem.pdf` |
+| `278_PeligradUtev2005_2005_A_new_maximal_inequality_and_invariance_principle_for_stationary_sequences.pdf` | `306_PeligradUtev2005_2005_A_new_maximal_inequality_and_invariance_principle_for_stationary_sequences.pdf` | `309_PeligradUtev2005_2005_A_new_maximal_inequality_and_invariance_principle_for_stationary_sequences.pdf` |
+| `279_Perelli_2016_Converse_Theorems_Zeta_Selberg_Class.pdf` | `307_Perelli_2016_Converse_Theorems_Zeta_Selberg_Class.pdf` | `310_Perelli_2016_Converse_Theorems_Zeta_Selberg_Class.pdf` |
+| `280_Perfekt-Pushnitski_2018_Spectrum_Multiplicative_Hilbert_Matrix.pdf` | `308_Perfekt-Pushnitski_2018_Spectrum_Multiplicative_Hilbert_Matrix.pdf` | `311_Perfekt-Pushnitski_2018_Spectrum_Multiplicative_Hilbert_Matrix.pdf` |
+| `281_PillaiYin2014_2014_Universality_of_covariance_matrices.pdf` | `309_PillaiYin2014_2014_Universality_of_covariance_matrices.pdf` | `312_PillaiYin2014_2014_Universality_of_covariance_matrices.pdf` |
+| `282_Pintz_2026_Oscillation_Mobius_Function_Zeta_Zeros.pdf` | `310_Pintz_2026_Oscillation_Mobius_Function_Zeta_Zeros.pdf` | `313_Pintz_2026_Oscillation_Mobius_Function_Zeta_Zeros.pdf` |
+| `346_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf` | `311_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf` | `314_Platt-Trudgian_2014_Improved_Explicit_Bound_Zeta_Critical_Line_arXiv_v2.pdf` |
+| `347_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf` | `312_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf` | `315_Platt-Trudgian_2015_Zeroes_Partial_Sums_Zeta_Function_arXiv_v2.pdf` |
+| `283_Platt-Trudgian_2021_RH_True_Up_To_3e12.pdf` | `313_Platt-Trudgian_2021_RH_True_Up_To_3e12.pdf` | `316_Platt-Trudgian_2021_RH_True_Up_To_3e12.pdf` |
+| `284_Platt_2017_Isolating_Nontrivial_Zeros_Zeta.pdf` | `314_Platt_2017_Isolating_Nontrivial_Zeros_Zeta.pdf` | `317_Platt_2017_Isolating_Nontrivial_Zeros_Zeta.pdf` |
+| `285_Popov_1985_Transfer_Functions_Riemann_Zeta.pdf` | `315_Popov_1985_Transfer_Functions_Riemann_Zeta.pdf` | `318_Popov_1985_Transfer_Functions_Riemann_Zeta.pdf` |
+| `286_Rademacher_1959_Phragmen_Lindelof_Theorem_Applications.pdf` | `316_Rademacher_1959_Phragmen_Lindelof_Theorem_Applications.pdf` | `319_Rademacher_1959_Phragmen_Lindelof_Theorem_Applications.pdf` |
+| `287_Radziwill-Soundararajan_2015_Quadratic_Twists_Central_L_Values.pdf` | `317_Radziwill-Soundararajan_2015_Quadratic_Twists_Central_L_Values.pdf` | `320_Radziwill-Soundararajan_2015_Quadratic_Twists_Central_L_Values.pdf` |
+| `288_Ramachandra_1976_Problems_Analytic_Number_Theory.pdf` | `319_Ramachandra_1976_Problems_Analytic_Number_Theory.pdf` | `322_Ramachandra_1976_Problems_Analytic_Number_Theory.pdf` |
+| `289_Revers_2026_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` | `320_Revers_2026_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` | `323_Revers_2026_Improved_Explicit_Estimate_Zeta_Critical_Line.pdf` |
+| `290_Richard_2005_Q_Functional_Equations_Excursion_Moments.pdf` | `322_Richard_2005_Q_Functional_Equations_Excursion_Moments.pdf` | `325_Richard_2005_Q_Functional_Equations_Excursion_Moments.pdf` |
+| `291_Riemann-Wilkins_1859_Prime_Counting_English_Translation.pdf` | `323_Riemann-Wilkins_1859_Prime_Counting_English_Translation.pdf` | `326_Riemann-Wilkins_1859_Prime_Counting_English_Translation.pdf` |
+| `292_RigalZadunaisky2015_2015_Twisted_semigroup_algebras.pdf` | `324_RigalZadunaisky2015_2015_Twisted_semigroup_algebras.pdf` | `327_RigalZadunaisky2015_2015_Twisted_semigroup_algebras.pdf` |
+| `293_RodgersTao2018_2018_RodgersTao2018.pdf` | `325_RodgersTao2018_2018_RodgersTao2018.pdf` | `328_RodgersTao2018_2018_RodgersTao2018.pdf` |
+| `294_Roesler_1986_Riemann_Hypothesis_Eigenvalue_Problem.pdf` | `326_Roesler_1986_Riemann_Hypothesis_Eigenvalue_Problem.pdf` | `329_Roesler_1986_Riemann_Hypothesis_Eigenvalue_Problem.pdf` |
+| `295_Roesler_1987_Riemann_Hypothesis_Eigenvalue_Problem_II.pdf` | `327_Roesler_1987_Riemann_Hypothesis_Eigenvalue_Problem_II.pdf` | `330_Roesler_1987_Riemann_Hypothesis_Eigenvalue_Problem_II.pdf` |
+| `296_Rosser-Schoenfeld_1962_Approximate_Formulas_Functions_Prime_Numbers.pdf` | `328_Rosser-Schoenfeld_1962_Approximate_Formulas_Functions_Prime_Numbers.pdf` | `331_Rosser-Schoenfeld_1962_Approximate_Formulas_Functions_Prime_Numbers.pdf` |
+| `348_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf` | `329_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf` | `332_Rosser_1941_Explicit_Bounds_Functions_Prime_Numbers.pdf` |
+| `297_Rota_1964_Foundations_Combinatorial_Theory_Mobius_Functions.pdf` | `330_Rota_1964_Foundations_Combinatorial_Theory_Mobius_Functions.pdf` | `333_Rota_1964_Foundations_Combinatorial_Theory_Mobius_Functions.pdf` |
+| `349_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf` | `331_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf` | `334_Rudin_1987_Real_Complex_Analysis_Third_Edition.pdf` |
+| `298_Saffari-Vaughan_1977_Fractional_Parts_X_Over_N_II.pdf` | `332_Saffari-Vaughan_1977_Fractional_Parts_X_Over_N_II.pdf` | `335_Saffari-Vaughan_1977_Fractional_Parts_X_Over_N_II.pdf` |
+| `299_Sawin_2022_Mobius_Cancellation_Polynomial_Sequences.pdf` | `333_Sawin_2022_Mobius_Cancellation_Polynomial_Sequences.pdf` | `336_Sawin_2022_Mobius_Cancellation_Polynomial_Sequences.pdf` |
+| `300_Schechter_2002_Principles_Functional_Analysis_Second_Edition.pdf` | `334_Schechter_2002_Principles_Functional_Analysis_Second_Edition.pdf` | `337_Schechter_2002_Principles_Functional_Analysis_Second_Edition.pdf` |
+| `301_Sekatskii-Beltraminelli-Merlini_2012_Integrals_Logarithm_Zeta_RH.pdf` | `335_Sekatskii-Beltraminelli-Merlini_2012_Integrals_Logarithm_Zeta_RH.pdf` | `338_Sekatskii-Beltraminelli-Merlini_2012_Integrals_Logarithm_Zeta_RH.pdf` |
+| `302_Sekatskii_2013_Generalized_Bombieri_Lagarias_Li_Criterion.pdf` | `336_Sekatskii_2013_Generalized_Bombieri_Lagarias_Li_Criterion.pdf` | `339_Sekatskii_2013_Generalized_Bombieri_Lagarias_Li_Criterion.pdf` |
+| `303_Sekatskii_2014_Generalized_Li_Criterion_Zeroes_Location.pdf` | `337_Sekatskii_2014_Generalized_Li_Criterion_Zeroes_Location.pdf` | `340_Sekatskii_2014_Generalized_Li_Criterion_Zeroes_Location.pdf` |
+| `304_Sheth_2025_Euler_Products_Centre_Chebyshev_Bias.pdf` | `339_Sheth_2025_Euler_Products_Centre_Chebyshev_Bias.pdf` | `342_Sheth_2025_Euler_Products_Centre_Chebyshev_Bias.pdf` |
+| `305_Shir-MartinezAzcona-Chenu_2025_Surmise_Level_Spacing_Beyond_Nearest.pdf` | `340_Shir-MartinezAzcona-Chenu_2025_Surmise_Level_Spacing_Beyond_Nearest.pdf` | `343_Shir-MartinezAzcona-Chenu_2025_Surmise_Level_Spacing_Beyond_Nearest.pdf` |
+| `306_Sidi_2003_Riemann_And_Generalized_Zeta_Extrapolation.pdf` | `341_Sidi_2003_Riemann_And_Generalized_Zeta_Extrapolation.pdf` | `344_Sidi_2003_Riemann_And_Generalized_Zeta_Extrapolation.pdf` |
+| `307_Siegel_1922_Satz_Hamburger_Funktionalgleichung_Zetafunktion.pdf` | `342_Siegel_1922_Satz_Hamburger_Funktionalgleichung_Zetafunktion.pdf` | `345_Siegel_1922_Satz_Hamburger_Funktionalgleichung_Zetafunktion.pdf` |
+| `308_Soundararajan_2009_Partial_Sums_Mobius_Function.pdf` | `345_Soundararajan_2009_Partial_Sums_Mobius_Function.pdf` | `348_Soundararajan_2009_Partial_Sums_Mobius_Function.pdf` |
+| `309_Soundararajan_2010_Smooth_Numbers_Short_Intervals.pdf` | `346_Soundararajan_2010_Smooth_Numbers_Short_Intervals.pdf` | `349_Soundararajan_2010_Smooth_Numbers_Short_Intervals.pdf` |
+| `310_StampachStovicek2020_2020_On_Hankel_matrices_commuting_with_Jacobi_matrices_from_the_Askey_scheme.pdf` | `347_StampachStovicek2020_2020_On_Hankel_matrices_commuting_with_Jacobi_matrices_from_the_Askey_scheme.pdf` | `350_StampachStovicek2020_2020_On_Hankel_matrices_commuting_with_Jacobi_matrices_from_the_Askey_scheme.pdf` |
+| `311_Suzuki2025Hilbert_2025_On_the_Hilbert_space_derived_from_the_Weil_distribution.pdf` | `348_Suzuki2025Hilbert_2025_On_the_Hilbert_space_derived_from_the_Weil_distribution.pdf` | `351_Suzuki2025Hilbert_2025_On_the_Hilbert_space_derived_from_the_Weil_distribution.pdf` |
+| `312_Szekelyhidi1982_1982_Note_on_exponential_polynomials.pdf` | `349_Szekelyhidi1982_1982_Note_on_exponential_polynomials.pdf` | `352_Szekelyhidi1982_1982_Note_on_exponential_polynomials.pdf` |
+| `313_Tao-Teravainen_2018_Odd_Order_Logarithmically_Averaged_Chowla.pdf` | `350_Tao-Teravainen_2018_Odd_Order_Logarithmically_Averaged_Chowla.pdf` | `353_Tao-Teravainen_2018_Odd_Order_Logarithmically_Averaged_Chowla.pdf` |
+| `314_Tao-Teravainen_2019_Structure_Logarithmically_Averaged_Correlations.pdf` | `351_Tao-Teravainen_2019_Structure_Logarithmically_Averaged_Correlations.pdf` | `354_Tao-Teravainen_2019_Structure_Logarithmically_Averaged_Correlations.pdf` |
+| `350_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf` | `352_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf` | `355_Tao-Trudgian-Yang_2025_New_Exponent_Pairs_Zero_Density_Additive_Energy_arXiv_v1.pdf` |
+| `315_Tao_2016_Logarithmically_Averaged_Chowla_Elliott_Two_Point.pdf` | `353_Tao_2016_Logarithmically_Averaged_Chowla_Elliott_Two_Point.pdf` | `356_Tao_2016_Logarithmically_Averaged_Chowla_Elliott_Two_Point.pdf` |
+| `316_Tenenbaum_2015_Analytic_Probabilistic_Number_Theory.pdf` | `355_Tenenbaum_2015_Analytic_Probabilistic_Number_Theory.pdf` | `358_Tenenbaum_2015_Analytic_Probabilistic_Number_Theory.pdf` |
+| `317_Tenenbaum_2017_Generalized_Mertens_Sums.pdf` | `356_Tenenbaum_2017_Generalized_Mertens_Sums.pdf` | `359_Tenenbaum_2017_Generalized_Mertens_Sums.pdf` |
+| `318_Titchmarsh-HeathBrown_1986_Theory_Riemann_Zeta_Function.pdf` | `357_Titchmarsh-HeathBrown_1986_Theory_Riemann_Zeta_Function.pdf` | `360_Titchmarsh-HeathBrown_1986_Theory_Riemann_Zeta_Function.pdf` |
+| `351_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf` | `358_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf` | `361_Titchmarsh_1939_Theory_Functions_Second_Edition.pdf` |
+| `352_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf` | `359_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf` | `362_Trudgian-Yang_2024_Toward_Optimal_Exponent_Pairs_arXiv_v3.pdf` |
+| `319_Trudgian_2008_Gram_Law_Fails_Positive_Proportion_Of_The_Time.pdf` | `360_Trudgian_2008_Gram_Law_Fails_Positive_Proportion_Of_The_Time.pdf` | `363_Trudgian_2008_Gram_Law_Fails_Positive_Proportion_Of_The_Time.pdf` |
+| `320_Trudgian_2012_Improved_Upper_Bound_Argument_Zeta.pdf` | `361_Trudgian_2012_Improved_Upper_Bound_Argument_Zeta.pdf` | `364_Trudgian_2012_Improved_Upper_Bound_Argument_Zeta.pdf` |
+| `321_Trudgian_2014_Improved_Upper_Bound_Argument_Zeta_II.pdf` | `362_Trudgian_2014_Improved_Upper_Bound_Argument_Zeta_II.pdf` | `365_Trudgian_2014_Improved_Upper_Bound_Argument_Zeta_II.pdf` |
+| `353_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf` | `363_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf` | `366_Turing_1953_Some_Calculations_Riemann_Zeta_Function.pdf` |
+| `322_Vaughan_1996_Eigenvalues_Redheffer_Matrix_II.pdf` | `364_Vaughan_1996_Eigenvalues_Redheffer_Matrix_II.pdf` | `367_Vaughan_1996_Eigenvalues_Redheffer_Matrix_II.pdf` |
+| `323_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf` | `365_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf` | `368_Vega_2023_Simple_Proof_Riemann_Hypothesis.pdf` |
+| `324_Volchkov_1995_Equality_Equivalent_Riemann_Hypothesis_Russian.pdf` | `366_Volchkov_1995_Equality_Equivalent_Riemann_Hypothesis_Russian.pdf` | `369_Volchkov_1995_Equality_Equivalent_Riemann_Hypothesis_Russian.pdf` |
+| `325_Weil_1952_Formules_Explicites_Nombres_Premiers_Transcription_VellaChemla.pdf` | `367_Weil_1952_Formules_Explicites_Nombres_Premiers_Transcription_VellaChemla.pdf` | `370_Weil_1952_Formules_Explicites_Nombres_Premiers_Transcription_VellaChemla.pdf` |
+| `326_Wilf_2004_Redheffer_Matrix_Partially_Ordered_Set.pdf` | `368_Wilf_2004_Redheffer_Matrix_Partially_Ordered_Set.pdf` | `371_Wilf_2004_Redheffer_Matrix_Partially_Ordered_Set.pdf` |
+| `327_Xylouris_2011_Nullstellen_Dirichletschen_L_Funktionen_Kleinste_Primzahl.pdf` | `369_Xylouris_2011_Nullstellen_Dirichletschen_L_Funktionen_Kleinste_Primzahl.pdf` | `372_Xylouris_2011_Nullstellen_Dirichletschen_L_Funktionen_Kleinste_Primzahl.pdf` |
+| `328_Yang_2024_Explicit_Bounds_Zeta_Critical_Strip_Zero_Free_Region.pdf` | `370_Yang_2024_Explicit_Bounds_Zeta_Critical_Strip_Zero_Free_Region.pdf` | `373_Yang_2024_Explicit_Bounds_Zeta_Critical_Strip_Zero_Free_Region.pdf` |
+| `329_Young_1974_Inequalities_Perturbation_Theorem_Paley_Wiener.pdf` | `371_Young_1974_Inequalities_Perturbation_Theorem_Paley_Wiener.pdf` | `374_Young_1974_Inequalities_Perturbation_Theorem_Paley_Wiener.pdf` |
+| `330_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` | `372_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` | `375_Youvan_2024_Phase_Winding_Riemann_Zeta.pdf` |
+| `331_Zhang_2013_Normalization_Beurling_Generalized_Primes_RH.pdf` | `373_Zhang_2013_Normalization_Beurling_Generalized_Primes_RH.pdf` | `376_Zhang_2013_Normalization_Beurling_Generalized_Primes_RH.pdf` |
+| `332_Zhao_2016_Multiple_Zeta_Polylogarithms_Special_Values.pdf` | `374_Zhao_2016_Multiple_Zeta_Polylogarithms_Special_Values.pdf` | `377_Zhao_2016_Multiple_Zeta_Polylogarithms_Special_Values.pdf` |
+| `333_Zhao_2026_Density_Results_r_Gaps_Between_Zeros_Zeta.pdf` | `375_Zhao_2026_Density_Results_r_Gaps_Between_Zeros_Zeta.pdf` | `378_Zhao_2026_Density_Results_r_Gaps_Between_Zeros_Zeta.pdf` |
+| `334_deBruijn1950_1950_The_roots_of_trigonometric_integrals.pdf` | `376_deBruijn1950_1950_The_roots_of_trigonometric_integrals.pdf` | `379_deBruijn1950_1950_The_roots_of_trigonometric_integrals.pdf` |
+| `335_deLaValleePoussin_1896_Recherches_Analytiques_Nombres_Premiers_I.pdf` | `377_deLaValleePoussin_1896_Recherches_Analytiques_Nombres_Premiers_I.pdf` | `380_deLaValleePoussin_1896_Recherches_Analytiques_Nombres_Premiers_I.pdf` |
+| `336_vonMangoldt_1895_Zu_Riemanns_Abhandlung_Anzahl_Primzahlen.pdf` | `378_vonMangoldt_1895_Zu_Riemanns_Abhandlung_Anzahl_Primzahlen.pdf` | `381_vonMangoldt_1895_Zu_Riemanns_Abhandlung_Anzahl_Primzahlen.pdf` |
+| `337_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf` | `379_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf` | `382_vonMangoldt_1905_Verteilung_Nullstellen_Riemannschen_Funktion_Xi.pdf` |
