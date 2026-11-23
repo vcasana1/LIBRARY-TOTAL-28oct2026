@@ -1,0 +1,337 @@
+{
+ "date": "2026-11-23",
+ "source_zip": "POSTRHERA_bibliografia.zip",
+ "source_loose": [
+  "Gross-Zagier_1985_On_Singular_Moduli.pdf (idéntico al del zip)",
+  "Gross-Zagier_1986_Heegner_Points_Derivatives_L_Series.pdf (idéntico al del zip)"
+ ],
+ "repository": "vcasana1/LIBRARY-TOTAL-28oct2026",
+ "branch": "main",
+ "base_commit": "5f26776a8b435c2b3b05cb50140e514341d51e23",
+ "policy": "Copias nuevas; SHA-256 de cada PDF coincide con fuentes.tsv del zip. Renumeración alfabética completa (ver RENUMERACION_2026-11-23.md). Sin duplicados binarios con los 382 PDF previos (comprobado con git hash-object frente al árbol).",
+ "files": [
+  {
+   "name": "386_Stepanov_1969_On_the_Number_of_Points_of_a_Hyperelliptic_Curve.pdf",
+   "original": "Stepanov_1969_On_the_Number_of_Points_of_a_Hyperelliptic_Curve.pdf",
+   "pages": 12,
+   "sha256": "3530c4315c1113a05f7c76a4dcc43cb2669f3be7bca8cd6cff4814c700c46b32",
+   "source": "https://www.mathnet.ru/eng/im2197",
+   "record": "https://doi.org/10.1070/IM1969v003n05ABEH000834"
+  },
+  {
+   "name": "055_Bombieri_1974_Counting_Points_on_Curves_Over_Finite_Fields.pdf",
+   "original": "Bombieri_1974_Counting_Points_on_Curves_Over_Finite_Fields.pdf",
+   "pages": 9,
+   "sha256": "cea9cb6ce192d7e8260239b6eabed718fee1c5c7d5204796b5f71aa5782ad358",
+   "source": "https://www.numdam.org/item/SB_1972-1973__15__234_0.pdf",
+   "record": "https://www.numdam.org/item/SB_1972-1973__15__234_0/"
+  },
+  {
+   "name": "387_Stepanov_1972_Congruences_in_Two_Unknowns.pdf",
+   "original": "Stepanov_1972_Congruences_in_Two_Unknowns.pdf",
+   "pages": 28,
+   "sha256": "4f6ac1019b26ddad6d35eb162b9482739a413946147bcbd4d17ed3ab1c297bce",
+   "source": "https://www.mathnet.ru/eng/im2329",
+   "record": "https://doi.org/10.1070/IM1972v006n04ABEH001895"
+  },
+  {
+   "name": "054_Bombieri_1966_On_Exponential_Sums_in_Finite_Fields_Russian_1968.pdf",
+   "original": "Bombieri_1966_On_Exponential_Sums_in_Finite_Fields_Russian_1968.pdf",
+   "pages": 30,
+   "sha256": "cbeec5f1c2099c30e04004daacbc725ba80ca2b2f9adfe6908882f48178c02ff",
+   "source": "https://www.mathnet.ru/eng/mat462",
+   "record": "https://www.mathnet.ru/eng/mat462"
+  },
+  {
+   "name": "056_Bombieri_1978_On_Exponential_Sums_in_Finite_Fields_II.pdf",
+   "original": "Bombieri_1978_On_Exponential_Sums_in_Finite_Fields_II.pdf",
+   "pages": 11,
+   "sha256": "5dcd0b624c6821472bfd72c2b5af8b1f98ca7ffea89b57fa2d1f4f8e914d6691",
+   "source": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN356556735_0047/PPN356556735_0047.pdf",
+   "record": "https://gdz.sub.uni-goettingen.de/id/PPN356556735_0047"
+  },
+  {
+   "name": "153_Gallagher_1971_A_Larger_Sieve.pdf",
+   "original": "Gallagher_1971_A_Larger_Sieve.pdf",
+   "pages": 3,
+   "sha256": "3e9adb3a74d10ab8988b6bdd35c612f3581b1e713988ba78d909b7a1dd040943",
+   "source": "https://bibliotekanauki.pl/articles/1393976.pdf",
+   "record": "https://doi.org/10.4064/aa-18-1-77-81"
+  },
+  {
+   "name": "211_Hurwitz_1899_Lemniscatische_Functionen.pdf",
+   "original": "Hurwitz_1899_Lemniscatische_Functionen.pdf",
+   "pages": 31,
+   "sha256": "f8633a9bb4cf1513825cc584329bf6e0a67491da104abb7f481437832ae57a87",
+   "source": "https://gdz.sub.uni-goettingen.de/download/pdf/PPN235181684_0051/PPN235181684_0051.pdf",
+   "record": "https://doi.org/10.1007/BF01453637"
+  },
+  {
+   "name": "242_Katz_1975_Congruences_Bernoulli_Hurwitz.pdf",
+   "original": "Katz_1975_Congruences_Bernoulli_Hurwitz.pdf",
+   "pages": 5,
+   "sha256": "82b7434be7fbc57265518823864fc6dc5268b164253694846a0fbe2caa6eeee9",
+   "source": "https://web.math.princeton.edu/~nmk/old/congKlvS.pdf",
+   "record": "https://doi.org/10.1007/BF02547966"
+  },
+  {
+   "name": "247_Katz_1981_Divisibilities_Congruences_Cartier_Duality.pdf",
+   "original": "Katz_1981_Divisibilities_Congruences_Cartier_Duality.pdf",
+   "pages": 12,
+   "sha256": "050996c725c9f097746161d734aa2a0fcacf91515d7fe719f9cf2af079a89cf5",
+   "source": "https://web.math.princeton.edu/~nmk/old/divcongCartier.pdf",
+   "record": "https://web.math.princeton.edu/~nmk/old/"
+  },
+  {
+   "name": "030_Bannai-Kobayashi_2016_Integral_Structures_pAdic_Fourier_Theory.pdf",
+   "original": "Bannai-Kobayashi_2016_Integral_Structures_pAdic_Fourier_Theory.pdf",
+   "pages": 31,
+   "sha256": "22b7aefc2c7a05f6b25c02bac2cd5f1ec73469ce3df6b8c5fbd259d1274ff68b",
+   "source": "https://www.numdam.org/item/AIF_2016__66_2_521_0.pdf",
+   "record": "https://doi.org/10.5802/aif.3018"
+  },
+  {
+   "name": "029_Bannai-Kobayashi_2010_Algebraic_Theta_Functions_arXiv_v4.pdf",
+   "original": "Bannai-Kobayashi_2010_Algebraic_Theta_Functions_arXiv_v4.pdf",
+   "pages": 55,
+   "sha256": "eea5e9a0d75d4a5b6ab7a801d5a9d861c0d2591bc360bed64cfa121bbe79267e",
+   "source": "https://arxiv.org/pdf/math/0610163",
+   "record": "https://arxiv.org/abs/math/0610163v4"
+  },
+  {
+   "name": "028_Bannai-Kobayashi-Tsuji_2010_Elliptic_Polylogarithm_CM.pdf",
+   "original": "Bannai-Kobayashi-Tsuji_2010_Elliptic_Polylogarithm_CM.pdf",
+   "pages": 51,
+   "sha256": "a554b0462e876df791705584b02942ff1e99e876913f990a9fae57e11c1848c0",
+   "source": "https://www.numdam.org/item/10.24033/asens.2119.pdf",
+   "record": "https://doi.org/10.24033/asens.2119"
+  },
+  {
+   "name": "027_Bannai-Furusho-Kobayashi_2014_Eisenstein_Kronecker_Series_arXiv_v2.pdf",
+   "original": "Bannai-Furusho-Kobayashi_2014_Eisenstein_Kronecker_Series_arXiv_v2.pdf",
+   "pages": 28,
+   "sha256": "0876144ea3afc649fa77074ea924fc1236eecc8609c2b386eaaa844860e4a007",
+   "source": "https://arxiv.org/pdf/0807.4007",
+   "record": "https://arxiv.org/abs/0807.4007v2"
+  },
+  {
+   "name": "120_Deuring_1941_Typen_Multiplikatorenringe.pdf",
+   "original": "Deuring_1941_Typen_Multiplikatorenringe.pdf",
+   "pages": 76,
+   "sha256": "f4845d096ce4ea1ea627f8384b8d798c508291f201f52c59dc10c5b9a8c81c7a",
+   "source": "https://download.uni-mainz.de/mathematik/Algebraische%20Geometrie/Lehre/WS23.Padische.1941.Deuring.pdf",
+   "record": "https://doi.org/10.1007/BF02940746"
+  },
+  {
+   "name": "361_Robert_1978_Nombres_de_Hurwitz_et_Unites_Elliptiques.pdf",
+   "original": "Robert_1978_Nombres_de_Hurwitz_et_Unites_Elliptiques.pdf",
+   "pages": 94,
+   "sha256": "a8fe70887fa5249f4af4fd2db79d8793865db49c31135f2a04a05e761a25ba89",
+   "source": "https://www.numdam.org/article/ASENS_1978_4_11_3_297_0.pdf",
+   "record": "https://www.numdam.org/item/ASENS_1978_4_11_3_297_0/"
+  },
+  {
+   "name": "360_Robert_1975_Regularite_Ideaux_Premiers_CM.pdf",
+   "original": "Robert_1975_Regularite_Ideaux_Premiers_CM.pdf",
+   "pages": 7,
+   "sha256": "79b9c05cdd15b5faaec4f2bba76bf296e982d17505ceb91a5b8d12b630b9c1ef",
+   "source": "https://www.numdam.org/item/AST_1975__24-25__75_0.pdf",
+   "record": "https://www.numdam.org/item/AST_1975__24-25__75_0/"
+  },
+  {
+   "name": "245_Katz_1977_Formal_Groups_and_pAdic_Interpolation.pdf",
+   "original": "Katz_1977_Formal_Groups_and_pAdic_Interpolation.pdf",
+   "pages": 12,
+   "sha256": "28da02232c0a3d6218625028563fa3735cd423ebd0e0333aa557079ef59ad6fd",
+   "source": "https://www.numdam.org/article/AST_1977__41-42__55_0.pdf",
+   "record": "https://www.numdam.org/item/AST_1977__41-42__55_0/"
+  },
+  {
+   "name": "244_Katz_1977_Eisenstein_Measure_and_pAdic_Interpolation.pdf",
+   "original": "Katz_1977_Eisenstein_Measure_and_pAdic_Interpolation.pdf",
+   "pages": 75,
+   "sha256": "99069b272167f80e1a34a0c90be68499e1fa0a6a6ace78f93e5f6500845ffd0d",
+   "source": "https://web.math.princeton.edu/~nmk/old/eismeasure.pdf",
+   "record": "https://web.math.princeton.edu/~nmk/old/"
+  },
+  {
+   "name": "243_Katz_1976_pAdic_Interpolation_Real_Analytic_Eisenstein_Series.pdf",
+   "original": "Katz_1976_pAdic_Interpolation_Real_Analytic_Eisenstein_Series.pdf",
+   "pages": 114,
+   "sha256": "591a3e6e73127542af9d31669fc2fc19cf6fd208c7de6a85758b812121a817f7",
+   "source": "https://web.math.princeton.edu/~nmk/old/padicinterp.pdf",
+   "record": "https://annals.math.princeton.edu/1976/104-3/p06"
+  },
+  {
+   "name": "246_Katz_1978_pAdic_L_Functions_for_CM_Fields.pdf",
+   "original": "Katz_1978_pAdic_L_Functions_for_CM_Fields.pdf",
+   "pages": 100,
+   "sha256": "3053406361983f8e53faaeed7d899b092453a0e14e19bee0afd9c2941f6cee4b",
+   "source": "https://web.math.princeton.edu/~nmk/old/padicLCM.pdf",
+   "record": "https://web.math.princeton.edu/~nmk/old/"
+  },
+  {
+   "name": "008_Andreatta-Iovita_2024_Katz_Type_pAdic_L_Nonsplit_arXiv_v3.pdf",
+   "original": "Andreatta-Iovita_2024_Katz_Type_pAdic_L_Nonsplit_arXiv_v3.pdf",
+   "pages": 57,
+   "sha256": "19d5cf03cc062f921b9b025e6f275ed4d75ca0e3c4bbf65a30a94d6d4ea97fb7",
+   "source": "https://arxiv.org/pdf/1905.00792",
+   "record": "https://arxiv.org/abs/1905.00792v3"
+  },
+  {
+   "name": "067_Boxall_1986_pAdic_Interpolation_Logarithmic_Derivatives.pdf",
+   "original": "Boxall_1986_pAdic_Interpolation_Logarithmic_Derivatives.pdf",
+   "pages": 28,
+   "sha256": "662d89cc8b0b5f9967483759d33a445fbd4277972666e6982a638926deacd39f",
+   "source": "https://www.numdam.org/item/AIF_1986__36_3_1_0.pdf",
+   "record": "https://www.numdam.org/item/AIF_1986__36_3_1_0/"
+  },
+  {
+   "name": "280_Lazard_1955_Groupes_de_Lie_Formels.pdf",
+   "original": "Lazard_1955_Groupes_de_Lie_Formels.pdf",
+   "pages": 25,
+   "sha256": "ad8c6f6cbeac9fed184ce4a11ad7034052d8321cf58eef41b4922c41bd9965e8",
+   "source": "https://www.numdam.org/item/10.24033/bsmf.1462.pdf",
+   "record": "https://doi.org/10.24033/bsmf.1462"
+  },
+  {
+   "name": "002_Adam_2020_Generalized_Hypergeometric_Expansion_Hurwitz_Zeta.pdf",
+   "original": "Adam_2020_Generalized_Hypergeometric_Expansion_Hurwitz_Zeta.pdf",
+   "pages": 32,
+   "sha256": "f7d60f3aa8cd4dfb15f35e122f62dea76570bee4c2468f49f14d278dbf662510",
+   "source": "https://arxiv.org/pdf/2009.07134",
+   "record": "https://arxiv.org/abs/2009.07134"
+  },
+  {
+   "name": "004_Alkan_2013_Harmonic_Zeta_Log_Sine_Integrals.pdf",
+   "original": "Alkan_2013_Harmonic_Zeta_Log_Sine_Integrals.pdf",
+   "pages": 36,
+   "sha256": "65c846f40e4dbec8df4cba407587b88ba21bb859fd4778a4d0795f6093ba596c",
+   "source": "https://intlpress.com/api/bgcloud-front/resource/pdf/volume/1805799893224603650-1805799893224603650-68bba1c69bbe72ba8dae7b9eeef33c68.pdf",
+   "record": "https://intlpress.com/api/bgcloud-front/resource/pdf/volume/1805799893224603650-1805799893224603650-68bba1c69bbe72ba8dae7b9eeef33c68.pdf"
+  },
+  {
+   "name": "040_Bensimhoun_2024_Asymptotic_Limit_Problems_arXiv_v2.pdf",
+   "original": "Bensimhoun_2024_Asymptotic_Limit_Problems_arXiv_v2.pdf",
+   "pages": 26,
+   "sha256": "422ce6125021e98c919725302f9120829c3aee762c23f08b64a0155aefb73e2c",
+   "source": "https://arxiv.org/pdf/2404.03513v2",
+   "record": "https://arxiv.org/abs/2404.03513v2"
+  },
+  {
+   "name": "063_Borwein-Straub_2012_Log_Sine_Evaluations_Mahler_Measures_Preprint.pdf",
+   "original": "Borwein-Straub_2012_Log_Sine_Evaluations_Mahler_Measures_Preprint.pdf",
+   "pages": 25,
+   "sha256": "473010bb0eb09e9fd2b1295206e111687c80bf8f1f132437468406840ce65f7c",
+   "source": "https://arminstraub.com/downloads/pub/logsin1.pdf",
+   "record": "https://doi.org/10.1017/S1446788712000067"
+  },
+  {
+   "name": "089_Choi-Cho-Srivastava_2009_Log_Sine_Integrals.pdf",
+   "original": "Choi-Cho-Srivastava_2009_Log_Sine_Integrals.pdf",
+   "pages": 19,
+   "sha256": "717f3631b61c33c93cf854c92db1826db9c617db74a4d9a8b02f5dba0749fa03",
+   "source": "https://journals.msp.org/mscand/article/download/582/581",
+   "record": "https://doi.org/10.7146/math.scand.a-15115"
+  },
+  {
+   "name": "146_Fuchs_2025_Fejer_Kernel_Prime_Indicators.pdf",
+   "original": "Fuchs_2025_Fejer_Kernel_Prime_Indicators.pdf",
+   "pages": 34,
+   "sha256": "23090c053006489626be57a3cc238e590403ef2458c8935386f0698e84f5d240",
+   "source": "https://arxiv.org/pdf/2506.18933",
+   "record": "https://arxiv.org/abs/2506.18933"
+  },
+  {
+   "name": "203_Hilberdink_2011_Flows_of_Mellin_Transforms.pdf",
+   "original": "Hilberdink_2011_Flows_of_Mellin_Transforms.pdf",
+   "pages": 16,
+   "sha256": "fdf84a6b4b8e77c0423bbacca96a9ce06a91af15b505d977f0f8790a34d17646",
+   "source": "https://www.numdam.org/item/JTNB_2011__23_2_455_0.pdf",
+   "record": "https://doi.org/10.5802/jtnb.771"
+  },
+  {
+   "name": "249_Kellerhals_1995_Volumes_in_Hyperbolic_5_Space_Author.pdf",
+   "original": "Kellerhals_1995_Volumes_in_Hyperbolic_5_Space_Author.pdf",
+   "pages": 28,
+   "sha256": "91678a47daa02314032ef19eb3b7961c3f3497f788e1dc06403098c0e7bee89a",
+   "source": "https://homeweb.unifr.ch/kellerha/pub/gafa.pdf",
+   "record": "https://doi.org/10.1007/BF01902056"
+  },
+  {
+   "name": "254_Koblitz_1983_pAdic_Eigen_Functions_Kubert_Distributions.pdf",
+   "original": "Koblitz_1983_pAdic_Eigen_Functions_Kubert_Distributions.pdf",
+   "pages": 13,
+   "sha256": "a054551fb889e507c25093689e73b71cf65b1951b35469d4c24f01c1c7ccaf94",
+   "source": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3D30C0F9DB6C76245C7D92DFBA091D05/S0008414X00027024a.pdf/padic_eigeneunctions_for_kubert_distributions.pdf",
+   "record": "https://doi.org/10.4153/CJM-1983-038-8"
+  },
+  {
+   "name": "274_Lagarias-Li_2016_Lerch_Zeta_IV_Hecke_Operators_arXiv_v3.pdf",
+   "original": "Lagarias-Li_2016_Lerch_Zeta_IV_Hecke_Operators_arXiv_v3.pdf",
+   "pages": 42,
+   "sha256": "38c85ba6db693d302df4d5ac7da6a6dc4793b122031859a67a078806a63a4fe1",
+   "source": "https://arxiv.org/pdf/1511.08116",
+   "record": "https://arxiv.org/abs/1511.08116v3"
+  },
+  {
+   "name": "350_Porubsky_2000_Covering_Systems_Kubert_Identities.pdf",
+   "original": "Porubsky_2000_Covering_Systems_Kubert_Identities.pdf",
+   "pages": 34,
+   "sha256": "1b628b5bd303041a63a673de6dace1a3668e393f8357981afec248b3aebb8488",
+   "source": "https://dml.cz/bitstream/handle/10338.dmlcz/136785/MathSlov_50-2000-4_3.pdf",
+   "record": "https://www.dml.cz/handle/10338.dmlcz/136785"
+  },
+  {
+   "name": "376_Shalev_2025_Log_Sine_Integrals_Apery_Like_Sums.pdf",
+   "original": "Shalev_2025_Log_Sine_Integrals_Apery_Like_Sums.pdf",
+   "pages": 19,
+   "sha256": "a81c8101aa9067a5a2ccb595076b13bd54617191bf0c26d4ba860c4b3048aaf8",
+   "source": "https://arxiv.org/pdf/2508.05770",
+   "record": "https://arxiv.org/abs/2508.05770"
+  },
+  {
+   "name": "404_Umezawa_2019_Multiple_Zeta_Values_Iterated_Log_Sine_arXiv_v1.pdf",
+   "original": "Umezawa_2019_Multiple_Zeta_Values_Iterated_Log_Sine_arXiv_v1.pdf",
+   "pages": 18,
+   "sha256": "8da2df9cb0fc15033abb7c2df0bc56a23e1e529683b5fc7163436c32693bfa34",
+   "source": "https://arxiv.org/pdf/1904.09717",
+   "record": "https://arxiv.org/abs/1904.09717v1"
+  },
+  {
+   "name": "414_Zagier_2006_The_Mellin_Transform_and_Related_Analytic_Techniques.pdf",
+   "original": "Zagier_2006_The_Mellin_Transform_and_Related_Analytic_Techniques.pdf",
+   "pages": 16,
+   "sha256": "c6b15cb06bd22d740febd77c1627701b55658edf4e9dfdc74fe7980b8696d622",
+   "source": "https://people.mpim-bonn.mpg.de/zagier/files/tex/MellinTransform/fulltext.pdf",
+   "record": "https://people.mpim-bonn.mpg.de/zagier/files/tex/MellinTransform/fulltext.pdf"
+  },
+  {
+   "name": "415_Zhang-Williams_1995_Values_Riemann_Zeta_Integrals.pdf",
+   "original": "Zhang-Williams_1995_Values_Riemann_Zeta_Integrals.pdf",
+   "pages": 23,
+   "sha256": "afb68a25f50b175fa0655bc9c2f79bcdcf6b38b2c01f86ecceeac8257d0bc4a7",
+   "source": "https://msp.org/pjm/1995/168-2/pjm-v168-n2-p04-p.pdf",
+   "record": "https://doi.org/10.2140/pjm.1995.168.271"
+  },
+  {
+   "name": "173_Gross-Zagier_1985_On_Singular_Moduli.pdf",
+   "original": "Gross-Zagier_1985_On_Singular_Moduli.pdf",
+   "pages": 31,
+   "sha256": "24c0742860b4a27c14e0db7c7e67391acebc9df54d337c72eec5f363ed92cfbf",
+   "source": "https://doi.org/10.1515/crll.1985.355.191",
+   "record": "https://doi.org/10.1515/crll.1985.355.191"
+  },
+  {
+   "name": "174_Gross-Zagier_1986_Heegner_Points_Derivatives_L_Series.pdf",
+   "original": "Gross-Zagier_1986_Heegner_Points_Derivatives_L_Series.pdf",
+   "pages": 96,
+   "sha256": "8afee839cdc0e2056c6dcbe348e39c0a6aa27344125d8c3b80dd735f2e6d9521",
+   "source": "https://doi.org/10.1007/BF01388809",
+   "record": "https://doi.org/10.1007/BF01388809"
+  }
+ ],
+ "not_incorporated": {
+  "REFERENCIAS_POSTRHERA.md / fuentes.tsv": "metadatos del zip"
+ }
+}
